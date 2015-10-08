@@ -7,7 +7,7 @@
 * 単語を最も近い漢語に意訳する
 * 一般的なカタカナ語を使用する
 * スペースは中点で表す
-* 操作は動詞、項目(Capitaliszed)は体言止め
+* 操作は動詞、項目(Capitalized)は体言止め
 * No [noun] → [noun]なし
 * スペースの形式： 未確定。基本なし
 * 大文字強調 → 「」つけ (暫定)
@@ -22,8 +22,8 @@
 | agency				| 機関
 | alarm					| 警報
 | alarm level			| 警戒レベル
-| auguments				| 強化
-| augumentations		| 拡張機能
+| augments				| 強化
+| augmentations		| 拡張機能
 | armor					| 装甲
 | ballistic armor		| 防弾装甲
 | blunt trauma armor	| 防刃装甲
