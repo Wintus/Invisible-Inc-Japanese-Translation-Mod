@@ -1,0 +1,3 @@
+locale = Japanese
+poFile = Japanese.po
+id = Japanese

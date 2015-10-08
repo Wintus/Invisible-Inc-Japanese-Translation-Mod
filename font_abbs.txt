@@ -1,0 +1,6 @@
+b: bold
+i: italic
+l:light
+m: medium
+r: regular
+sb: subhead?
