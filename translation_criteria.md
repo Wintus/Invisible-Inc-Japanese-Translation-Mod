@@ -20,16 +20,18 @@
 ##訳語一覧
 | English				| 日本語				|
 |:---					|:---				|
+| active / inactive			| アクティブ・非アクティブ
 | advanced				| 高度な、発展型
 | agency				| 機関
 | alarm					| 警報
 | alarm level			| 警戒レベル
-| augments				| 強化
-| augmentations		| 拡張機能
 | armor					| 装甲
+| augmentations		| 拡張機能
+| augments				| 強化
 | ballistic armor		| 防弾装甲
 | blunt trauma armor	| 防刃装甲
 | body					| 肢体
+| boost					| ブースト
 | buff / debuff				| 強化・弱体化
 | control				| 制御
 | corpse				| 死体
@@ -39,6 +41,7 @@
 | detonate				| 炸裂する
 | dispatch				| 急送
 | disrupter				| スタンガン
+| distract				| 気を逸らす
 | distraction noise			| 妨害ノイズ
 | drag					| 牽引する
 | encumbered			| 速度低下した
@@ -50,7 +53,7 @@
 | intelligence agency	| 諜報機関
 | Invisible, Inc.		| インビジブル社
 | metric(s)				| (成績)指標
-| MIA					| 殉職
+| MIA					| 交戦中行方不明
 | modded				| 改造
 | movement				| 行動値
 | neural disrupter		| 神経撹乱―器/スタンガン
@@ -67,3 +70,4 @@
 
 ##フレーズ集
 * [機能]は[人物]に[能力]を可能にする。
+* at the cost of … → …という代償を払って
