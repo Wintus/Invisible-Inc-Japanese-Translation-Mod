@@ -76,7 +76,7 @@ msgstr "キーを入力してコードのコンパイルを始める。コンパ
 #: STRINGS.ABILITIES.DEACTIVATE_LOCK
 msgctxt "STRINGS.ABILITIES.DEACTIVATE_LOCK"
 msgid "Deactivate lock"
-msgstr "ロックを無効化する"
+msgstr "ロックを非アクティブ化する"
 
 #: STRINGS.ABILITIES.DEACTIVATE_LOCK_DESC
 msgctxt "STRINGS.ABILITIES.DEACTIVATE_LOCK_DESC"
@@ -246,7 +246,7 @@ msgstr "強化をインストール"
 #: STRINGS.ABILITIES.INSTALL_AUGMENT_DESC
 msgctxt "STRINGS.ABILITIES.INSTALL_AUGMENT_DESC"
 msgid "Permanently install this into an Augment Slot"
-msgstr "これを強化枠に永久にインストールする"
+msgstr "これを強化スロットに永久にインストールする"
 
 #: STRINGS.ABILITIES.INSTALL_INCOGNITA
 msgctxt "STRINGS.ABILITIES.INSTALL_INCOGNITA"
@@ -596,7 +596,7 @@ msgstr "このオブジェクトは投げられる。"
 #: STRINGS.ABILITIES.TOOLTIPS.AUGMENT_ALREADY_INSTALLED
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.AUGMENT_ALREADY_INSTALLED"
 msgid "This augment is already installed."
-msgstr "この強化はすでにインストール済みだ。"
+msgstr "この強化はすでにインストール済み。"
 
 #: STRINGS.ABILITIES.TOOLTIPS.BREAKS_FIREWALLS
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.BREAKS_FIREWALLS"
@@ -621,7 +621,7 @@ msgstr "強化ではない"
 #: STRINGS.ABILITIES.TOOLTIPS.NO_AUGMENT_SLOTS_AVAILABLE
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.NO_AUGMENT_SLOTS_AVAILABLE"
 msgid "No available augment slots."
-msgstr "利用できる強化枠がない。"
+msgstr "利用できる強化スロットがない。"
 
 #: STRINGS.ABILITIES.TOOLTIPS.SCAN
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.SCAN"
@@ -3731,7 +3731,7 @@ msgstr "クレジットを吸い上げる。"
 #: STRINGS.DAEMONS.FELIX_NEW.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.FELIX_NEW.ACTIVE_DESC"
 msgid "Firewalls on safes are increased x{1}.\nCredits are increased by 10%"
-msgstr "金庫のファイヤーウォールが×{1}倍増える。\n中身のクレジットが10%増える。"
+msgstr "金庫のファイヤーウォールが{1}倍増える。\n中身のクレジットが10%増える。"
 
 #: STRINGS.DAEMONS.FELIX_NEW.ALERT
 msgctxt "STRINGS.DAEMONS.FELIX_NEW.ALERT"
@@ -4776,7 +4776,7 @@ msgstr "脳と機械の完全な協調のおかげで、アレックスは\n肉�
 #: STRINGS.ITEMS.AUGMENTS.SHARP_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHARP_1_TOOLTIP"
 msgid "Start with 6 augment slots.\nEach 3 augments installed gives melee weapons +1 KO damage."
-msgstr "はじめから６つの強化枠を使える。\n３つの強化をインストールするごとに格闘武器のKOダメージが１増加する。"
+msgstr "はじめから６つの強化スロットを使える。\n３つの強化をインストールするごとに格闘武器のKOダメージが１増加する。"
 
 #: STRINGS.ITEMS.AUGMENTS.SHARP_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHARP_2"
@@ -4791,7 +4791,7 @@ msgstr ""
 #: STRINGS.ITEMS.AUGMENTS.SHARP_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHARP_2_TOOLTIP"
 msgid "Start with 6 augment slots.\nEach 3 augments installed gives melee weapons +1 ARMOR PIERCING. Agent's AP is reduced by 1"
-msgstr "はじめから６つの強化枠を使える。\n３つの強化をインストールするごとに格闘武器の装甲貫通が１増加する。エージェントのAPが１減少する。"
+msgstr "はじめから６つの強化スロットを使える。\n３つの強化をインストールするごとに格闘武器の装甲貫通が１増加する。エージェントのAPが１減少する。"
 
 #: STRINGS.ITEMS.AUGMENTS.SKELETAL_SUSPENSION
 msgctxt "STRINGS.ITEMS.AUGMENTS.SKELETAL_SUSPENSION"
@@ -6171,12 +6171,12 @@ msgstr "装甲一枚ごとに%dパワー消費"
 #: STRINGS.ITEMS.TOOLTIPS.CANTAG
 msgctxt "STRINGS.ITEMS.TOOLTIPS.CANTAG"
 msgid "Tags a target"
-msgstr "対象をタグ付け"
+msgstr "対象をタグ付ける"
 
 #: STRINGS.ITEMS.TOOLTIPS.CANTAG_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.CANTAG_DESC"
 msgid "Tagged targets reveal their patrol paths"
-msgstr "タグ付け対象の巡回経路が判明する"
+msgstr "タグ付き対象の巡回経路が判明する"
 
 #: STRINGS.ITEMS.TOOLTIPS.COSTPOWER
 msgctxt "STRINGS.ITEMS.TOOLTIPS.COSTPOWER"
@@ -6211,7 +6211,7 @@ msgstr "このアイテムは一度だけ使用できる。"
 #: STRINGS.ITEMS.TOOLTIPS.DRAINPOWER
 msgctxt "STRINGS.ITEMS.TOOLTIPS.DRAINPOWER"
 msgid "PWR Drain"
-msgstr "パワー吸収"
+msgstr "パワー・ドレイン"
 
 #: STRINGS.ITEMS.TOOLTIPS.DRAINPOWER_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.DRAINPOWER_DESC"
@@ -6226,7 +6226,7 @@ msgstr "EMP抵抗"
 #: STRINGS.ITEMS.TOOLTIPS.EMP_SAFE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.EMP_SAFE_DESC"
 msgid "These safes require an electronic signal to open. They do not function while deactivated."
-msgstr ""
+msgstr "これらの金庫は開くのに電子信号を必要とする。"
 
 #: STRINGS.ITEMS.TOOLTIPS.IGNORES_ARMOR
 msgctxt "STRINGS.ITEMS.TOOLTIPS.IGNORES_ARMOR"
@@ -6236,7 +6236,7 @@ msgstr "装甲無視"
 #: STRINGS.ITEMS.TOOLTIPS.IGNORES_ARMOR_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.IGNORES_ARMOR_DESC"
 msgid "A targets armor level does not matter to this weapon."
-msgstr ""
+msgstr "この武器は対象の装甲を無視する。"
 
 #: STRINGS.ITEMS.TOOLTIPS.INSTALL
 msgctxt "STRINGS.ITEMS.TOOLTIPS.INSTALL"
@@ -6246,7 +6246,7 @@ msgstr "インストール"
 #: STRINGS.ITEMS.TOOLTIPS.INSTALL_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.INSTALL_DESC"
 msgid "This device must be INSTALLED to function."
-msgstr ""
+msgstr "このデバイスはインストールされねば機能しない。"
 
 #: STRINGS.ITEMS.TOOLTIPS.KO_DAMAGE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.KO_DAMAGE"
@@ -10066,12 +10066,12 @@ msgstr "<c:FF8411>デーモン</c>破壊。コスト：<c:77FF77>{1}パワー</c
 #: STRINGS.PROGRAMS.LEASH.DESC
 msgctxt "STRINGS.PROGRAMS.LEASH.DESC"
 msgid "Control drones for an extra turn.\nPASSIVE."
-msgstr "ドローンの支配が１ターン延長する。\nパッシブ。"
+msgstr "ドローンの操縦が１ターン延長する。\nパッシブ。"
 
 #: STRINGS.PROGRAMS.LEASH.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.LEASH.HUD_DESC"
 msgid "CONTROL DRONES FOR +1 TURN"
-msgstr "ドローン支配+1ターン"
+msgstr "ドローン操縦+1ターン"
 
 #: STRINGS.PROGRAMS.LEASH.NAME
 msgctxt "STRINGS.PROGRAMS.LEASH.NAME"
@@ -10081,7 +10081,7 @@ msgstr "手綱"
 #: STRINGS.PROGRAMS.LEASH.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.LEASH.SHORT_DESC"
 msgid "EXTEND DRONE CONTROL"
-msgstr "ドローン支配延長"
+msgstr "ドローン操縦延長"
 
 #: STRINGS.PROGRAMS.LEASH.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.LEASH.TIP_DESC"
@@ -11571,7 +11571,7 @@ msgstr "体"
 #: STRINGS.SCREENS.STR_1118044433
 msgctxt "STRINGS.SCREENS.STR_1118044433"
 msgid "AUGMENT SOCKETS"
-msgstr "強化枠"
+msgstr "強化ソケット"
 
 #: STRINGS.SCREENS.STR_1128887990
 msgctxt "STRINGS.SCREENS.STR_1128887990"
@@ -11736,7 +11736,7 @@ msgstr "目標"
 #: STRINGS.SCREENS.STR_1677005573
 msgctxt "STRINGS.SCREENS.STR_1677005573"
 msgid "Hijack consoles to acquire POWER.  Use POWER to run programs in the MAINFRAME."
-msgstr "コンソールを乗っ取って「パワー」を入手する。\nパワーはメインフレーム上でプログラムを動かすのに使う。"
+msgstr "コンソールを乗っ取って「パワー」を取得する。\nパワーはメインフレーム上でプログラムを動かすのに使う。"
 
 #: STRINGS.SCREENS.STR_1691431868
 msgctxt "STRINGS.SCREENS.STR_1691431868"
@@ -11831,7 +11831,7 @@ msgstr "エージェント　ホサ　ＡＩ　コウセイ"
 #: STRINGS.SCREENS.STR_1933049801
 msgctxt "STRINGS.SCREENS.STR_1933049801"
 msgid "Acquire and install new programs in the field"
-msgstr "現場で新しいプログラムを入手してインストールする"
+msgstr "現場で新しいプログラムを取得してインストールする"
 
 #: STRINGS.SCREENS.STR_194569200
 msgctxt "STRINGS.SCREENS.STR_194569200"
@@ -12206,7 +12206,7 @@ msgstr "再起動中"
 #: STRINGS.SCREENS.STR_2928263650
 msgctxt "STRINGS.SCREENS.STR_2928263650"
 msgid "[ CLICK ] or press [ ENTER ] to continue"
-msgstr "[クリック]か[エンターキー]で続ける"
+msgstr "[クリック]か[エンター]で続ける"
 
 #: STRINGS.SCREENS.STR_2932151109
 msgctxt "STRINGS.SCREENS.STR_2932151109"
@@ -12616,7 +12616,7 @@ msgstr "目標"
 #: STRINGS.SCREENS.STR_4025920717
 msgctxt "STRINGS.SCREENS.STR_4025920717"
 msgid "EMPTY PROGRAM SLOT"
-msgstr "空のプログラム枠"
+msgstr "空のプログラム用スロット"
 
 #: STRINGS.SCREENS.STR_4057752493
 msgctxt "STRINGS.SCREENS.STR_4057752493"
@@ -13981,7 +13981,7 @@ msgstr "カスタム"
 #: STRINGS.UI.CUSTOM_SHORT_DESC
 msgctxt "STRINGS.UI.CUSTOM_SHORT_DESC"
 msgid "Your rules, your way."
-msgstr ""
+msgstr "我が道を行く。"
 
 #: STRINGS.UI.DIALOGS.AGENT_RESCUED
 msgctxt "STRINGS.UI.DIALOGS.AGENT_RESCUED"
@@ -13996,12 +13996,12 @@ msgstr "%sをインストール"
 #: STRINGS.UI.DIALOGS.AUGMENT_MACHINE_BODY_2
 msgctxt "STRINGS.UI.DIALOGS.AUGMENT_MACHINE_BODY_2"
 msgid "<c:F4FF78>Install the %s</c> augment design. This function requires an open Augment Socket on the patient in order to be successful."
-msgstr ""
+msgstr "強化設計<c:F4FF78>%sをインストール</c>する。この機能は導入が成功するために被験者に空き強化ソケットを必要とする。"
 
 #: STRINGS.UI.DIALOGS.AUGMENT_MACHINE_MAXED
 msgctxt "STRINGS.UI.DIALOGS.AUGMENT_MACHINE_MAXED"
 msgid "This agent has reached it's augment slot capacity and cannot install additional slots."
-msgstr ""
+msgstr "このエージェントは強化スロットの制限に達したため、これ以上追加スロットをインストールできない。"
 
 #: STRINGS.UI.DIALOGS.INVENTORY_ON_FLOOR
 msgctxt "STRINGS.UI.DIALOGS.INVENTORY_ON_FLOOR"
@@ -15896,7 +15896,7 @@ msgstr "セキュリティー：{1}"
 #: STRINGS.UI.MIA
 msgctxt "STRINGS.UI.MIA"
 msgid "MIA"
-msgstr "殉職"
+msgstr "交戦中行方不明"
 
 #: STRINGS.UI.MISSIONS_COMPLETED
 msgctxt "STRINGS.UI.MISSIONS_COMPLETED"
@@ -16326,7 +16326,7 @@ msgstr "< 戻る"
 #: STRINGS.UI.PROGRAMS_ACQUIRED
 msgctxt "STRINGS.UI.PROGRAMS_ACQUIRED"
 msgid "PROGRAMS ACQUIRED"
-msgstr "獲得プログラム"
+msgstr "取得プログラム"
 
 #: STRINGS.UI.PROGRAMS_EARNED
 msgctxt "STRINGS.UI.PROGRAMS_EARNED"
@@ -16336,7 +16336,7 @@ msgstr "獲得プログラム"
 #: STRINGS.UI.PUTTING_AUGMENT_IN_INVENTORY
 msgctxt "STRINGS.UI.PUTTING_AUGMENT_IN_INVENTORY"
 msgid "No augment slots available. Placing augment in inventory."
-msgstr ""
+msgstr "利用できる強化スロットがない。強化機能はインベントリに戻される。"
 
 #: STRINGS.UI.QUIT
 msgctxt "STRINGS.UI.QUIT"
@@ -16536,7 +16536,7 @@ msgstr "インベントリ満タン"
 #: STRINGS.UI.REASON.MACHINE_INACTIVE
 msgctxt "STRINGS.UI.REASON.MACHINE_INACTIVE"
 msgid "This machine is inactive"
-msgstr "このマシンは無効"
+msgstr "このマシンは非アクティブ"
 
 #: STRINGS.UI.REASON.MACHINE_USED
 msgctxt "STRINGS.UI.REASON.MACHINE_USED"
@@ -16841,7 +16841,7 @@ msgstr "エージェント放棄"
 #: STRINGS.UI.RETIRE_AGENCY_CONFIRM
 msgctxt "STRINGS.UI.RETIRE_AGENCY_CONFIRM"
 msgid "Are you SURE you want to retire your agency? This will cash in your earned experience."
-msgstr ""
+msgstr "本当に機関を放棄しますか？獲得経験値が失われます。"
 
 #: STRINGS.UI.REWIND
 msgctxt "STRINGS.UI.REWIND"
@@ -16891,7 +16891,7 @@ msgstr "{2}日目 / {4}時間"
 #: STRINGS.UI.SAVESLOTS.DELETE_AREYOUSURE
 msgctxt "STRINGS.UI.SAVESLOTS.DELETE_AREYOUSURE"
 msgid "If you complete the game or retire the agency, you will earn experience that unlocks new agents and programs. If you delete this save, you will lose the experience gained.\n\nAre you sure you want to delete this save slot?"
-msgstr ""
+msgstr "ゲームクリアかゲームオーバーになると、経験値を稼いで新しいエージェントとプログラムが解放される。もしこのセーブデータを削除すると、獲得経験値は失われる。\n\n本当にこのセーブデータを消しますか？"
 
 #: STRINGS.UI.SAVESLOTS.DELETE_SAVE
 msgctxt "STRINGS.UI.SAVESLOTS.DELETE_SAVE"
@@ -17241,7 +17241,7 @@ msgstr "異常を調査中"
 #: STRINGS.UI.TIME_ATTACK_DESC
 msgctxt "STRINGS.UI.TIME_ATTACK_DESC"
 msgid "We're evening the playing field, and you only have 2 minutes to complete every turn. Are you able to act fast enough, or will the corporations get you first?"
-msgstr ""
+msgstr "ステージの大きさが半分になり、ターンの制限時間が２分になります。十分に速く動けるでしょうか、それとも企業が先に制するでしょうか？"
 
 #: STRINGS.UI.TIME_ATTACK_DIFFICULTY
 msgctxt "STRINGS.UI.TIME_ATTACK_DIFFICULTY"
@@ -17271,7 +17271,7 @@ msgstr "サイバー断末魔"
 #: STRINGS.UI.TOOLTIPS.AOE_FIREWALL_BUFF_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.AOE_FIREWALL_BUFF_DESC"
 msgid "Each time this unit is KOed or Alerted mainframe devices within {1} tiles get +{2} Firewalls"
-msgstr ""
+msgstr "このユニットがKOされるたびに{1}タイル以内のメインフレーム・デバイスのファイヤーウォール+{2}"
 
 #: STRINGS.UI.TOOLTIPS.BARRIER
 msgctxt "STRINGS.UI.TOOLTIPS.BARRIER"
@@ -17281,7 +17281,7 @@ msgstr "バリア"
 #: STRINGS.UI.TOOLTIPS.BARRIER_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.BARRIER_DESC"
 msgid "This unit has ARMOR equal to its mainframe FIREWALLS."
-msgstr ""
+msgstr "このユニットの装甲値はそのメインフレーム・ファイヤーウォールと同等になる。"
 
 #: STRINGS.UI.TOOLTIPS.CONTROLLABLE
 msgctxt "STRINGS.UI.TOOLTIPS.CONTROLLABLE"
@@ -17291,7 +17291,7 @@ msgstr "操縦可能"
 #: STRINGS.UI.TOOLTIPS.CONTROLLABLE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.CONTROLLABLE_DESC"
 msgid "Hack this unit in the MAINFRAME to gain temporary control."
-msgstr ""
+msgstr "このユニットはメインフレーム内でハッキングすることで一時的に操縦できる。"
 
 #: STRINGS.UI.TOOLTIPS.COUNTER_HACK
 msgctxt "STRINGS.UI.TOOLTIPS.COUNTER_HACK"
@@ -17301,7 +17301,7 @@ msgstr "ハッカー"
 #: STRINGS.UI.TOOLTIPS.COUNTER_HACK_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.COUNTER_HACK_DESC"
 msgid "Recaptures 1 mainframe device per turn in a range of {1} tiles"
-msgstr ""
+msgstr "毎ターン{1}タイル以内の１メインフレーム・デバイスを奪還する"
 
 #: STRINGS.UI.TOOLTIPS.CURRENTLY_EQUIPPED
 msgctxt "STRINGS.UI.TOOLTIPS.CURRENTLY_EQUIPPED"
@@ -17316,12 +17316,12 @@ msgstr "局所スキャナー"
 #: STRINGS.UI.TOOLTIPS.DRONE_SCAN_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.DRONE_SCAN_DESC"
 msgid "Drones investigate with a short range scanner that will locate targets even behind cover."
-msgstr ""
+msgstr "ドローンは短距離スキャナーを使って調査することで遮蔽物の背後の対象も見つけられる。"
 
 #: STRINGS.UI.TOOLTIPS.EMPTY_PROGRAM_SLOT
 msgctxt "STRINGS.UI.TOOLTIPS.EMPTY_PROGRAM_SLOT"
 msgid "<c:F4FF78>EMPTY PROGRAM SLOT</>\nAcquire new programs for empty program slots."
-msgstr ""
+msgstr "<c:F4FF78>空のプログラム用スロット</>\n新しいプログラムを取得せよ。"
 
 #: STRINGS.UI.TOOLTIPS.EMPTY_SLOT
 msgctxt "STRINGS.UI.TOOLTIPS.EMPTY_SLOT"
@@ -17331,17 +17331,17 @@ msgstr "空スロット"
 #: STRINGS.UI.TOOLTIPS.EMP_VULNERABLE
 msgctxt "STRINGS.UI.TOOLTIPS.EMP_VULNERABLE"
 msgid "EMP VULNERABLE"
-msgstr "EMP_脆弱性"
+msgstr "EMP脆弱性"
 
 #: STRINGS.UI.TOOLTIPS.EMP_VULNERABLE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.EMP_VULNERABLE_DESC"
 msgid "EMP effects destroy this unit's delicate electronics permanently."
-msgstr ""
+msgstr "EMPはこのユニットの脆弱な電子機器を永久に破壊する。"
 
 #: STRINGS.UI.TOOLTIPS.ENCUMBERED
 msgctxt "STRINGS.UI.TOOLTIPS.ENCUMBERED"
 msgid "<c:A30000>ENCUMBERED\n-{1} AP</>"
-msgstr "<c:A30000>速度低下\n-{1}AP</>"
+msgstr "<c:A30000>速度低下\nAP-{1}</>"
 
 #: STRINGS.UI.TOOLTIPS.EQUIPPED
 msgctxt "STRINGS.UI.TOOLTIPS.EQUIPPED"
@@ -17356,27 +17356,27 @@ msgstr "ファイヤーウォール：%d"
 #: STRINGS.UI.TOOLTIPS.FIREWALLS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.FIREWALLS_DESC"
 msgid "Use INCOGNITA PROGRAMS to break."
-msgstr ""
+msgstr "インコグニータのプログラムを使用して破壊する。"
 
 #: STRINGS.UI.TOOLTIPS.FOCUSED_AI
 msgctxt "STRINGS.UI.TOOLTIPS.FOCUSED_AI"
 msgid "FOCUSED AI"
-msgstr ""
+msgstr "集中AI"
 
 #: STRINGS.UI.TOOLTIPS.FOCUSED_AI_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.FOCUSED_AI_DESC"
 msgid "This unit will not be distracted from it's patrols or hunts."
-msgstr ""
+msgstr "このユニットは巡回は追跡から気を逸らされない。"
 
 #: STRINGS.UI.TOOLTIPS.GRENADE_GUARD
 msgctxt "STRINGS.UI.TOOLTIPS.GRENADE_GUARD"
 msgid "SUPPORT GUARD"
-msgstr ""
+msgstr "補助警備員"
 
 #: STRINGS.UI.TOOLTIPS.GRENADE_GUARD_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.GRENADE_GUARD_DESC"
 msgid "This unit clears rooms with flash grenades."
-msgstr ""
+msgstr "このユニットは部屋を閃光手榴弾でクリアリングする。"
 
 #: STRINGS.UI.TOOLTIPS.HACK
 msgctxt "STRINGS.UI.TOOLTIPS.HACK"
@@ -17386,7 +17386,7 @@ msgstr "ハッキング"
 #: STRINGS.UI.TOOLTIPS.HACK_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.HACK_DESC"
 msgid "Hack in mainframe mode to earn credits. Refreshes every turn."
-msgstr ""
+msgstr "メインフレーム・モードでハックしてクレジットを稼ぐ。毎ターン使用できる。"
 
 #: STRINGS.UI.TOOLTIPS.HEART_MONITOR
 msgctxt "STRINGS.UI.TOOLTIPS.HEART_MONITOR"
@@ -17396,7 +17396,7 @@ msgstr "心拍計"
 #: STRINGS.UI.TOOLTIPS.HEART_MONITOR_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.HEART_MONITOR_DESC"
 msgid "The alarm is increased if this unit dies."
-msgstr ""
+msgstr "このユニットが死ぬと警報が上昇する。"
 
 #: STRINGS.UI.TOOLTIPS.HEAVY_ARMOR
 msgctxt "STRINGS.UI.TOOLTIPS.HEAVY_ARMOR"
@@ -17406,17 +17406,17 @@ msgstr "重装甲 %d"
 #: STRINGS.UI.TOOLTIPS.HEAVY_ARMOR_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.HEAVY_ARMOR_DESC"
 msgid "Requires Armor Piercing weapons."
-msgstr ""
+msgstr "装甲貫通武器が必要。"
 
 #: STRINGS.UI.TOOLTIPS.KO_ARMOR_BUFF
 msgctxt "STRINGS.UI.TOOLTIPS.KO_ARMOR_BUFF"
 msgid "ADAPTIVE HARDENING"
-msgstr ""
+msgstr "適応硬化"
 
 #: STRINGS.UI.TOOLTIPS.KO_ARMOR_BUFF_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.KO_ARMOR_BUFF_DESC"
 msgid "Each time this unit is KOed or alerted its ARMOR increases by {1}."
-msgstr ""
+msgstr "このユニットがKOされるか警戒するごとに装甲値が{1}上昇する。"
 
 #: STRINGS.UI.TOOLTIPS.KO_DEAMON
 msgctxt "STRINGS.UI.TOOLTIPS.KO_DEAMON"
@@ -17436,32 +17436,32 @@ msgstr "KO耐性"
 #: STRINGS.UI.TOOLTIPS.KO_IMMUNE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.KO_IMMUNE_DESC"
 msgid "KO damage has no effect."
-msgstr ""
+msgstr "KOダメージは効果がない。"
 
 #: STRINGS.UI.TOOLTIPS.KO_RESISTANT
 msgctxt "STRINGS.UI.TOOLTIPS.KO_RESISTANT"
 msgid "KO RESISTANT %d"
-msgstr ""
+msgstr "KO抵抗性 %d"
 
 #: STRINGS.UI.TOOLTIPS.KO_RESISTANT_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.KO_RESISTANT_DESC"
 msgid "Reduces KO time"
-msgstr ""
+msgstr "KO時間減少"
 
 #: STRINGS.UI.TOOLTIPS.LOOT_TOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.LOOT_TOOLTIP"
 msgid "<ttbody><ttheader2>LOOT {1} CR</>\nLoot credits</>"
-msgstr ""
+msgstr "<ttbody><ttheader2>{1}クレジット略奪</>\nクレジットを略奪する</>"
 
 #: STRINGS.UI.TOOLTIPS.MAGNETIC_REINFOREMENTS
 msgctxt "STRINGS.UI.TOOLTIPS.MAGNETIC_REINFOREMENTS"
 msgid "MAGNETIC REINFORCEMENTS"
-msgstr ""
+msgstr "磁力強化"
 
 #: STRINGS.UI.TOOLTIPS.MAGNETIC_REINFOREMENTS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.MAGNETIC_REINFOREMENTS_DESC"
 msgid "If this device has more than 2 FIREWALLS, EMP's break 2 FIREWALLS instead of disabling it."
-msgstr ""
+msgstr "このデバイスに２ファイヤーウォール以上あれば、EMPはこれを無効化する代わりに２ファイヤーウォールを破壊する。"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_ACTIVE
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_ACTIVE"
@@ -17476,7 +17476,7 @@ msgstr "デーモン・プログラム"
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_GRID
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_GRID"
 msgid "%s GRID"
-msgstr "%s グリッド"
+msgstr "%s_グリッド"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_HACK_UNIT
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_HACK_UNIT"
@@ -17496,7 +17496,7 @@ msgstr "非アクティブ"
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_LINKED_TO_POWER_GRID
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_LINKED_TO_POWER_GRID"
 msgid "This device is linked to power grid [%s]."
-msgstr ""
+msgstr "このデバイスは[%s]パワーグリッドにリンクしている。"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_MASKED
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_MASKED"
@@ -17531,7 +17531,7 @@ msgstr "再起動中…"
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_TARGET_UNIT
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_TARGET_UNIT"
 msgid "TARGET {1}"
-msgstr "対象 {1}"
+msgstr "対象_{1}"
 
 #: STRINGS.UI.TOOLTIPS.NEURAL_SCANNED
 msgctxt "STRINGS.UI.TOOLTIPS.NEURAL_SCANNED"
@@ -17571,32 +17571,32 @@ msgstr "ヌル・ゾーン"
 #: STRINGS.UI.TOOLTIPS.NULL_ZONE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.NULL_ZONE_DESC"
 msgid "This drone emits a field which blocks hacking of firewalls in a range of {1} {1:tile|tiles}."
-msgstr ""
+msgstr "このドローンは、{1}タイル以内のファイヤーウォールへのハッキングを防ぐフィールドを放出している。"
 
 #: STRINGS.UI.TOOLTIPS.PERIPHERAL_BOOST
 msgctxt "STRINGS.UI.TOOLTIPS.PERIPHERAL_BOOST"
 msgid "PERIPHERAL BOOST"
-msgstr ""
+msgstr "周辺視野ブースト"
 
 #: STRINGS.UI.TOOLTIPS.PERIPHERAL_BOOST_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.PERIPHERAL_BOOST_DESC"
 msgid "180 degree Line of Sight"
-msgstr ""
+msgstr "180度の視界"
 
 #: STRINGS.UI.TOOLTIPS.PICK_UP_CONDITION_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.PICK_UP_CONDITION_DESC"
 msgid "<c:A30000>Can only be carried by {1}</>"
-msgstr ""
+msgstr "<c:A30000>{1}でのみ運べる</>"
 
 #: STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS
 msgctxt "STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS"
 msgid "PROTECTIVE SHIELDS %d"
-msgstr ""
+msgstr "保護シールド %d"
 
 #: STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS_DESC"
 msgid "Blocks shots against this target. Shields reduced by 1 for each shot taken."
-msgstr ""
+msgstr "この対象への射撃を防ぐ。シールドは射撃ごとに１減少する。"
 
 #: STRINGS.UI.TOOLTIPS.PULSE_SCANNER
 msgctxt "STRINGS.UI.TOOLTIPS.PULSE_SCANNER"
@@ -17606,7 +17606,7 @@ msgstr "パルス・スキャナー"
 #: STRINGS.UI.TOOLTIPS.PULSE_SCANNER_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.PULSE_SCANNER_DESC"
 msgid "Activated at the beginning of a turn. Targets located in or out of cover are relayed to nearby security. Range: {1}"
-msgstr ""
+msgstr "ターン開始時にアクティブ化。遮蔽内外の対象の位置は近くの警備へと伝達される。範囲：{1}"
 
 #: STRINGS.UI.TOOLTIPS.PWR_STEAL
 msgctxt "STRINGS.UI.TOOLTIPS.PWR_STEAL"
@@ -17621,22 +17621,22 @@ msgstr "{1}クレジット相当"
 #: STRINGS.UI.TOOLTIPS.SEARCHED
 msgctxt "STRINGS.UI.TOOLTIPS.SEARCHED"
 msgid "SEARCHED"
-msgstr "捜索済み"
+msgstr "検査済み"
 
 #: STRINGS.UI.TOOLTIPS.SEARCHED_ADVANCED
 msgctxt "STRINGS.UI.TOOLTIPS.SEARCHED_ADVANCED"
 msgid "EXPERTLY SEARCHED"
-msgstr "専門的に捜索済み"
+msgstr "専門的に検査済み"
 
 #: STRINGS.UI.TOOLTIPS.SEARCHED_ADVANCED_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.SEARCHED_ADVANCED_DESC"
 msgid "This unit has been searched by an expert."
-msgstr "このユニットは専門家に捜索されている。"
+msgstr "このユニットは専門家に検査されている。"
 
 #: STRINGS.UI.TOOLTIPS.SEARCHED_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.SEARCHED_DESC"
 msgid "This unit has been searched."
-msgstr "このユニットは捜索されている。"
+msgstr "このユニットは検査されている。"
 
 #: STRINGS.UI.TOOLTIPS.SHOP
 msgctxt "STRINGS.UI.TOOLTIPS.SHOP"
@@ -17661,22 +17661,22 @@ msgstr "盗む"
 #: STRINGS.UI.TOOLTIPS.STEAL_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.STEAL_DESC"
 msgid "Steal credits from logged in accounts at the cost of raising the alarm."
-msgstr ""
+msgstr "警報を上げる代償に、ログイン済みのアカウントからクレジットを盗む。"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR"
 msgid "\n\nThis program does not require PWR"
-msgstr ""
+msgstr "\n\nこのプログラムはパワーを必要としない"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR"
 msgid "\n\nThis program uses {1} PWR for each use."
-msgstr ""
+msgstr "\n\nこのプログラムは毎回{1}パワー使用する。"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR_DESC"
 msgid "<c:F4FF78>PWR USE</>\nSome programs require PWR from the Agency to operate."
-msgstr ""
+msgstr "<c:F4FF78>使用パワー</>\nいくつかのプログラムは機関が操作するのにパワーを必要とする。"
 
 #: STRINGS.UI.TOOLTIPS.UPGRADE_INVENTORY
 msgctxt "STRINGS.UI.TOOLTIPS.UPGRADE_INVENTORY"
@@ -17831,17 +17831,17 @@ msgstr "無制限攻撃"
 #: STRINGS.UI.TOOLTIP_UNLIMITED_ATTACKS_DESC
 msgctxt "STRINGS.UI.TOOLTIP_UNLIMITED_ATTACKS_DESC"
 msgid "This agents has unlimted attacks."
-msgstr ""
+msgstr "このエージェントは無制限の攻撃を持つ。"
 
 #: STRINGS.UI.TOTAL_CREDITS
 msgctxt "STRINGS.UI.TOTAL_CREDITS"
 msgid "NEW CREDIT TOTAL"
-msgstr "新しい総クレジット"
+msgstr "新しい合計クレジット"
 
 #: STRINGS.UI.TOTAL_XP
 msgctxt "STRINGS.UI.TOTAL_XP"
 msgid "TOTAL EXPERIENCE EARNED"
-msgstr "総獲得経験値"
+msgstr "合計獲得経験値"
 
 #: STRINGS.UI.TRACKED
 msgctxt "STRINGS.UI.TRACKED"
@@ -17856,7 +17856,7 @@ msgstr "敵はエージェントの動きを追尾する。"
 #: STRINGS.UI.TURN
 msgctxt "STRINGS.UI.TURN"
 msgid "TURN %d"
-msgstr "ターン%d"
+msgstr "ターン %d"
 
 #: STRINGS.UI.TUTORIAL_DIFFICULTY
 msgctxt "STRINGS.UI.TUTORIAL_DIFFICULTY"
@@ -17876,7 +17876,7 @@ msgstr "> エージェントをアップグレード"
 #: STRINGS.UI.UPGRADE_SCREEN_AUGMENT_CONFIRM
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_AUGMENT_CONFIRM"
 msgid "Are you SURE you want to install {1}?"
-msgstr "「本当に」{1}をインストールしますか？"
+msgstr "本当に{1}をインストールしますか？"
 
 #: STRINGS.UI.UPGRADE_SCREEN_AVAILABLE_CREDITS
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_AVAILABLE_CREDITS"
@@ -17886,7 +17886,7 @@ msgstr "%dクレジット"
 #: STRINGS.UI.UPGRADE_SCREEN_CONFIRM
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_CONFIRM"
 msgid "Apply your Agent upgrades?"
-msgstr ""
+msgstr "エージェントにアップグレードを適用しますか？"
 
 #: STRINGS.UI.UPGRADE_SCREEN_CONFIRM_BUY
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_CONFIRM_BUY"
@@ -17916,7 +17916,7 @@ msgstr "{1}をアップグレード"
 #: STRINGS.UI.VERY_HARD_DESC
 msgctxt "STRINGS.UI.VERY_HARD_DESC"
 msgid "We hide the danger zones if you can't see the sources. In addition, the alarm increases when knocking out guards, and you start with less PWR."
-msgstr ""
+msgstr "本体を視認しない限り危険地帯は隠される。それに加え、警備員をノックアウトした時に警報が上昇し、少ないパワーで開始する。"
 
 #: STRINGS.UI.VERY_HARD_DIFFICULTY
 msgctxt "STRINGS.UI.VERY_HARD_DIFFICULTY"
@@ -17946,7 +17946,7 @@ msgstr "警告\n覚醒状態モニター"
 #: STRINGS.UI.WARNING_MAX_AGENTS
 msgctxt "STRINGS.UI.WARNING_MAX_AGENTS"
 msgid "You have the maximum number of agents, your team cannot support any more."
-msgstr ""
+msgstr "すでにエージェントの最大人数に達しており、チームにこれ以上追加できない。"
 
 #: STRINGS.UI.WARNING_MOVE_INTO_SIGHT
 msgctxt "STRINGS.UI.WARNING_MOVE_INTO_SIGHT"
