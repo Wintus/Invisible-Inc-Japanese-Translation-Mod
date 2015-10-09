@@ -1,6 +1,7 @@
 # coding: utf-8
 
 from itertools import zip_longest
+from tinysegmenter import TinySegmenter
 
 
 def grouper(iterable, n, fillvalue=None):
@@ -70,6 +71,14 @@ def str_save(target, holder=str_dummy):
 def wrapper(string, n):
     """Wrap a given string by n-char width keeping CR"""
     return str_wrap(string, n)
+
+
+# create a string-wrapping iterator with counter
+# get a iterator of string and wrapping width number
+# implementation
+# if given a string, token it into iterator
+# pull a chunk of string from the given iterator and count its length
+# if the count exceeds the wrapping width, push \n at end then keep going from 0 with the current string
 
 
 if __name__ == '__main__':
