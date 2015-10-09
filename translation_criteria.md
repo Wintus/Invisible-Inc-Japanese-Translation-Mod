@@ -38,6 +38,7 @@
 | detonate				| 炸裂する
 | dispatch				| 急送
 | disrupter				| スタンガン
+| distraction noise			| 妨害ノイズ
 | drag					| 牽引する
 | encumbered			| 速度低下した
 | enhance				| 増強する
