@@ -3581,7 +3581,7 @@ msgstr "警戒レベル上昇"
 #: STRINGS.DAEMONS.ALERTFRACTAL.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTFRACTAL.ACTIVE_DESC"
 msgid "SPAWNS DAEMONS ON ALL FIREWALLS."
-msgstr "全ファイヤーウォールにデーモンを生む。"
+msgstr "全ファイヤーウォールにデーモン発生。"
 
 #: STRINGS.DAEMONS.ALERTFRACTAL.DESC
 msgctxt "STRINGS.DAEMONS.ALERTFRACTAL.DESC"
@@ -3601,7 +3601,7 @@ msgstr "デーモン発生"
 #: STRINGS.DAEMONS.ALERTMODULATE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTMODULATE.ACTIVE_DESC"
 msgid "+2 PWR COST TO PROGRAMS FOR {1} {1:turn|turns}"
-msgstr "{1}ターンの間プログラムのコストが２パワー増加"
+msgstr "{1}ターンの間プログラムのパワー消費+2"
 
 #: STRINGS.DAEMONS.ALERTMODULATE.DESC
 msgctxt "STRINGS.DAEMONS.ALERTMODULATE.DESC"
@@ -3621,7 +3621,7 @@ msgstr "パワー消費"
 #: STRINGS.DAEMONS.ALERTPULSE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTPULSE.ACTIVE_DESC"
 msgid "ITEM COOLDOWNS SHORT-CIRCUITED"
-msgstr "アイテム冷却のショート"
+msgstr "アイテム冷却がショート中"
 
 #: STRINGS.DAEMONS.ALERTPULSE.DESC
 msgctxt "STRINGS.DAEMONS.ALERTPULSE.DESC"
@@ -3641,12 +3641,12 @@ msgstr "全アイテム冷却時間+3"
 #: STRINGS.DAEMONS.AUTHORITY.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.AUTHORITY.ACTIVE_DESC"
 msgid "SAFES ARE ALARMED."
-msgstr "金庫には警報がつく。"
+msgstr "金庫には警報が付く。"
 
 #: STRINGS.DAEMONS.AUTHORITY.DESC
 msgctxt "STRINGS.DAEMONS.AUTHORITY.DESC"
 msgid "Safes are alarmed and will trigger a nearby guard to investigate when opened."
-msgstr ""
+msgstr "金庫に警報が付き、開いた時に近くの警備員を調査に呼ぶ。"
 
 #: STRINGS.DAEMONS.AUTHORITY.NAME
 msgctxt "STRINGS.DAEMONS.AUTHORITY.NAME"
@@ -3761,7 +3761,7 @@ msgstr "金庫のファイヤーウォールとクレジットを追加する"
 #: STRINGS.DAEMONS.FRACTAL.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.FRACTAL.ACTIVE_DESC"
 msgid "NEW DAEMONS INSTALLED BY DAEMON"
-msgstr "デーモンにより新しいデーモンがインストールされる"
+msgstr "デーモンにより新しいデーモンがインストール中"
 
 #: STRINGS.DAEMONS.FRACTAL.DESC
 msgctxt "STRINGS.DAEMONS.FRACTAL.DESC"
@@ -3866,7 +3866,7 @@ msgstr "エージェントの位置が発見される"
 #: STRINGS.DAEMONS.PARADOX.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.PARADOX.ACTIVE_DESC"
 msgid "Incognita hacking ability stopped for {1} {1:turn|turns}"
-msgstr "インコグニータのハッキング能力が{1}ターンの間停止する"
+msgstr "インコグニータのハッキング能力が{1}ターンの間停止中"
 
 #: STRINGS.DAEMONS.PARADOX.DESC
 msgctxt "STRINGS.DAEMONS.PARADOX.DESC"
@@ -3886,7 +3886,7 @@ msgstr "ハッキング無効化"
 #: STRINGS.DAEMONS.RUBIKS.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.RUBIKS.ACTIVE_DESC"
 msgid "ALL FIREWALLS RAISED BY DAEMON"
-msgstr "デーモンが全ファイヤーウォールを増やした"
+msgstr "デーモンが全ファイヤーウォールを増加"
 
 #: STRINGS.DAEMONS.RUBIKS.DESC
 msgctxt "STRINGS.DAEMONS.RUBIKS.DESC"
@@ -3926,7 +3926,7 @@ msgstr "パワー・ドレイン"
 #: STRINGS.DAEMONS.VALIDATE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.VALIDATE.ACTIVE_DESC"
 msgid "GUARD SPAWNED BY DAEMON"
-msgstr "デーモンが警備員を召喚した"
+msgstr "デーモンが警備員を召喚"
 
 #: STRINGS.DAEMONS.VALIDATE.DESC
 msgctxt "STRINGS.DAEMONS.VALIDATE.DESC"
@@ -4236,12 +4236,12 @@ msgstr "ヌル・ドローン"
 #: STRINGS.GUARDS.OBAKE_DRONE
 msgctxt "STRINGS.GUARDS.OBAKE_DRONE"
 msgid "OBAKE DRONE v1.0"
-msgstr "オバケ・ドローン v1.0"
+msgstr "オバケ・ドローンv1.0"
 
 #: STRINGS.GUARDS.OBAKE_DRONE2
 msgctxt "STRINGS.GUARDS.OBAKE_DRONE2"
 msgid "OBAKE DRONE v2.0"
-msgstr "オバケ・ドローン v2.0"
+msgstr "オバケ・ドローンv2.0"
 
 #: STRINGS.GUARDS.OMNI_CRIER
 msgctxt "STRINGS.GUARDS.OMNI_CRIER"
@@ -9701,7 +9701,7 @@ msgstr "５ファイヤーウォール破壊"
 #: STRINGS.PROGRAMS.DAGGER_2.NAME
 msgctxt "STRINGS.PROGRAMS.DAGGER_2.NAME"
 msgid "DAGGER v2.0"
-msgstr "ダガー v2.0"
+msgstr "ダガーv2.0"
 
 #: STRINGS.PROGRAMS.DAGGER_2.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER_2.SHORT_DESC"
@@ -10126,7 +10126,7 @@ msgstr "１ファイヤーウォール破壊"
 #: STRINGS.PROGRAMS.LOCKPICK.NAME
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.NAME"
 msgid "LOCKPICK 1.0"
-msgstr "解錠 1.0"
+msgstr "解錠1.0"
 
 #: STRINGS.PROGRAMS.LOCKPICK.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.SHORT_DESC"
@@ -10151,12 +10151,12 @@ msgstr "２ファイヤーウォール破壊"
 #: STRINGS.PROGRAMS.LOCKPICK_2.NAME
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.NAME"
 msgid "LOCKPICK v2.0"
-msgstr "解錠 v2.0"
+msgstr "解錠v2.0"
 
 #: STRINGS.PROGRAMS.LOCKPICK_2.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.SHORT_DESC"
 msgid "USE LOCKPICK v2"
-msgstr "解錠 v2.0を使う"
+msgstr "解錠v2.0を使う"
 
 #: STRINGS.PROGRAMS.LOCKPICK_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.TIP_DESC"
@@ -10311,17 +10311,17 @@ msgstr "毎ターン２ファイヤーウォール破壊"
 #: STRINGS.PROGRAMS.PARASITE_2.NAME
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.NAME"
 msgid "PARASITE v2.0"
-msgstr "パラサイト v2.0"
+msgstr "パラサイトv2.0"
 
 #: STRINGS.PROGRAMS.PARASITE_2.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.SHORT_DESC"
 msgid "HOST PARASITE v2"
-msgstr "パラサイト v2.0寄生"
+msgstr "パラサイトv2.0寄生"
 
 #: STRINGS.PROGRAMS.PARASITE_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.TIP_DESC"
 msgid "HOST <c:FF8411>PARASITE 2.0</c>. COST: <c:77FF77>{1} PWR</c>"
-msgstr "<c:FF8411>パラサイト v2.0</c>寄生。コスト：<c:77FF77>{1}パワー</c>"
+msgstr "<c:FF8411>パラサイトv2.0</c>寄生。コスト：<c:77FF77>{1}パワー</c>"
 
 #: STRINGS.PROGRAMS.PING.DESC
 msgctxt "STRINGS.PROGRAMS.PING.DESC"
@@ -10451,7 +10451,7 @@ msgstr "開始パワー+6"
 #: STRINGS.PROGRAMS.PWR_MANAGER_2.NAME
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER_2.NAME"
 msgid "ABACUS 2.0"
-msgstr "ソロバン 2.0"
+msgstr "ソロバン2.0"
 
 #: STRINGS.PROGRAMS.PWR_MANAGER_2.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER_2.SHORT_DESC"
@@ -11421,12 +11421,12 @@ msgstr "%s調査中"
 #: STRINGS.REVERSE_DAEMONS.ACES.ACTIVE_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ACES.ACTIVE_DESC"
 msgid "TAGGED GUARDS ARMOR LOWERED BY ALGORITHM"
-msgstr ""
+msgstr "アルゴリズムによりタグ付き警備員の装甲が低下中"
 
 #: STRINGS.REVERSE_DAEMONS.ACES.DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ACES.DESC"
 msgid "TAGGED guards have -1 ARMOR"
-msgstr ""
+msgstr "タグ付き警備員の装甲-1"
 
 #: STRINGS.REVERSE_DAEMONS.ACES.NAME
 msgctxt "STRINGS.REVERSE_DAEMONS.ACES.NAME"
@@ -11436,7 +11436,7 @@ msgstr "エース"
 #: STRINGS.REVERSE_DAEMONS.ACES.SHORT_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ACES.SHORT_DESC"
 msgid "ARMOR DEBUFF"
-msgstr ""
+msgstr "装甲弱体化"
 
 #: STRINGS.REVERSE_DAEMONS.ACES.TITLE
 msgctxt "STRINGS.REVERSE_DAEMONS.ACES.TITLE"
@@ -11446,32 +11446,32 @@ msgstr "インコグニータ　コウチク"
 #: STRINGS.REVERSE_DAEMONS.ATTUNE.ACTIVE_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ATTUNE.ACTIVE_DESC"
 msgid "PROGRAM PWR COST DECREASED BY ALGORITHM"
-msgstr ""
+msgstr "アルゴリズムによりプログラムのパワー消費が減少中"
 
 #: STRINGS.REVERSE_DAEMONS.ATTUNE.DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ATTUNE.DESC"
 msgid "Decreases all program PWR cost by 1"
-msgstr ""
+msgstr "全プログラムのパワー消費が１減少"
 
 #: STRINGS.REVERSE_DAEMONS.ATTUNE.NAME
 msgctxt "STRINGS.REVERSE_DAEMONS.ATTUNE.NAME"
 msgid "ATTUNE"
-msgstr ""
+msgstr "同調"
 
 #: STRINGS.REVERSE_DAEMONS.ATTUNE.SHORT_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ATTUNE.SHORT_DESC"
 msgid "DECREASE PROGRAM COST"
-msgstr ""
+msgstr "プログラム・コスト減少"
 
 #: STRINGS.REVERSE_DAEMONS.ENERGIZE.ACTIVE_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ENERGIZE.ACTIVE_DESC"
 msgid "200 CREDITS EARNED BY ALGORITHM"
-msgstr ""
+msgstr "アルゴリズムにより200クレジット獲得"
 
 #: STRINGS.REVERSE_DAEMONS.ENERGIZE.DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ENERGIZE.DESC"
 msgid "Gain 200 CREDITS"
-msgstr ""
+msgstr "200クレジット獲得する"
 
 #: STRINGS.REVERSE_DAEMONS.ENERGIZE.NAME
 msgctxt "STRINGS.REVERSE_DAEMONS.ENERGIZE.NAME"
@@ -11491,12 +11491,12 @@ msgstr "デーモン反転"
 #: STRINGS.REVERSE_DAEMONS.ORDER.ACTIVE_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ORDER.ACTIVE_DESC"
 msgid "AGENT'S AP INCREASED BY ALGORITHM"
-msgstr "アルゴリズムによるエージェントAP増加"
+msgstr "アルゴリズムによりエージェントAP増加中"
 
 #: STRINGS.REVERSE_DAEMONS.ORDER.DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ORDER.DESC"
 msgid "Increases all agents' AP by 3"
-msgstr "エージェント全員のAPを増加"
+msgstr "エージェント全員のAPを３増加する"
 
 #: STRINGS.REVERSE_DAEMONS.ORDER.NAME
 msgctxt "STRINGS.REVERSE_DAEMONS.ORDER.NAME"
@@ -11511,7 +11511,7 @@ msgstr "エージェントのAPを増加"
 #: STRINGS.REVERSE_DAEMONS.REVERSE_PNL_TITLE
 msgctxt "STRINGS.REVERSE_DAEMONS.REVERSE_PNL_TITLE"
 msgid "I N C O G N I T A  R E V E R S E  E N G I N E E R E D"
-msgstr "インコグニータ　ガ　リバース　エンジニアリング　シタ"
+msgstr "インコグニータ　ガ　リバース　エンジニアリング　シマシタ"
 
 #: STRINGS.REVERSE_DAEMONS.WARNING_TITLE
 msgctxt "STRINGS.REVERSE_DAEMONS.WARNING_TITLE"
@@ -12456,12 +12456,12 @@ msgstr "ブルーム"
 #: STRINGS.SCREENS.STR_363840384
 msgctxt "STRINGS.SCREENS.STR_363840384"
 msgid "Daemons are defensive AI programs that protect mainframe devices. They will trigger when you hack the device.\n\nDifferent daemons have different effects, but all of them will hurt. Be careful, Operator!\n"
-msgstr ""
+msgstr "デーモンはメインフレーム・デバイスを守る防御的AIプログラムであり、デバイスのハッキング時に起動する。\n\nデーモンはそれぞれ異なる効果を持つが、どれも有害である。注意せよ、オペーレーター！\n"
 
 #: STRINGS.SCREENS.STR_3639446616
 msgctxt "STRINGS.SCREENS.STR_3639446616"
 msgid "Click and hold to activate"
-msgstr "クリック&ホールドで有効化"
+msgstr "クリック＆ホールドで有効化"
 
 #: STRINGS.SCREENS.STR_3656310952
 msgctxt "STRINGS.SCREENS.STR_3656310952"
@@ -14021,7 +14021,7 @@ msgstr "入手アイテム"
 #: STRINGS.UI.DIALOGS.NO_DAEMON_BODY
 msgctxt "STRINGS.UI.DIALOGS.NO_DAEMON_BODY"
 msgid "No daemon is installed on this device."
-msgstr "このデバイスにはデーモンはインストールされていない。"
+msgstr "このデバイスにデーモンはインストールされていない。"
 
 #: STRINGS.UI.DIALOGS.NO_DAEMON_TITLE
 msgctxt "STRINGS.UI.DIALOGS.NO_DAEMON_TITLE"
@@ -14216,12 +14216,12 @@ msgstr ""
 #: STRINGS.UI.DIFF_OPTION_DAEMONS
 msgctxt "STRINGS.UI.DIFF_OPTION_DAEMONS"
 msgid "DAEMON QUANTITY"
-msgstr "デーモンの数"
+msgstr "デーモンの量"
 
 #: STRINGS.UI.DIFF_OPTION_DAEMONS_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_DAEMONS_TIP"
 msgid "<c:FF8411>DAEMON QUANTITY</c>\nDetermines the number of daemons installed onto devices throughout the level."
-msgstr ""
+msgstr "<c:FF8411>デーモンの量</c>\nステージ全体のデバイス上にインストールされるデーモンの数を決定する。"
 
 #: STRINGS.UI.DIFF_OPTION_DANGERZONE
 msgctxt "STRINGS.UI.DIFF_OPTION_DANGERZONE"
@@ -14911,17 +14911,17 @@ msgstr "ノーマル"
 #: STRINGS.UI.GENOPTIONS.DAEMONS.1
 msgctxt "STRINGS.UI.GENOPTIONS.DAEMONS.1"
 msgid "LESS"
-msgstr "レス"
+msgstr "少なめ"
 
 #: STRINGS.UI.GENOPTIONS.DAEMONS.2
 msgctxt "STRINGS.UI.GENOPTIONS.DAEMONS.2"
 msgid "NORMAL"
-msgstr "ノーマル"
+msgstr "並"
 
 #: STRINGS.UI.GENOPTIONS.DAEMONS.3
 msgctxt "STRINGS.UI.GENOPTIONS.DAEMONS.3"
 msgid "MORE"
-msgstr "モア"
+msgstr "多め"
 
 #: STRINGS.UI.GENOPTIONS.GUARDSPAWNS.1
 msgctxt "STRINGS.UI.GENOPTIONS.GUARDSPAWNS.1"
@@ -16386,7 +16386,7 @@ msgstr "満タン"
 #: STRINGS.UI.REASON.ARCHDAEMON_CHARGED
 msgctxt "STRINGS.UI.REASON.ARCHDAEMON_CHARGED"
 msgid "Archdaemon Inhibitor fully charged"
-msgstr "アークデーモン阻害装置_充電完了"
+msgstr "アークデーモン阻害装置完全に充電完了"
 
 #: STRINGS.UI.REASON.ATTACK_USED
 msgctxt "STRINGS.UI.REASON.ATTACK_USED"
@@ -16496,7 +16496,7 @@ msgstr "ファイヤーウォール非破壊プログラム"
 #: STRINGS.UI.REASON.DROP_BODY_TO_USE
 msgctxt "STRINGS.UI.REASON.DROP_BODY_TO_USE"
 msgid "Drop body to use"
-msgstr "肢体を置いてから使用_"
+msgstr "肢体を置いてから使用する"
 
 #: STRINGS.UI.REASON.ENEMY_PINNED
 msgctxt "STRINGS.UI.REASON.ENEMY_PINNED"
@@ -16596,12 +16596,12 @@ msgstr "残弾なし"
 #: STRINGS.UI.REASON.NO_ARCHDAEMON_INHIBITOR
 msgctxt "STRINGS.UI.REASON.NO_ARCHDAEMON_INHIBITOR"
 msgid "No Archdaemon Inhibitor found"
-msgstr "アークデーモン阻害装置_未発見"
+msgstr "アークデーモン阻害装置未発見"
 
 #: STRINGS.UI.REASON.NO_CAMERAS
 msgctxt "STRINGS.UI.REASON.NO_CAMERAS"
 msgid "No remaining uncaptured cameras"
-msgstr "全カメラが占領済み_"
+msgstr "全カメラが掌握済み"
 
 #: STRINGS.UI.REASON.NO_DAEMON
 msgctxt "STRINGS.UI.REASON.NO_DAEMON"
@@ -16666,7 +16666,7 @@ msgstr "プログラム未装備"
 #: STRINGS.UI.REASON.NO_ROOM_FOR_DAEMON
 msgctxt "STRINGS.UI.REASON.NO_ROOM_FOR_DAEMON"
 msgid "No other room for Daemon"
-msgstr "デーモンの_空きがない"
+msgstr "デーモンが発生するデバイスの空きがない"
 
 #: STRINGS.UI.REASON.NO_TAGGED_GUARDS
 msgctxt "STRINGS.UI.REASON.NO_TAGGED_GUARDS"
@@ -17421,17 +17421,17 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.KO_DEAMON
 msgctxt "STRINGS.UI.TOOLTIPS.KO_DEAMON"
 msgid "CYBER CONSCIOUSNESS"
-msgstr ""
+msgstr "サイバー意識"
 
 #: STRINGS.UI.TOOLTIPS.KO_DEAMON_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.KO_DEAMON_DESC"
 msgid "If KO, this unit will possess a mainframe device as a Daemon program"
-msgstr ""
+msgstr "KO時、このユニットはメインフレーム・デバイスにデーモン・プログラムとして取り付く"
 
 #: STRINGS.UI.TOOLTIPS.KO_IMMUNE
 msgctxt "STRINGS.UI.TOOLTIPS.KO_IMMUNE"
 msgid "KO IMMUNE"
-msgstr "KO_耐性"
+msgstr "KO耐性"
 
 #: STRINGS.UI.TOOLTIPS.KO_IMMUNE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.KO_IMMUNE_DESC"
@@ -17476,7 +17476,7 @@ msgstr "デーモン・プログラム"
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_GRID
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_GRID"
 msgid "%s GRID"
-msgstr "%sグリッド"
+msgstr "%s グリッド"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_HACK_UNIT
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_HACK_UNIT"
@@ -17491,7 +17491,7 @@ msgstr "潜伏デーモン"
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_INACTIVE
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_INACTIVE"
 msgid "INACTIVE"
-msgstr "不活性_"
+msgstr "非アクティブ"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_LINKED_TO_POWER_GRID
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_LINKED_TO_POWER_GRID"
@@ -17501,7 +17501,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_MASKED
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_MASKED"
 msgid "DAEMON MASKED"
-msgstr ""
+msgstr "隠蔽デーモン"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_OFF
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_OFF"
@@ -17516,12 +17516,12 @@ msgstr "パラサイト寄生中"
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_PARASITE_V2
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_PARASITE_V2"
 msgid "PARASITE 2.0 HOSTED"
-msgstr "パラサイト 2.0 寄生中"
+msgstr "パラサイト2.0寄生中"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_REBOOT
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_REBOOT"
 msgid "REBOOT: %d"
-msgstr "再起動:_%d"
+msgstr "再起動：%d"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_REBOOTING
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_REBOOTING"
@@ -17531,7 +17531,7 @@ msgstr "再起動中…"
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_TARGET_UNIT
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_TARGET_UNIT"
 msgid "TARGET {1}"
-msgstr "対象_{1}"
+msgstr "対象 {1}"
 
 #: STRINGS.UI.TOOLTIPS.NEURAL_SCANNED
 msgctxt "STRINGS.UI.TOOLTIPS.NEURAL_SCANNED"
@@ -17546,7 +17546,7 @@ msgstr "このユニットはすでに神経スキャンされている。"
 #: STRINGS.UI.TOOLTIPS.NOT_INSTALLED
 msgctxt "STRINGS.UI.TOOLTIPS.NOT_INSTALLED"
 msgid "NOT INSTALLED"
-msgstr "未インストール_"
+msgstr "未インストール"
 
 #: STRINGS.UI.TOOLTIPS.NOT_STACKABLE
 msgctxt "STRINGS.UI.TOOLTIPS.NOT_STACKABLE"
@@ -17736,7 +17736,7 @@ msgstr "全コンソールの位置を開示する"
 #: STRINGS.UI.TOOLTIP_HACK_DAEMON_DB
 msgctxt "STRINGS.UI.TOOLTIP_HACK_DAEMON_DB"
 msgid "Identifies Daemons in the mainframe"
-msgstr "メインフレーム内のデーモンを特定する"
+msgstr "メインフレーム内のデーモンを識別する"
 
 #: STRINGS.UI.TOOLTIP_HACK_GUARD_DB
 msgctxt "STRINGS.UI.TOOLTIP_HACK_GUARD_DB"
@@ -17766,7 +17766,7 @@ msgstr "インコグニータでハッキングする"
 #: STRINGS.UI.TOOLTIP_INACTIVE
 msgctxt "STRINGS.UI.TOOLTIP_INACTIVE"
 msgid "INACTIVE"
-msgstr "非活性_"
+msgstr "非アクティブ"
 
 #: STRINGS.UI.TOOLTIP_INACTIVE_DESC
 msgctxt "STRINGS.UI.TOOLTIP_INACTIVE_DESC"
