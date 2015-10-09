@@ -30,6 +30,7 @@
 | ballistic armor		| 防弾装甲
 | blunt trauma armor	| 防刃装甲
 | body					| 肢体
+| buff / debuff				| 強化・弱体化
 | control				| 制御
 | corpse				| 死体
 | cover					| 遮蔽物
