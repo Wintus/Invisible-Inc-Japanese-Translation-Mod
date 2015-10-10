@@ -421,7 +421,7 @@ msgstr "覗き見"
 #: STRINGS.ABILITIES.PEEK_DESC
 msgctxt "STRINGS.ABILITIES.PEEK_DESC"
 msgid "Carefully look around corners.\nPeek through closed doors."
-msgstr "慎重に物陰から見渡す。\n閉まったドア越しに覗き見る。"
+msgstr "慎重に物陰から見回す。\n閉まったドア越しに覗き見る。"
 
 #: STRINGS.ABILITIES.PICKUP
 msgctxt "STRINGS.ABILITIES.PICKUP"
@@ -1936,12 +1936,12 @@ msgstr "ミーラートヴァは年来彼女の格闘技術の研鑽に費やし
 #: STRINGS.AGENTS.NIKA.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.NIKA.ALT_2.FULLNAME"
 msgid "ARCHIVED -- BODY GUARD"
-msgstr "達成――ボディー・ガード"
+msgstr "達成――用心棒"
 
 #: STRINGS.AGENTS.NIKA.ALT_2.TOOLTIP
 msgctxt "STRINGS.AGENTS.NIKA.ALT_2.TOOLTIP"
 msgid "Body Guard"
-msgstr "ボディー・ガード"
+msgstr "用心棒"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.1
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.1"
@@ -3981,7 +3981,7 @@ msgstr "各ミッションごとに成功報酬_が異なる。強いチーム�
 #: STRINGS.DEATH_TIPS.7
 msgctxt "STRINGS.DEATH_TIPS.7"
 msgid "You can set many custom gameplay options when starting a new campaign"
-msgstr "新しいゲームを始めるときには、様々なカスタム設定が選べる"
+msgstr "新しい作戦を始めるときには、様々なカスタム設定が選べる"
 
 #: STRINGS.FORMATS.ADDRESS
 msgctxt "STRINGS.FORMATS.ADDRESS"
@@ -6401,7 +6401,7 @@ msgstr "ノックアウトされた敵の上に立つことで覚醒を防げる
 #: STRINGS.LOADING_TIPS.10
 msgctxt "STRINGS.LOADING_TIPS.10"
 msgid "Win or lose, each campaign earns you XP that unlocks new agents and programs. "
-msgstr "ゲーム完了時にはXP(経験値)が入手でき、新しいエージェントとプログラムが解放できる。"
+msgstr "勝っても負けても、作戦完了時にはXP(経験値)が入手でき、新しいエージェントとプログラムが解放できる。"
 
 #: STRINGS.LOADING_TIPS.11
 msgctxt "STRINGS.LOADING_TIPS.11"
@@ -8326,7 +8326,7 @@ msgstr "偵察地点"
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CORNER_PEEK
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CORNER_PEEK"
 msgid "LOOK AROUND CORNERS"
-msgstr "角から見渡す"
+msgstr "角から見回す"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CORNER_PEEK_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CORNER_PEEK_SUBTEXT"
@@ -11556,7 +11556,7 @@ msgstr "難易度とオプションを設定してください。"
 #: STRINGS.SCREENS.STR_1112033330
 msgctxt "STRINGS.SCREENS.STR_1112033330"
 msgid "And a very special THANK YOU to all of our Early Access fans, especially those of you who followed us from Alpha all the way until launch. All of your help has made a substantial difference, and it's always a pleasure to share our journey with you.\n\n-Klei Entertainment Team"
-msgstr ""
+msgstr "そしてアーリーアクセス・ファンの皆様に本当の感謝を、特にアルファ版から発売までついてきて下さった方々には。全ての助けがかなりの違いを産みましたし、私たちの行程を皆さんと共有することは常に喜びでした。\n\n―Kleiエンターテイメント・チーム"
 
 #: STRINGS.SCREENS.STR_1113642616
 msgctxt "STRINGS.SCREENS.STR_1113642616"
@@ -11606,7 +11606,7 @@ msgstr "↓"
 #: STRINGS.SCREENS.STR_118910256
 msgctxt "STRINGS.SCREENS.STR_118910256"
 msgid "PEEK AROUND CORNERS"
-msgstr "角から見渡す"
+msgstr "角から見回す"
 
 #: STRINGS.SCREENS.STR_120
 msgctxt "STRINGS.SCREENS.STR_120"
@@ -11681,7 +11681,7 @@ msgstr "開いたドアを覗くことでより多くの情報を得る。"
 #: STRINGS.SCREENS.STR_1408759822
 msgctxt "STRINGS.SCREENS.STR_1408759822"
 msgid "View the Steam Workshop to find additional Language Packs to subscribe to."
-msgstr "スティーム・ワークショップで\n他のサブスクライブ可能な言語を見る。"
+msgstr "スティーム・ワークショップで他の\nサブスクライブ可能な言語を見る。"
 
 #: STRINGS.SCREENS.STR_141375972
 msgctxt "STRINGS.SCREENS.STR_141375972"
@@ -11691,7 +11691,7 @@ msgstr "背景FX"
 #: STRINGS.SCREENS.STR_1446328094
 msgctxt "STRINGS.SCREENS.STR_1446328094"
 msgid "Voice-over Captions"
-msgstr "吹き替え字幕"
+msgstr "ナレーション字幕"
 
 #: STRINGS.SCREENS.STR_1488831452
 msgctxt "STRINGS.SCREENS.STR_1488831452"
@@ -11711,7 +11711,7 @@ msgstr "確認"
 #: STRINGS.SCREENS.STR_1575702730
 msgctxt "STRINGS.SCREENS.STR_1575702730"
 msgid "TOTAL XP GAINED"
-msgstr "総獲得XP"
+msgstr "合計獲得XP"
 
 #: STRINGS.SCREENS.STR_1646082982
 msgctxt "STRINGS.SCREENS.STR_1646082982"
@@ -11756,12 +11756,12 @@ msgstr "アップデート通知"
 #: STRINGS.SCREENS.STR_1704832402
 msgctxt "STRINGS.SCREENS.STR_1704832402"
 msgid "< CAMPAIGN OPTIONS"
-msgstr "< ゲーム開始設定"
+msgstr "< 作戦設定"
 
 #: STRINGS.SCREENS.STR_1721470052
 msgctxt "STRINGS.SCREENS.STR_1721470052"
 msgid "FPS Text"
-msgstr "FPS テスト"
+msgstr "FPSテスト"
 
 #: STRINGS.SCREENS.STR_1781360857
 msgctxt "STRINGS.SCREENS.STR_1781360857"
@@ -11796,12 +11796,12 @@ msgstr "言語を更新"
 #: STRINGS.SCREENS.STR_1855685879
 msgctxt "STRINGS.SCREENS.STR_1855685879"
 msgid "WWWWW"
-msgstr "WWWWW"
+msgstr "WWWWW草"
 
 #: STRINGS.SCREENS.STR_186438882
 msgctxt "STRINGS.SCREENS.STR_186438882"
 msgid "<c:F4FF78>It's 2074, and corporations rule the world with brutal efficiency.</> They hit you hard, and now you're on the run.\n\n<c:F4FF78>You need to strike back, but you'll never win by force.</> Keep your agents alive with stealth and cunning. Raid the corps' facilities for tools and support, and prepare your team for the final showdown.\n\n<c:F4FF78>The odds are stacked against you.</> You will fail. Repeatedly. But each time you will learn more about your adversaries, and every restart generates a new world of dangers and opportunities.\n\nYou have a tough job ahead of you, Operator. Don't let us down."
-msgstr ""
+msgstr "<c:F4FF78>時は2074年、企業が残忍な効率性で世界を支配していた。</>企業は我々機関に重い一撃を食らわせ、今我々は奔走している。\n\n<c:F4FF78>反撃が必要だが、力では打ち勝てない。</>エージェントをステルスと狡知で生き延びさせよ。ツールとサポートのために企業の施設を襲撃、最終対決のためにチームを準備するのだ。\n\n<c:F4FF78>形成は不利である。</>失敗するだろう、何度も。だが失敗のたびに敵についてより学び、リスタートのたびに新たに危険な世界とチャンスとが生み出される。\n\n目前には困難な任務があるぞ、オペーレーター。失望させてくれるな。"
 
 #: STRINGS.SCREENS.STR_1871560216
 msgctxt "STRINGS.SCREENS.STR_1871560216"
@@ -11811,7 +11811,7 @@ msgstr "効果音量"
 #: STRINGS.SCREENS.STR_1886524285
 msgctxt "STRINGS.SCREENS.STR_1886524285"
 msgid "The game moves in turns. Once you have finished making your moves, end your turn and the enemy makes theirs."
-msgstr ""
+msgstr "このゲームはターン制である。行動を完了したらターンを終了し、敵のターンに移る。"
 
 #: STRINGS.SCREENS.STR_1890824930
 msgctxt "STRINGS.SCREENS.STR_1890824930"
@@ -11851,7 +11851,7 @@ msgstr "インコグニータ　ガ　アタラシイ　プログラム　ヲ　
 #: STRINGS.SCREENS.STR_1998190014
 msgctxt "STRINGS.SCREENS.STR_1998190014"
 msgid "Distracting a guard will cause them to investigate on the enemy's turn."
-msgstr ""
+msgstr "警備員に不審がられると敵のターンに調べに来る。"
 
 #: STRINGS.SCREENS.STR_1999569527
 msgctxt "STRINGS.SCREENS.STR_1999569527"
@@ -11866,7 +11866,7 @@ msgstr "中断セーブしてメインメニューに戻る"
 #: STRINGS.SCREENS.STR_2074798919
 msgctxt "STRINGS.SCREENS.STR_2074798919"
 msgid "GET HELP FROM ANOTHER AGENT"
-msgstr ""
+msgstr "他のエージェントに助けを求める"
 
 #: STRINGS.SCREENS.STR_2089085238
 msgctxt "STRINGS.SCREENS.STR_2089085238"
@@ -11926,7 +11926,7 @@ msgstr "カメラ回転"
 #: STRINGS.SCREENS.STR_2286587580
 msgctxt "STRINGS.SCREENS.STR_2286587580"
 msgid "REWIND will revert the simulation back to the start of your previous turn.\n\nWould you like to do so now?"
-msgstr ""
+msgstr "巻き戻しは状況を前のターンの開始時点に戻す。\n\n今そうしますか？"
 
 #: STRINGS.SCREENS.STR_2316165232
 msgctxt "STRINGS.SCREENS.STR_2316165232"
@@ -12006,7 +12006,7 @@ msgstr "獲得パワー"
 #: STRINGS.SCREENS.STR_2430557021
 msgctxt "STRINGS.SCREENS.STR_2430557021"
 msgid "A C T I O N  P L A N N I N G  A L L O W A N C E"
-msgstr "ｱｸｼｮﾝ ｹｲｶｸ ﾋﾖｳ"
+msgstr "アクション　ケイカク　ヒヨウ"
 
 #: STRINGS.SCREENS.STR_2436380107
 msgctxt "STRINGS.SCREENS.STR_2436380107"
@@ -12031,7 +12031,7 @@ msgstr "ポーズ"
 #: STRINGS.SCREENS.STR_2483091050
 msgctxt "STRINGS.SCREENS.STR_2483091050"
 msgid "This is your currently selected difficulty setting. Choose your difficulty and other gameplay options by going to the Campaign Options."
-msgstr ""
+msgstr "現在の難易度選択設定。作戦設定で難易度と他のゲームプレイのオプションを選ぶ。"
 
 #: STRINGS.SCREENS.STR_2490878707
 msgctxt "STRINGS.SCREENS.STR_2490878707"
@@ -12066,12 +12066,12 @@ msgstr "サブスクライブされた言語パック"
 #: STRINGS.SCREENS.STR_2567721856
 msgctxt "STRINGS.SCREENS.STR_2567721856"
 msgid "Restart the campaign with a fresh agency"
-msgstr "このゲームを新しいエージェントでやり直す"
+msgstr "この作戦を新しいエージェントでやり直す"
 
 #: STRINGS.SCREENS.STR_2587178626
 msgctxt "STRINGS.SCREENS.STR_2587178626"
 msgid "The agency has provided you with <c:faff0a>LOCKPICK 1.0</>, allowing you to <c:faff0a>hack 1 Firewall for 2 Power (PWR)</>.\n"
-msgstr ""
+msgstr "機関が<c:faff0a>解錠 1.0</>を支給し、<c:faff0a>１ファイヤーウォールを２パワーでハック</>できるようになった。"
 
 #: STRINGS.SCREENS.STR_2587351612
 msgctxt "STRINGS.SCREENS.STR_2587351612"
@@ -12091,7 +12091,7 @@ msgstr "生還したエージェント"
 #: STRINGS.SCREENS.STR_2605667627
 msgctxt "STRINGS.SCREENS.STR_2605667627"
 msgid "Since you last played this mission, Invisible, Inc. has been updated to include some balance changes and hotfixes. We try hard not to do this often, and to maintain compatibility and preserve your campaign, we have rewound the simulation to the beginning of the level with a new generation seed.\n\nIf you would like to know more about what has changed, please visit our forums."
-msgstr ""
+msgstr "最後にこのミッションをプレイされてから、インビジブル社はアップデートでバランス調整と修正が入りました。私どももこのようなことが起きないよう努力しておりますが、互換性の維持と今回の作戦の保存のため、状況をステージの最初に巻き戻して新しいシードで再生成させていただきました。\n\n更新の詳細をお知りになりたければ、フォーラムにお越しください。"
 
 #: STRINGS.SCREENS.STR_2618909495
 msgctxt "STRINGS.SCREENS.STR_2618909495"
@@ -12161,7 +12161,7 @@ msgstr "ヘルプ集"
 #: STRINGS.SCREENS.STR_2794591912
 msgctxt "STRINGS.SCREENS.STR_2794591912"
 msgid "Activate or deactivate exposed systems"
-msgstr "_されたシステムの有効化を切り替える"
+msgstr "開示されたシステムの有効化を切り替える"
 
 #: STRINGS.SCREENS.STR_2805285023
 msgctxt "STRINGS.SCREENS.STR_2805285023"
@@ -12176,12 +12176,12 @@ msgstr "遮蔽物に隠れる"
 #: STRINGS.SCREENS.STR_2821343115
 msgctxt "STRINGS.SCREENS.STR_2821343115"
 msgid "When we loaded your game, it created an error and we loaded up to the state before the error occurred. \n\nHowever, if you do not like this current state, for the rest of this turn you can opt to regenerate the level instead. If you do, your agents will restart the mission with a new level layout."
-msgstr ""
+msgstr "ゲームのロード時にエラーが発生したので、エラー発生以前の状態をロードしました。\n\nしかしながら、この現状がお気に召さなければ、このターンの残りを続行する代わりにステージの再生成を選べます。もしそうすれば、ミッションは新しいステージレイアウトでリスタートします。"
 
 #: STRINGS.SCREENS.STR_2833324097
 msgctxt "STRINGS.SCREENS.STR_2833324097"
 msgid "RESTART CAMPAIGN"
-msgstr "このゲームをやり直す"
+msgstr "作戦のやり直し"
 
 #: STRINGS.SCREENS.STR_2840126714
 msgctxt "STRINGS.SCREENS.STR_2840126714"
@@ -12211,7 +12211,7 @@ msgstr "[クリック]か[エンター]で続ける"
 #: STRINGS.SCREENS.STR_2932151109
 msgctxt "STRINGS.SCREENS.STR_2932151109"
 msgid "Made with Moai\nCopyright (c) 2010-2012 ZipLine Games, Inc. All Rights Reserved.\n\n\nFMOD Studio, copyright Firelight Technologies Pty, Ltd., 1994-2013\n"
-msgstr "Made with Moai\nCopyright (c) 2010-2012 ZipLine Games, Inc. All Rights Reserved.\n\n\nFMOD Studio, copyright Firelight Technologies Pty, Ltd., 1994-2013\n"
+msgstr "制作 Moai\nCopyright (c) 2010-2012 ZipLine Games, Inc. 全著作権所有。\n\n\nFMOD Studio, 版権 Firelight Technologies Pty, Ltd., 1994-2013\n"
 
 #: STRINGS.SCREENS.STR_2956448622
 msgctxt "STRINGS.SCREENS.STR_2956448622"
@@ -12236,7 +12236,7 @@ msgstr "国"
 #: STRINGS.SCREENS.STR_3001980105
 msgctxt "STRINGS.SCREENS.STR_3001980105"
 msgid "Fast mode increases the speed at which agents and guards walk during gameplay."
-msgstr ""
+msgstr "高速モードはゲーム中にエージェントと警備員が歩くスピードを上げる。"
 
 #: STRINGS.SCREENS.STR_301926882
 msgctxt "STRINGS.SCREENS.STR_301926882"
@@ -12246,17 +12246,17 @@ msgstr "強化機能移植装置"
 #: STRINGS.SCREENS.STR_3148742419
 msgctxt "STRINGS.SCREENS.STR_3148742419"
 msgid "Would you like to be notified when the next build comes out? Sign up below!"
-msgstr ""
+msgstr "次のバージョンの通知を受け取りますか？下で登録！"
 
 #: STRINGS.SCREENS.STR_3150045031
 msgctxt "STRINGS.SCREENS.STR_3150045031"
 msgid "A guard is about to shoot your agent. Your agent has a chance to escape by quickly hiding behind any cover one square away or by having another agent give support."
-msgstr ""
+msgstr "警備員がエージェントを撃とうとしている。エージェントは、１マスそばの遮蔽物にすばやく隠れるか他のエージェントからの支援を受けることで、逃れる可能性がある。"
 
 #: STRINGS.SCREENS.STR_3186341886
 msgctxt "STRINGS.SCREENS.STR_3186341886"
 msgid "\nChris Dahlen\nJason Garner\nGordon McGladdery\nTim Magill\nBrandon Gamblen\nMarc Hale\nSebastien Tremblay-Guerin\nAlexandre Pare\nAurélien Folie\nMarc-Andre Legault\n\n\nLisa Ann Beley\nMike Dobson\nVeena Sodd\nKelly Graham\nMatthew Marteinsson\nVincent Tong\nJoe Wreggelsworth\n"
-msgstr ""
+msgstr "\nChris Dahlen\nJason Garner\nGordon McGladdery\nTim Magill\nBrandon Gamblen\nMarc Hale\nSebastien Tremblay-Guerin\nAlexandre Pare\nAurélien Folie\nMarc-Andre Legault\n\n\nLisa Ann Beley\nMike Dobson\nVeena Sodd\nKelly Graham\nMatthew Marteinsson\nVincent Tong\nJoe Wreggelsworth\n"
 
 #: STRINGS.SCREENS.STR_3215279922
 msgctxt "STRINGS.SCREENS.STR_3215279922"
@@ -12266,17 +12266,17 @@ msgstr "使用パワー"
 #: STRINGS.SCREENS.STR_324160630
 msgctxt "STRINGS.SCREENS.STR_324160630"
 msgid "Determines whether automated camera pans are used during gameplay."
-msgstr ""
+msgstr "ゲームプレイ中の自動カメラ・パンの有無を決定する。"
 
 #: STRINGS.SCREENS.STR_3253417815
 msgctxt "STRINGS.SCREENS.STR_3253417815"
 msgid "Determines whether captions for voice dialogue are shown in game."
-msgstr ""
+msgstr "ゲーム中に字幕が表示されるかを決定する。"
 
 #: STRINGS.SCREENS.STR_3267747389
 msgctxt "STRINGS.SCREENS.STR_3267747389"
 msgid "Start the campaign"
-msgstr "ゲームを始める"
+msgstr "作戦を開始する"
 
 #: STRINGS.SCREENS.STR_3274518212
 msgctxt "STRINGS.SCREENS.STR_3274518212"
@@ -12316,7 +12316,7 @@ msgstr "インコグニータ V 1.3.6B"
 #: STRINGS.SCREENS.STR_3416994251
 msgctxt "STRINGS.SCREENS.STR_3416994251"
 msgid "After subscribing to a Language Pack on Steam Workshop, refresh the list of available languages."
-msgstr ""
+msgstr "スティーム・ワークショップで言語パックをサブスクライブしたあと、リストを更新して使用可能な言語を見る。"
 
 #: STRINGS.SCREENS.STR_3419756252
 msgctxt "STRINGS.SCREENS.STR_3419756252"
@@ -12326,7 +12326,7 @@ msgstr "メールアドレス"
 #: STRINGS.SCREENS.STR_3431073160
 msgctxt "STRINGS.SCREENS.STR_3431073160"
 msgid "AGENCY LOADOUT UPDATED"
-msgstr ""
+msgstr "機関の戦闘装備が更新された"
 
 #: STRINGS.SCREENS.STR_3432956013
 msgctxt "STRINGS.SCREENS.STR_3432956013"
@@ -12406,7 +12406,7 @@ msgstr "次の解放"
 #: STRINGS.SCREENS.STR_3560518070
 msgctxt "STRINGS.SCREENS.STR_3560518070"
 msgid "W A R N I N G"
-msgstr "警　告"
+msgstr "ケイコク"
 
 #: STRINGS.SCREENS.STR_3562682461
 msgctxt "STRINGS.SCREENS.STR_3562682461"
@@ -12486,7 +12486,7 @@ msgstr "カンキョウ　ヲ　ソウサ　シテ　ステルス　スル"
 #: STRINGS.SCREENS.STR_3709439018
 msgctxt "STRINGS.SCREENS.STR_3709439018"
 msgid "FMOD Studio, copyright Firelight Technologies Pty, Ltd., 1994-2013"
-msgstr "FMOD Studio, copyright Firelight Technologies Pty, Ltd., 1994-2013"
+msgstr "FMOD Studio, 版権 Firelight Technologies Pty, Ltd., 1994-2013"
 
 #: STRINGS.SCREENS.STR_373959785
 msgctxt "STRINGS.SCREENS.STR_373959785"
@@ -12561,7 +12561,7 @@ msgstr "<|"
 #: STRINGS.SCREENS.STR_394046568
 msgctxt "STRINGS.SCREENS.STR_394046568"
 msgid "CAMPAIGN GENERATION"
-msgstr "ゲーム開始設定"
+msgstr "作戦生成"
 
 #: STRINGS.SCREENS.STR_3968651824
 msgctxt "STRINGS.SCREENS.STR_3968651824"
@@ -12581,7 +12581,7 @@ msgstr "スティーム・ワークショップを見る"
 #: STRINGS.SCREENS.STR_3980307013
 msgctxt "STRINGS.SCREENS.STR_3980307013"
 msgid "Restore the campaign to the beginning of the current day"
-msgstr "このゲームを当日の初めからやり直す"
+msgstr "この作戦を当日の初めからやり直す"
 
 #: STRINGS.SCREENS.STR_3982029207
 msgctxt "STRINGS.SCREENS.STR_3982029207"
@@ -12621,7 +12621,7 @@ msgstr "空のプログラム用スロット"
 #: STRINGS.SCREENS.STR_4057752493
 msgctxt "STRINGS.SCREENS.STR_4057752493"
 msgid "Thank you for playing! We're always looking for feedback, so if you'd like to leave us a review, we'd love to read it. Plus, it helps spread the word about the game, and we really appreciate that."
-msgstr ""
+msgstr "ご愛玩ありがとうございます！私たちはいつでもご意見をお待ちしておりますので、もし感想がございましたら、喜んで拝読致します。加えて、それはゲームを広めるのに役立ちますし、私たちはそれに本当に感謝しています。"
 
 #: STRINGS.SCREENS.STR_4060478193
 msgctxt "STRINGS.SCREENS.STR_4060478193"
@@ -12771,12 +12771,12 @@ msgstr "強化ソケット追加"
 #: STRINGS.SCREENS.STR_486040300
 msgctxt "STRINGS.SCREENS.STR_486040300"
 msgid "MONST3R"
-msgstr "モンスター_MONST3R"
+msgstr "MONST3R(モンスター)"
 
 #: STRINGS.SCREENS.STR_49
 msgctxt "STRINGS.SCREENS.STR_49"
 msgid "1"
-msgstr "1"
+msgstr "１"
 
 #: STRINGS.SCREENS.STR_492921971
 msgctxt "STRINGS.SCREENS.STR_492921971"
@@ -12901,7 +12901,7 @@ msgstr "インコグニータを使い企業のメインフレームにアクセ
 #: STRINGS.SCREENS.STR_684470914
 msgctxt "STRINGS.SCREENS.STR_684470914"
 msgid "Invisible, Inc. is designed as a thrilling experience by creating tough choices with permanent outcomes.\n\nYou can use the REWIND function to revert a particular choice, taking your game back to the start of your previous turn."
-msgstr ""
+msgstr "インビジブル社は取り返しの付かないハードな選択によるスリルを経験するように設計されている。\n\n「巻き戻し」を使うことで現在の選択を元に戻し、前のターンの開始時点に戻すことができる。"
 
 #: STRINGS.SCREENS.STR_687136771
 msgctxt "STRINGS.SCREENS.STR_687136771"
@@ -12971,7 +12971,7 @@ msgstr "スキルを強化"
 #: STRINGS.SCREENS.STR_780787862
 msgctxt "STRINGS.SCREENS.STR_780787862"
 msgid "Invisible, Inc has been updated since you last saved this mission. In order to retain your progress in the mission, some of the changes have not been applied to it yet.\n\nOnce the mission is finished, this campaign will continue with the full update.\n\nOr you can regenerate the mission and start at the beginning with all of the changes by clicking REGEN MISSION below."
-msgstr ""
+msgstr "インビジブル社は最後にこのミッションがセーブされてからアップデートされました。進行状況を保持するために、いくつかの変更はまだ適用されていません。\n\nミッションが完了し次第、この作戦は完全にアップデートされて続行します。\n\nまたは下の「ミッション再生成」をクリックして、全ての変更が済んだミッションを再生成して最初から始めることができます。"
 
 #: STRINGS.SCREENS.STR_797333469
 msgctxt "STRINGS.SCREENS.STR_797333469"
@@ -12991,7 +12991,7 @@ msgstr "|>"
 #: STRINGS.SCREENS.STR_819388705
 msgctxt "STRINGS.SCREENS.STR_819388705"
 msgid "Incognita has provided you with <c:faff0a>TURING</>, allowing you to <c:faff0a>reduce all Firewalls by 2 at the cost of 5 Power (PWR)</>.\n"
-msgstr ""
+msgstr "インコグニータは<c:faff0a>チューリング</>を提供した。<c:faff0a>全ファイヤーウォールを5パワーで２減少</>できる。\n"
 
 #: STRINGS.SCREENS.STR_822622234
 msgctxt "STRINGS.SCREENS.STR_822622234"
@@ -13026,17 +13026,17 @@ msgstr "コウド　ケイホウ　セキュリティー　ケイソク"
 #: STRINGS.SCREENS.STR_875667211
 msgctxt "STRINGS.SCREENS.STR_875667211"
 msgid "Augments are used by permanently installing them on agents. Do you want to install this augment now?"
-msgstr ""
+msgstr "強化機能はエージェントに永久にインストールすることで使用できる。本当に今この強化をインストールしますか？"
 
 #: STRINGS.SCREENS.STR_879562047
 msgctxt "STRINGS.SCREENS.STR_879562047"
 msgid "Units that are knocked out (KO) will wake up several turns later. Guards will become alert and begin hunting the level for your agents. \n\nStanding on a KO unit will pin them in place, postponing their recovery."
-msgstr ""
+msgstr "ノックアウト(KO)されたユニットは数ターン後に起き上がる。警備員は警戒状態になり、エージェントの追跡を始める。\n\nKOされたユニットの上に立つことで釘付けし、復帰を延長できる。"
 
 #: STRINGS.SCREENS.STR_897435471
 msgctxt "STRINGS.SCREENS.STR_897435471"
 msgid "Agents can look around corners without exposing themselves to danger."
-msgstr ""
+msgstr "エージェントは身を危険にさらすことなく角から見回せる。"
 
 #: STRINGS.SCREENS.STR_916358079
 msgctxt "STRINGS.SCREENS.STR_916358079"
@@ -13056,7 +13056,7 @@ msgstr "↑"
 #: STRINGS.SCREENS.STR_959355402
 msgctxt "STRINGS.SCREENS.STR_959355402"
 msgid "<c:8AEFEF>Prepare a patient with a <c:F4FF78>new blank Augment socket</>. A particularly invasive operation which requires applying a sedative. <c:FF3300>(KO FOR 2 TURNS)</></>"
-msgstr ""
+msgstr "<c:8AEFEF>被験者に<c:F4FF78>新しい空の強化ソケット</>を導入する。特に侵襲的な手術には鎮痛剤が必要になる。<c:FF3300>(２ターンのKO)</></>"
 
 #: STRINGS.SCREENS.STR_959678573
 msgctxt "STRINGS.SCREENS.STR_959678573"
@@ -13096,7 +13096,7 @@ msgstr "出身国を入力してください。"
 #: STRINGS.SIGNUP.SIGNED_UP
 msgctxt "STRINGS.SIGNUP.SIGNED_UP"
 msgid "You are now signed-up to receive updates.\nYou will receive a confirmation email to\n{1}\nshortly."
-msgstr ""
+msgstr "アップデート通知に登録しました。\n{1}\nへ確認のメールを送信しました。"
 
 #: STRINGS.SIGNUP.SIGNING_UP
 msgctxt "STRINGS.SIGNUP.SIGNING_UP"
@@ -13266,12 +13266,12 @@ msgstr "警備員を操縦"
 #: STRINGS.TUTORIAL_DIALOGS.PEEK_AROUND_CORNERS
 msgctxt "STRINGS.TUTORIAL_DIALOGS.PEEK_AROUND_CORNERS"
 msgid "PEEK AROUND CORNERS"
-msgstr "角から見渡す"
+msgstr "角から見回す"
 
 #: STRINGS.TUTORIAL_DIALOGS.PEEK_AROUND_DOORS
 msgctxt "STRINGS.TUTORIAL_DIALOGS.PEEK_AROUND_DOORS"
 msgid "PEEK AROUND DOORS"
-msgstr "ドアから見渡す"
+msgstr "ドアから見回す"
 
 #: STRINGS.TUTORIAL_DIALOGS.PINNING
 msgctxt "STRINGS.TUTORIAL_DIALOGS.PINNING"
@@ -13486,12 +13486,12 @@ msgstr "警告\nカメラによる監視"
 #: STRINGS.UI.ALARM_ENFORCERS
 msgctxt "STRINGS.UI.ALARM_ENFORCERS"
 msgid "The corporation has called in {1} elite {1:enforcer|enforcers}. Their security has also pinpointed {2} agent {2:location|locations}."
-msgstr ""
+msgstr "企業はエンフォーサーを{1}人呼んだ。また警備は{2}人のエージェントの位置を特定した。"
 
 #: STRINGS.UI.ALARM_FIREWALLS
 msgctxt "STRINGS.UI.ALARM_FIREWALLS"
 msgid "The corporation has installed firewall upgrades. All firewalls have increased in strength by +%d"
-msgstr ""
+msgstr "企業はファイヤーウォール・アップグレードをインストールした。全ファイヤーウォールが+%d上昇した"
 
 #: STRINGS.UI.ALARM_GUARD_BODY
 msgctxt "STRINGS.UI.ALARM_GUARD_BODY"
@@ -13516,7 +13516,7 @@ msgstr "警戒レベル"
 #: STRINGS.UI.ALARM_INSTALL_FIRST_2
 msgctxt "STRINGS.UI.ALARM_INSTALL_FIRST_2"
 msgid "The corporation detected Incognita's signal when your agents teleported into the facility.\n\nEvery turn, the SECURITY LEVEL will increase as they track her. New security measures are added every 5 increments."
-msgstr ""
+msgstr "企業はエージェントが施設にテレポートした時にインコグニータの信号を検知した。\n\n毎ターン「セキュリティー・レベル」が上昇し、5つ上昇するごとに新しいセキュリティ対策が追加される。"
 
 #: STRINGS.UI.ALARM_LASER_SCAN
 msgctxt "STRINGS.UI.ALARM_LASER_SCAN"
@@ -13536,37 +13536,37 @@ msgstr "警戒レベル%d"
 #: STRINGS.UI.ALARM_NEXT_AFTER_SIX
 msgctxt "STRINGS.UI.ALARM_NEXT_AFTER_SIX"
 msgid "\n\n<c:F4FF78>FULL ALERT:</>\nNew enforcer units will arrive to replace lost units."
-msgstr ""
+msgstr "\n\n<c:F4FF78>最大警告：</>\n新しいエンフォーサーが失われたユニットを補充しに到着する。"
 
 #: STRINGS.UI.ALARM_NEXT_BOOTING
 msgctxt "STRINGS.UI.ALARM_NEXT_BOOTING"
 msgid "\n\n<c:F4FF78>NEXT SECURITY MEASURE:</>\nThe security system will finish booting, no new threats, yet."
-msgstr ""
+msgstr "\n\n<c:F4FF78>次のセキュリティ対策：</>\nセキュリティーシステムは起動を完了するだろう。新たな脅威はまだない。"
 
 #: STRINGS.UI.ALARM_NEXT_CAMERAS
 msgctxt "STRINGS.UI.ALARM_NEXT_CAMERAS"
 msgid "\n\n<c:F4FF78>NEXT SECURITY MEASURE:</>\nMore surveillance cameras will activate."
-msgstr ""
+msgstr "\n\n<c:F4FF78>次のセキュリティ対策：</>\nさらに監視カメラが有効になる。"
 
 #: STRINGS.UI.ALARM_NEXT_ENFORCERS
 msgctxt "STRINGS.UI.ALARM_NEXT_ENFORCERS"
 msgid "\n\n<c:F4FF78>NEXT SECURITY MEASURE:</>\nElite Enforcer units will arrive."
-msgstr ""
+msgstr "\n\n<c:F4FF78>次のセキュリティ対策：</>\nエリート・エンフォーサー・ユニットが到着する。"
 
 #: STRINGS.UI.ALARM_NEXT_FIREWALLS
 msgctxt "STRINGS.UI.ALARM_NEXT_FIREWALLS"
 msgid "\n\n<c:F4FF78>NEXT SECURITY MEASURE:</>\nMAINFRAME firewalls will increase."
-msgstr ""
+msgstr "\n\n<c:F4FF78>次のセキュリティ対策：</>\nメインフレーム・ファイヤーウォールが上昇する。"
 
 #: STRINGS.UI.ALARM_NEXT_PATROL
 msgctxt "STRINGS.UI.ALARM_NEXT_PATROL"
 msgid "\n\n<c:F4FF78>NEXT SECURITY MEASURE:</>\nGuard patrols will increase."
-msgstr ""
+msgstr "\n\n<c:F4FF78>次のセキュリティ対策：</>\n巡回警備が増強される。"
 
 #: STRINGS.UI.ALARM_PATROLS
 msgctxt "STRINGS.UI.ALARM_PATROLS"
 msgid "The corporation has brought {1} more guard {1:patrol|patrols} into the building."
-msgstr ""
+msgstr "企業はもう{1}人の警備を建物内に呼んだ。"
 
 #: STRINGS.UI.ALARM_SOUND
 msgctxt "STRINGS.UI.ALARM_SOUND"
@@ -13581,7 +13581,7 @@ msgstr "警告\nエージェントが発見された"
 #: STRINGS.UI.ALARM_TOOLTIP
 msgctxt "STRINGS.UI.ALARM_TOOLTIP"
 msgid "<c:F4FF78>SECURITY LEVEL</>\nThe facility detected Incognita's distrubance as she beamed you in. They are slowly tracking her signal down, and raising their defences as it locks onto your team's location. New security measures are added every 5 increments."
-msgstr ""
+msgstr "<c:F4FF78>セキュリティー・レベル</>\n施設はインコグニータが転送時に起こした乱れを検知した。彼らは徐々にインコグニータの信号を追跡し、エージェントの位置を特定するごとに防御を強化する。警報が5上昇するごとにセキュリティ対策が追加される。"
 
 #: STRINGS.UI.ALERT_DAMAGED_HEART
 msgctxt "STRINGS.UI.ALERT_DAMAGED_HEART"
@@ -13591,17 +13591,17 @@ msgstr "警告\n心電計が破壊された"
 #: STRINGS.UI.ALERT_HEART
 msgctxt "STRINGS.UI.ALERT_HEART"
 msgid "ALERT\nHEART MONITOR"
-msgstr "警告\n心電計あり"
+msgstr "警告\n心拍計あり"
 
 #: STRINGS.UI.ALERT_IMPROVED_HEART
 msgctxt "STRINGS.UI.ALERT_IMPROVED_HEART"
 msgid "ALERT\nIMPROVED HEART MONITOR"
-msgstr "警告\n強化心電計"
+msgstr "警告\n強化心拍計"
 
 #: STRINGS.UI.AUGMENT_DRILL_MODAL_ACTION
 msgctxt "STRINGS.UI.AUGMENT_DRILL_MODAL_ACTION"
 msgid "DRILL AUGMENT"
-msgstr "強化を訓練"
+msgstr "強化訓練"
 
 #: STRINGS.UI.AUGMENT_DRILL_MODAL_BODY
 msgctxt "STRINGS.UI.AUGMENT_DRILL_MODAL_BODY"
@@ -13971,7 +13971,7 @@ msgstr "現バージョン："
 #: STRINGS.UI.CUSTOM_DESC
 msgctxt "STRINGS.UI.CUSTOM_DESC"
 msgid "Change the campaign generation options as you prefer.\nClicking on another difficulty will reset the values to their default settings."
-msgstr ""
+msgstr "作戦生成オプションを好きに変えられる。\n別の難易度を選択するとデフォルトの設定にリセットされる。"
 
 #: STRINGS.UI.CUSTOM_DIFFICULTY
 msgctxt "STRINGS.UI.CUSTOM_DIFFICULTY"
@@ -14076,17 +14076,17 @@ msgstr "オムニ増援"
 #: STRINGS.UI.DIFFICULTY.7
 msgctxt "STRINGS.UI.DIFFICULTY.7"
 msgid "OMNI GUARDED"
-msgstr "オムニ"
+msgstr "オムニ警備"
 
 #: STRINGS.UI.DIFFICULTY.8
 msgctxt "STRINGS.UI.DIFFICULTY.8"
 msgid "OMNI PROTECTED"
-msgstr "オムニ"
+msgstr "オムニ保護"
 
 #: STRINGS.UI.DIFFICULTY.9
 msgctxt "STRINGS.UI.DIFFICULTY.9"
 msgid "OMNI CONTROLLED"
-msgstr "オムニ"
+msgstr "オムニ制御"
 
 #: STRINGS.UI.DIFFICULTYDESC.1
 msgctxt "STRINGS.UI.DIFFICULTYDESC.1"
@@ -14261,7 +14261,7 @@ msgstr "アイアンマン"
 #: STRINGS.UI.DIFF_OPTION_IRONMAN_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_IRONMAN_TIP"
 msgid "<c:FF8411>IRON MAN MODE</c>\nInvisible, Inc. has an undo feature called REWIND that lets you fix one mistake per mission. Iron Man mode sets the REWINDS to 0 to maximize the tension and achievement of victory."
-msgstr "<c:FF8411>アイアンマン・モード</c>\nインビジブル社 has an undo feature called REWIND that lets you fix one mistake per mission. Iron Man mode sets the REWINDS to 0 to maximize the tension and achievement of victory."
+msgstr "<c:FF8411>アイアンマン・モード</c>\nインビジブル社には「巻き戻し」というミッションごとにミスをひとつやり直せる機能がある。アイアンマン・モードでは巻き戻しをなくすことで、緊張感と勝利の達成感を最大化する。"
 
 #: STRINGS.UI.DIFF_OPTION_KOTIME
 msgctxt "STRINGS.UI.DIFF_OPTION_KOTIME"
@@ -14606,7 +14606,7 @@ msgstr "× ログアウト"
 #: STRINGS.UI.EXPERIENCED_DESC
 msgctxt "STRINGS.UI.EXPERIENCED_DESC"
 msgid "Now that you have a better hang of the game, the corporations are tougher and we're pulling away the safety net. No more level retries: your every action counts."
-msgstr ""
+msgstr "これでこのゲームのコツをつかんだため、企業は手強くなり、セーフティーネットは取り払われた。もうステージ再挑戦はない：全ての行動が重大である。"
 
 #: STRINGS.UI.EXPERIENCED_DIFFICULTY
 msgctxt "STRINGS.UI.EXPERIENCED_DIFFICULTY"
@@ -14646,7 +14646,7 @@ msgstr "エージェントが倒れている。復活には医療ジェルを使
 #: STRINGS.UI.FLAG_KO_PIN_TT
 msgctxt "STRINGS.UI.FLAG_KO_PIN_TT"
 msgid "This unit is KO for {1} {1:turn|turns}. This countdown is paused while the unit is pinned."
-msgstr ""
+msgstr "このユニットは{1}ターンKOしている。このカウントダウンはユニットが釘付けられている間は中断する。"
 
 #: STRINGS.UI.FLAG_KO_TT
 msgctxt "STRINGS.UI.FLAG_KO_TT"
@@ -14666,7 +14666,7 @@ msgstr "待ち伏せ準備完了"
 #: STRINGS.UI.FLY_TXT.AMPED
 msgctxt "STRINGS.UI.FLY_TXT.AMPED"
 msgid "AMPED!"
-msgstr "アンプされた！"
+msgstr "AMPされた！"
 
 #: STRINGS.UI.FLY_TXT.ARMORED
 msgctxt "STRINGS.UI.FLY_TXT.ARMORED"
@@ -14681,7 +14681,7 @@ msgstr "装甲上昇\n+{1}"
 #: STRINGS.UI.FLY_TXT.ATTACK_USED
 msgctxt "STRINGS.UI.FLY_TXT.ATTACK_USED"
 msgid "ATTACK USED"
-msgstr "攻撃済"
+msgstr "攻撃済み"
 
 #: STRINGS.UI.FLY_TXT.AUGMENT_INSTALLED
 msgctxt "STRINGS.UI.FLY_TXT.AUGMENT_INSTALLED"
@@ -14926,17 +14926,17 @@ msgstr "多め"
 #: STRINGS.UI.GENOPTIONS.GUARDSPAWNS.1
 msgctxt "STRINGS.UI.GENOPTIONS.GUARDSPAWNS.1"
 msgid "LESS"
-msgstr "レス"
+msgstr "少なめ"
 
 #: STRINGS.UI.GENOPTIONS.GUARDSPAWNS.2
 msgctxt "STRINGS.UI.GENOPTIONS.GUARDSPAWNS.2"
 msgid "NORMAL"
-msgstr "ノーマル"
+msgstr "並"
 
 #: STRINGS.UI.GENOPTIONS.GUARDSPAWNS.3
 msgctxt "STRINGS.UI.GENOPTIONS.GUARDSPAWNS.3"
 msgid "MORE"
-msgstr "モア"
+msgstr "多め"
 
 #: STRINGS.UI.GENOPTIONS.HOURS.1
 msgctxt "STRINGS.UI.GENOPTIONS.HOURS.1"
@@ -15006,7 +15006,7 @@ msgstr "少なめ"
 #: STRINGS.UI.GENOPTIONS.PROPSPAWNS.3
 msgctxt "STRINGS.UI.GENOPTIONS.PROPSPAWNS.3"
 msgid "NORMAL"
-msgstr "ノーマル"
+msgstr "並"
 
 #: STRINGS.UI.GENOPTIONS.PROPSPAWNS.4
 msgctxt "STRINGS.UI.GENOPTIONS.PROPSPAWNS.4"
@@ -15016,7 +15016,7 @@ msgstr "多め"
 #: STRINGS.UI.GENOPTIONS.PROPSPAWNS.5
 msgctxt "STRINGS.UI.GENOPTIONS.PROPSPAWNS.5"
 msgid "MANY"
-msgstr "たくさん"
+msgstr "大量"
 
 #: STRINGS.UI.GENOPTIONS.REWINDS.1
 msgctxt "STRINGS.UI.GENOPTIONS.REWINDS.1"
@@ -15086,12 +15086,12 @@ msgstr "警戒"
 #: STRINGS.UI.GUARD_DISTRACTED
 msgctxt "STRINGS.UI.GUARD_DISTRACTED"
 msgid "Distracted"
-msgstr "不審点あり"
+msgstr "注意"
 
 #: STRINGS.UI.GUARD_GHOSTED
 msgctxt "STRINGS.UI.GUARD_GHOSTED"
 msgid "Undisturbed"
-msgstr "不審点なし"
+msgstr "未妨害"
 
 #: STRINGS.UI.GUARD_KILLED
 msgctxt "STRINGS.UI.GUARD_KILLED"
@@ -15101,7 +15101,7 @@ msgstr "殺害"
 #: STRINGS.UI.HARD_DESC
 msgctxt "STRINGS.UI.HARD_DESC"
 msgid "This is the base difficulty and tuning for the game. It assumes you understand the mechanics of the game well, and pulls no punches."
-msgstr ""
+msgstr "これがゲームの基本の難易度と調整である。ゲームの仕組みの良い理解を仮定しており、手加減はない。"
 
 #: STRINGS.UI.HARD_DIFFICULTY
 msgctxt "STRINGS.UI.HARD_DIFFICULTY"
@@ -15111,7 +15111,7 @@ msgstr "エキスパート"
 #: STRINGS.UI.HARD_SHORT_DESC
 msgctxt "STRINGS.UI.HARD_SHORT_DESC"
 msgid "Designed for seasoned players of Invisible, Inc."
-msgstr ""
+msgstr "経験豊かなインビジブル社のプレイヤーに向けてデザインされている。"
 
 #: STRINGS.UI.HIDDEN
 msgctxt "STRINGS.UI.HIDDEN"
@@ -15121,7 +15121,7 @@ msgstr "隠蔽"
 #: STRINGS.UI.HIDDEN_TT
 msgctxt "STRINGS.UI.HIDDEN_TT"
 msgid "This location is hidden from enemy sight."
-msgstr "この場所は敵からは見えない。"
+msgstr "この場所は敵の視界から隠されている。"
 
 #: STRINGS.UI.HOTKEYS.CAMERA_CONTROLS
 msgctxt "STRINGS.UI.HOTKEYS.CAMERA_CONTROLS"
@@ -15166,7 +15166,7 @@ msgstr "キャラクターシート"
 #: STRINGS.UI.HOTKEYS.CYCLE_SELECT
 msgctxt "STRINGS.UI.HOTKEYS.CYCLE_SELECT"
 msgid "CYCLE SELECTION"
-msgstr "循環選択"
+msgstr "エージェント切り替え"
 
 #: STRINGS.UI.HOTKEYS.GAMEPLAY
 msgctxt "STRINGS.UI.HOTKEYS.GAMEPLAY"
@@ -15176,7 +15176,7 @@ msgstr "ゲームプレイ"
 #: STRINGS.UI.HOTKEYS.MAINFRAME
 msgctxt "STRINGS.UI.HOTKEYS.MAINFRAME"
 msgid "TOGGLE MAINFRAME"
-msgstr "メインフレームを切り替え"
+msgstr "メインフレームの切り替え"
 
 #: STRINGS.UI.HOTKEYS.NEXT_TURN
 msgctxt "STRINGS.UI.HOTKEYS.NEXT_TURN"
@@ -15191,7 +15191,7 @@ msgstr "キャンセルしてオプションへ"
 #: STRINGS.UI.HOTKEYS.TOGGLE_VIEW
 msgctxt "STRINGS.UI.HOTKEYS.TOGGLE_VIEW"
 msgid "TOGGLE VIEW"
-msgstr "ビューを切り替え"
+msgstr "ビューの切り替え"
 
 #: STRINGS.UI.HOTKEYS.TOGGLE_WALLS
 msgctxt "STRINGS.UI.HOTKEYS.TOGGLE_WALLS"
@@ -15251,12 +15251,12 @@ msgstr "アクションを確定"
 #: STRINGS.UI.HUD_CONFIRM_ESCAPE
 msgctxt "STRINGS.UI.HUD_CONFIRM_ESCAPE"
 msgid "The level will end if %s escapes. Are you sure you want to leave %s behind?"
-msgstr ""
+msgstr "このステージは%sが脱出すると終了する。本当に%sを置き去りにしますか？"
 
 #: STRINGS.UI.HUD_CONFIRM_PARTIAL_ESCAPE
 msgctxt "STRINGS.UI.HUD_CONFIRM_PARTIAL_ESCAPE"
 msgid "Escaped agents can not re-enter the mission, and the teleporter will be on cooldown for a couple of turns after transport.\n\nAre you sure you want to leave now?"
-msgstr ""
+msgstr "脱出したエージェントはミッションに再突入できず、テレポーターは使用後に２ターンの冷却に入る。\n\n本当に今脱出しますか？"
 
 #: STRINGS.UI.HUD_DAYS_TURN_ALARM
 msgctxt "STRINGS.UI.HUD_DAYS_TURN_ALARM"
@@ -15366,7 +15366,7 @@ msgstr "本当に脱出しますか？まだ連絡先一覧を管理用端末か
 #: STRINGS.UI.HUD_WARN_EXIT_MISSION_DISPATCH
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_MISSION_DISPATCH"
 msgid "Are you sure you want to leave? You don't have the High-Security loot item."
-msgstr "本当に脱出しますか？まだ高等保安がアイテムを略奪していません。"
+msgstr "本当に脱出しますか？まだ高度セキュリティー戦利品アイテムを入手していません。"
 
 #: STRINGS.UI.HUD_WARN_EXIT_MISSION_VAULT
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_MISSION_VAULT"
@@ -15506,7 +15506,7 @@ msgstr "オペレーター、慎重にターゲットを選択してくれ―こ
 #: STRINGS.UI.LOCALE_CHANGED_BODY
 msgctxt "STRINGS.UI.LOCALE_CHANGED_BODY"
 msgid "Changes to the current language will take effect when the game restarts."
-msgstr "選択した言語への変更は\nゲームの再起動後に有効になります。"
+msgstr "選択した言語への変更はゲームの再起動後に\n有効になります。"
 
 #: STRINGS.UI.LOCALE_CHANGED_HEADER
 msgctxt "STRINGS.UI.LOCALE_CHANGED_HEADER"
@@ -15521,7 +15521,7 @@ msgstr "ロック済"
 #: STRINGS.UI.LOOT_MODAL1
 msgctxt "STRINGS.UI.LOOT_MODAL1"
 msgid "The {1} augment has been permanently installed on {2}."
-msgstr "強化_{1}は{2}に永久にインストールされる。"
+msgstr "強化{1}は{2}に永久にインストールされる。"
 
 #: STRINGS.UI.LOOT_MODAL2
 msgctxt "STRINGS.UI.LOOT_MODAL2"
@@ -15821,7 +15821,7 @@ msgstr "マップ探索"
 #: STRINGS.UI.MAP_INFILTRATE
 msgctxt "STRINGS.UI.MAP_INFILTRATE"
 msgid "> INFILTRATE"
-msgstr "> 浸透戦術"
+msgstr "> 潜入する"
 
 #: STRINGS.UI.MAP_MOREINFO
 msgctxt "STRINGS.UI.MAP_MOREINFO"
@@ -16506,12 +16506,12 @@ msgstr "釘付け中の敵"
 #: STRINGS.UI.REASON.EQUIPPED_ON_COOLDOWN
 msgctxt "STRINGS.UI.REASON.EQUIPPED_ON_COOLDOWN"
 msgid "Equipped ability on cooldown"
-msgstr ""
+msgstr "装備能力は冷却中"
 
 #: STRINGS.UI.REASON.FULL_STASH
 msgctxt "STRINGS.UI.REASON.FULL_STASH"
 msgid "Not enough room in storage."
-msgstr "空きがない。"
+msgstr "手持ちに空きがない。"
 
 #: STRINGS.UI.REASON.HACKED_DRONES_CANT_OVERWATCH
 msgctxt "STRINGS.UI.REASON.HACKED_DRONES_CANT_OVERWATCH"
@@ -16521,12 +16521,12 @@ msgstr "ハックされたドローンは監視を使えない"
 #: STRINGS.UI.REASON.INCOGNITA_LOCKED_DOWN
 msgctxt "STRINGS.UI.REASON.INCOGNITA_LOCKED_DOWN"
 msgid "Incognita locked down"
-msgstr ""
+msgstr "インコグニータ封鎖"
 
 #: STRINGS.UI.REASON.INVALID_TARGET
 msgctxt "STRINGS.UI.REASON.INVALID_TARGET"
 msgid "Invalid target"
-msgstr "不適切な対象"
+msgstr "無効な対象"
 
 #: STRINGS.UI.REASON.INVENTORY_FULL
 msgctxt "STRINGS.UI.REASON.INVENTORY_FULL"
@@ -16546,7 +16546,7 @@ msgstr "このマシンは使用済み"
 #: STRINGS.UI.REASON.MONST3R_MUST_LEAVE
 msgctxt "STRINGS.UI.REASON.MONST3R_MUST_LEAVE"
 msgid "Monst3r must leave first."
-msgstr "Monst3r_がまず出ねばならない。"
+msgstr "Monst3rが先に出ねばならない。"
 
 #: STRINGS.UI.REASON.MONST3R_REQUIRED
 msgctxt "STRINGS.UI.REASON.MONST3R_REQUIRED"
@@ -16741,7 +16741,7 @@ msgstr "ユニットがKO"
 #: STRINGS.UI.REASON.UNIT_NOT_TAGGED
 msgctxt "STRINGS.UI.REASON.UNIT_NOT_TAGGED"
 msgid "Unit NOT tagged"
-msgstr "タグ付け<b>「なし」</b>のユニット"
+msgstr "タグ付け「なし」のユニット"
 
 #: STRINGS.UI.REASON.UNLOCK_WITH_VAULT_TERMINAL
 msgctxt "STRINGS.UI.REASON.UNLOCK_WITH_VAULT_TERMINAL"
@@ -16751,7 +16751,7 @@ msgstr "金庫アクセス端末を使用して開放"
 #: STRINGS.UI.REASON.WRONG_WRENCH
 msgctxt "STRINGS.UI.REASON.WRONG_WRENCH"
 msgid "Wrong strength for WRENCH {1}"
-msgstr ""
+msgstr "レンチ{1}の対象外"
 
 #: STRINGS.UI.RECAP.CLEANUP
 msgctxt "STRINGS.UI.RECAP.CLEANUP"
@@ -16766,7 +16766,7 @@ msgstr "盗んだクレジット"
 #: STRINGS.UI.RECAP.ECONCHIP
 msgctxt "STRINGS.UI.RECAP.ECONCHIP"
 msgid "ECONCHIP CONVERSION"
-msgstr ""
+msgstr "経済チップ変換"
 
 #: STRINGS.UI.RECAP.HACKED
 msgctxt "STRINGS.UI.RECAP.HACKED"
@@ -16781,7 +16781,7 @@ msgstr "人質救出"
 #: STRINGS.UI.RECAP.MAPPING
 msgctxt "STRINGS.UI.RECAP.MAPPING"
 msgid "MICROSLAM CREDITS"
-msgstr "MICROSLAM_クレジット"
+msgstr "マイクロSLAMクレジット"
 
 #: STRINGS.UI.RECAP.NOTHACKED
 msgctxt "STRINGS.UI.RECAP.NOTHACKED"
@@ -16866,17 +16866,17 @@ msgstr "ゲーム終了"
 #: STRINGS.UI.REWIND_SUGGEST
 msgctxt "STRINGS.UI.REWIND_SUGGEST"
 msgid "REWIND will revert the simulation back to the start of your previous turn.\n\nWould you like to do so now?"
-msgstr ""
+msgstr "「巻き戻し」は状況を前のターンの開始時点に戻します。\n\n本当に今そうしますか？"
 
 #: STRINGS.UI.REWIND_TIP
 msgctxt "STRINGS.UI.REWIND_TIP"
 msgid "Rewind the game to the start of the previous turn.\n\nREWINDS REMAINING: "
-msgstr ""
+msgstr "このゲームを前のターンの開始時点に巻き戻す。\n\n残り巻き戻し回数："
 
 #: STRINGS.UI.SAFES_LOOTED
 msgctxt "STRINGS.UI.SAFES_LOOTED"
 msgid "SAFES LOOTED"
-msgstr ""
+msgstr "略奪された金庫"
 
 #: STRINGS.UI.SAVESLOTS.CONTINUE
 msgctxt "STRINGS.UI.SAVESLOTS.CONTINUE"
@@ -16911,7 +16911,7 @@ msgstr "エンドレス・モード"
 #: STRINGS.UI.SAVESLOTS.PLAYED_TUTORIAL
 msgctxt "STRINGS.UI.SAVESLOTS.PLAYED_TUTORIAL"
 msgid "It is recommended you play the tutorial the first time you play Invisible, Inc.\n\nDo you want to play the tutorial first?"
-msgstr "初めてインビジブル社をプレイするときはチュートリアルをするのをおすすめします。\n\nチュートリアルを始めますか？"
+msgstr "初めてインビジブル社をプレイするときはチュートリアルをおすすめします。\n\nチュートリアルを始めますか？"
 
 #: STRINGS.UI.SAVESLOTS.PLAY_STORY
 msgctxt "STRINGS.UI.SAVESLOTS.PLAY_STORY"
@@ -16981,7 +16981,7 @@ msgstr "AMPスキャン中"
 #: STRINGS.UI.SCANNER_ALERT_TXT
 msgctxt "STRINGS.UI.SCANNER_ALERT_TXT"
 msgid "An advanced scanning amplifier has pinpointed your location. A guard has been sent to investigate."
-msgstr ""
+msgstr "発展型スキャン増幅器はピンポイントで位置を特定する。警備員が調査に来る。"
 
 #: STRINGS.UI.SCREEN_NAME_GENERATION_OPTIONS
 msgctxt "STRINGS.UI.SCREEN_NAME_GENERATION_OPTIONS"
@@ -16996,12 +16996,12 @@ msgstr "チーム選択"
 #: STRINGS.UI.SECURITY_HACKED
 msgctxt "STRINGS.UI.SECURITY_HACKED"
 msgid "SECURITY HACKED"
-msgstr ""
+msgstr "ハックされたセキュリティー"
 
 #: STRINGS.UI.SELECT_DLC
 msgctxt "STRINGS.UI.SELECT_DLC"
 msgid "SELECT DLC"
-msgstr "DLC_選択"
+msgstr "DLC選択"
 
 #: STRINGS.UI.SELL_TO_MONST3R
 msgctxt "STRINGS.UI.SELL_TO_MONST3R"
@@ -17026,12 +17026,12 @@ msgstr "インベントリ"
 #: STRINGS.UI.SHOP_LOOT
 msgctxt "STRINGS.UI.SHOP_LOOT"
 msgid "LOOT %s_"
-msgstr "%sから略奪"
+msgstr "%s_から略奪"
 
 #: STRINGS.UI.SHOP_MINISERVER
 msgctxt "STRINGS.UI.SHOP_MINISERVER"
 msgid "ACCESS TO WAREZ: M1N1 B@Z@@R"
-msgstr "ウェアへのアクセス：M1N1 B@Z@@R"
+msgstr "ソフトへのアクセス：M1N1 B@Z@@R"
 
 #: STRINGS.UI.SHOP_MONST3R
 msgctxt "STRINGS.UI.SHOP_MONST3R"
@@ -17076,12 +17076,12 @@ msgstr "プログラムを売る"
 #: STRINGS.UI.SHOP_SERVER
 msgctxt "STRINGS.UI.SHOP_SERVER"
 msgid "ACCESS TO WAREZ: GR@ND B@Z@@R"
-msgstr "ウェア市にアクセス： GR@ND B@Z@@R (グランド・バザール)"
+msgstr "ソフト市にアクセス： GR@ND B@Z@@R (グランド・バザール)"
 
 #: STRINGS.UI.SHOP_WAREZ
 msgctxt "STRINGS.UI.SHOP_WAREZ"
 msgid "WAREZ INVENTORY"
-msgstr "ウェア・インベントリ"
+msgstr "ソフト・インベントリ"
 
 #: STRINGS.UI.SHOT_PRESENTATION_ELIMINATING_TARGET
 msgctxt "STRINGS.UI.SHOT_PRESENTATION_ELIMINATING_TARGET"
@@ -17106,7 +17106,7 @@ msgstr "購入完了。さらなるお買い求めにはGR@ND B@Z@@Rにお越し
 #: STRINGS.UI.SMALLCATSHOP_BUY.3
 msgctxt "STRINGS.UI.SMALLCATSHOP_BUY.3"
 msgid "HIGH LEVEL PROGRAMS AVAILABLE AT OUR FULL-SIZE LOCATIONS."
-msgstr ""
+msgstr "高レベルのプログラムがフルサイズの店舗でお求めいただけます。"
 
 #: STRINGS.UI.SMALLCATSHOP_BUY.4
 msgctxt "STRINGS.UI.SMALLCATSHOP_BUY.4"
@@ -17166,7 +17166,7 @@ msgstr "リャン・デイビス (1979-2013) は、_"
 #: STRINGS.UI.TASWELL_INFO_BTN
 msgctxt "STRINGS.UI.TASWELL_INFO_BTN"
 msgid "MORE INFO"
-msgstr "さらに_"
+msgstr "詳細"
 
 #: STRINGS.UI.TASWELL_QUOTE
 msgctxt "STRINGS.UI.TASWELL_QUOTE"
@@ -17186,22 +17186,22 @@ msgstr "このエージェントは分類済みです。"
 #: STRINGS.UI.TEAM_SELECT.LOCKED_AGENT_NAME
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_AGENT_NAME"
 msgid "CLASSIFIED"
-msgstr "分類済み"
+msgstr "機密事項"
 
 #: STRINGS.UI.TEAM_SELECT.LOCKED_ALT
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_ALT"
 msgid "CLASSIFIED"
-msgstr "分類済み"
+msgstr "機密事項"
 
 #: STRINGS.UI.TEAM_SELECT.LOCKED_LOADOUT
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_LOADOUT"
 msgid "You've selected CLASSIFIED components to your team. Please select a team loadout that you have access to."
-msgstr ""
+msgstr "機密事項をチームに加入しようとしました。アクセスできる戦闘員をチームに選択してください。"
 
 #: STRINGS.UI.TEAM_SELECT.UNLOCK_CENTRAL_MONSTER
 msgctxt "STRINGS.UI.TEAM_SELECT.UNLOCK_CENTRAL_MONSTER"
 msgid "COMPLETE EXPERIENCED DIFFICULTY TO UNLOCK"
-msgstr ""
+msgstr "経験者難易度を完了して解除"
 
 #: STRINGS.UI.TEAM_SELECT.UNLOCK_TO_USE
 msgctxt "STRINGS.UI.TEAM_SELECT.UNLOCK_TO_USE"
@@ -17661,7 +17661,7 @@ msgstr "盗む"
 #: STRINGS.UI.TOOLTIPS.STEAL_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.STEAL_DESC"
 msgid "Steal credits from logged in accounts at the cost of raising the alarm."
-msgstr "警報を上げる代償に、ログイン済みのアカウントからクレジットを盗む。"
+msgstr "ログイン済みのアカウントからクレジットを盗む代償に、警報が上がる。"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR"
