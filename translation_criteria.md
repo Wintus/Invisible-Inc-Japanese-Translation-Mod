@@ -33,6 +33,7 @@
 | body					| 肢体
 | boost					| ブースト
 | buff / debuff				| 強化・弱体化
+| campaign				| 作戦
 | control				| 制御
 | corpse				| 死体
 | cover					| 遮蔽物
