@@ -1,7 +1,6 @@
 # coding: utf-8
 
 from itertools import zip_longest
-from tinysegmenter import TinySegmenter
 
 
 def grouper(iterable, n, fillvalue=None):
@@ -109,11 +108,31 @@ def wrapper(string, n):
     return str_wrap_save_newline(string, n)
 
 
-# create a Japanese string with newline wrapping function
-# get a string and a wrapping width number
-# turn the given string into tokens
-# accumulate tokens that the total char count doesn't exceed the width number
-# if the count exceeds the wrapping width, put \n then keep going
+from tinysegmenter import TinySegmenter
+
+
+def wrapper_jp(string, width):
+    """Japanese string with newline wrapping function"""
+    segmenter = TinySegmenter()
+    tokens = segmenter.tokenize(string)
+    token_remain = lambda: len(tokens) > 0
+    # save lines shorter than width into result
+    result = ""
+    while token_remain():
+        line = ""
+        # accumulate tokens whose total is shorter than width into line
+        while token_remain() and len(line + tokens[0]) <= width:
+            line += tokens.pop(0)
+        else:
+            result += line + ('\n' if token_remain() else '')
+    # print(result)
+    return result
+
+
+@str_save
+def wrapper_jp_with_newline(string, width, newline='\n'):
+    str_list = string.split(newline)
+    return newline.join(map(lambda s: wrapper_jp(s, width), str_list))
 
 
 if __name__ == '__main__':
@@ -125,5 +144,5 @@ if __name__ == '__main__':
 
     n_wrap = bio
     str_input = input("Input wrapping string by {}:\n".format(n_wrap))
-    result = wrapper(str_input, n_wrap)
+    result = wrapper_jp_with_newline(str_input, n_wrap)
     print(result)
