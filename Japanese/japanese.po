@@ -3566,7 +3566,7 @@ msgstr "デーモンにより警報が{1}上昇"
 #: STRINGS.DAEMONS.ALERTBLOWFISH.DESC
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.DESC"
 msgid "Advances tracker"
-msgstr "警戒レベルを上昇させる"
+msgstr "警報レベルを上昇させる"
 
 #: STRINGS.DAEMONS.ALERTBLOWFISH.NAME
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.NAME"
@@ -3576,7 +3576,7 @@ msgstr "FUGU 2.0"
 #: STRINGS.DAEMONS.ALERTBLOWFISH.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.SHORT_DESC"
 msgid "Advances tracker"
-msgstr "警戒レベル上昇"
+msgstr "警報レベル上昇"
 
 #: STRINGS.DAEMONS.ALERTFRACTAL.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTFRACTAL.ACTIVE_DESC"
@@ -3671,7 +3671,7 @@ msgstr "デーモンにより警報が{1}上昇"
 #: STRINGS.DAEMONS.BLOWFISH.DESC
 msgctxt "STRINGS.DAEMONS.BLOWFISH.DESC"
 msgid "Advances tracker"
-msgstr "警戒レベルを上昇させる"
+msgstr "警報レベルを上昇させる"
 
 #: STRINGS.DAEMONS.BLOWFISH.NAME
 msgctxt "STRINGS.DAEMONS.BLOWFISH.NAME"
@@ -3681,7 +3681,7 @@ msgstr "FUGU"
 #: STRINGS.DAEMONS.BLOWFISH.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.BLOWFISH.SHORT_DESC"
 msgid "Advances tracker"
-msgstr "警戒レベル上昇"
+msgstr "警報レベル上昇"
 
 #: STRINGS.DAEMONS.DAEMON_PNL_TITLE
 msgctxt "STRINGS.DAEMONS.DAEMON_PNL_TITLE"
@@ -5491,7 +5491,7 @@ msgstr ""
 #: STRINGS.ITEMS.LAPTOP_INTERNATIONALE_TOOLTIP
 msgctxt "STRINGS.ITEMS.LAPTOP_INTERNATIONALE_TOOLTIP"
 msgid "Generates PWR when ALARM level changes if deployed.\nAlarm Level x 2 = PWR. Deploying has a 2 turn cooldown."
-msgstr "展開後、警戒レベルの変化時にパワーを生成。展開後、２ターン冷却。"
+msgstr "展開後、警報レベルの変化時にパワーを生成。展開後、２ターン冷却。"
 
 #: STRINGS.ITEMS.LOCK_DECODER_1
 msgctxt "STRINGS.ITEMS.LOCK_DECODER_1"
@@ -9476,7 +9476,7 @@ msgstr "*アゥ*"
 #: STRINGS.MOVIE_SUBS.INTRO_6
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_6"
 msgid "Insertion was clean.\nAlarm level holding steady."
-msgstr "挿入は清潔。\n警戒レベルは現状維持。"
+msgstr "挿入は清潔。\n警報レベルは現状維持。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_7
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_7"
@@ -9741,12 +9741,12 @@ msgstr "<c:FF8411>１ファイヤーウォール</c>破壊。コスト：<c:77FF
 #: STRINGS.PROGRAMS.DYNAMO.DESC
 msgctxt "STRINGS.PROGRAMS.DYNAMO.DESC"
 msgid "Generate 2 PWR points per turn. Disabled until Alarm Level 2.\nPASSIVE"
-msgstr "毎ターン２パワー生成。\n警戒レベル２まで無効。\nパッシブ"
+msgstr "毎ターン２パワー生成。\n警報レベル２まで無効。\nパッシブ"
 
 #: STRINGS.PROGRAMS.DYNAMO.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.DYNAMO.HUD_DESC"
 msgid "+2 PWR PER TURN AFTER ALARM LEVEL 2"
-msgstr "警戒レベルが２に達したあと、毎ターンパワー+2"
+msgstr "警報レベルが２に達したあと、毎ターンパワー+2"
 
 #: STRINGS.PROGRAMS.DYNAMO.NAME
 msgctxt "STRINGS.PROGRAMS.DYNAMO.NAME"
@@ -9756,7 +9756,7 @@ msgstr "ダイナモ"
 #: STRINGS.PROGRAMS.DYNAMO.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.DYNAMO.SHORT_DESC"
 msgid "Generates PWR after Alarm Level 2"
-msgstr "警戒レベル２以降パワー生成"
+msgstr "警報レベル２以降パワー生成"
 
 #: STRINGS.PROGRAMS.DYNAMO.WARNING
 msgctxt "STRINGS.PROGRAMS.DYNAMO.WARNING"
@@ -10191,7 +10191,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.MERCENARY.DESC
 msgctxt "STRINGS.PROGRAMS.MERCENARY.DESC"
 msgid "Breaks 2 firewalls. +2 PWR cost per use. Cost resets at each alarm Level."
-msgstr "２ファイヤーウォールを破壊する。\n使用ごとにパワー消費+2。\nコストは各警戒レベル到達時に\nリセットされる。"
+msgstr "２ファイヤーウォールを破壊する。\n使用ごとにパワー消費+2。\nコストは各警報レベル到達時に\nリセットされる。"
 
 #: STRINGS.PROGRAMS.MERCENARY.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.MERCENARY.HUD_DESC"
@@ -10466,7 +10466,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.RAPIER.DESC
 msgctxt "STRINGS.PROGRAMS.RAPIER.DESC"
 msgid "Breaks 1 firewall.\nPWR cost increases by 1 each Alarm Level."
-msgstr "１ファイヤーウォールを破壊する。\n警戒レベルごとにパワー消費が１増加する。"
+msgstr "１ファイヤーウォールを破壊する。\n警報レベルごとにパワー消費が１増加する。"
 
 #: STRINGS.PROGRAMS.RAPIER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.RAPIER.HUD_DESC"
@@ -10961,7 +10961,7 @@ msgstr "赤外線ビーム"
 #: STRINGS.PROPS.INFRARED_BEAM_TOOLTIP
 msgctxt "STRINGS.PROPS.INFRARED_BEAM_TOOLTIP"
 msgid "The beams will advance the alarm tracker."
-msgstr "ビームに引っかかると警戒レベルが上昇する。"
+msgstr "ビームに引っかかると警報レベルが上昇する。"
 
 #: STRINGS.PROPS.INFRARED_WALL
 msgctxt "STRINGS.PROPS.INFRARED_WALL"
@@ -11116,7 +11116,7 @@ msgstr "サウンド・バグ"
 #: STRINGS.PROPS.SOUND_BUG_TOOLTIP
 msgctxt "STRINGS.PROPS.SOUND_BUG_TOOLTIP"
 msgid "Alerts guards and raises the alarm when it hears a loud sound."
-msgstr "騒音を検知すると、警備員に警告して警戒レベルを上げる。"
+msgstr "騒音を検知すると、警備員に警告して警報レベルを上げる。"
 
 #: STRINGS.PROPS.STORE
 msgctxt "STRINGS.PROPS.STORE"
@@ -11876,7 +11876,7 @@ msgstr "テイサツ　リヨウ"
 #: STRINGS.SCREENS.STR_2120112437
 msgctxt "STRINGS.SCREENS.STR_2120112437"
 msgid "ALARM LEVEL"
-msgstr "警戒レベル"
+msgstr "警報レベル"
 
 #: STRINGS.SCREENS.STR_2127324410
 msgctxt "STRINGS.SCREENS.STR_2127324410"
@@ -13426,7 +13426,7 @@ msgstr "アクティブ"
 #: STRINGS.UI.ADVANCED_ALARM_TOOLTIP
 msgctxt "STRINGS.UI.ADVANCED_ALARM_TOOLTIP"
 msgid "<c:a40000>ADVANCED SECURITY LEVEL</>\nThe corporations have elevated their response to intrusion due to your previous successes. These new security measures will activate every 5 increments as before."
-msgstr "<c:a40000>高度な警戒レベル</>\n企業は侵入への対応を活動に応じて引き上げる。\nこれらの新たなセキュリティー対策は、\n5段階ごとに有効になる。"
+msgstr "<c:a40000>上昇する警戒レベル</>\n企業は侵入への対応を活動に応じて引き上げる。\nこれらの新たなセキュリティー対策は、\n5段階ごとに有効になる。"
 
 #: STRINGS.UI.AGENTS_ESCAPED
 msgctxt "STRINGS.UI.AGENTS_ESCAPED"
@@ -13531,7 +13531,7 @@ msgstr "アラーム・トラッカー・レベル"
 #: STRINGS.UI.ALARM_LEVEL_NUM
 msgctxt "STRINGS.UI.ALARM_LEVEL_NUM"
 msgid "ALARM LEVEL %d"
-msgstr "警戒レベル%d"
+msgstr "警報レベル%d"
 
 #: STRINGS.UI.ALARM_NEXT_AFTER_SIX
 msgctxt "STRINGS.UI.ALARM_NEXT_AFTER_SIX"
@@ -17661,7 +17661,7 @@ msgstr "盗む"
 #: STRINGS.UI.TOOLTIPS.STEAL_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.STEAL_DESC"
 msgid "Steal credits from logged in accounts at the cost of raising the alarm."
-msgstr "ログイン済みのアカウントからクレジットを盗む代償に、警報が上がる。"
+msgstr "ログイン済みのアカウントからクレジットを盗む代償に、警報が上が。る"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR"
@@ -17811,7 +17811,7 @@ msgstr "居場所をスキャン中"
 #: STRINGS.UI.TOOLTIP_SCANNER_DESC
 msgctxt "STRINGS.UI.TOOLTIP_SCANNER_DESC"
 msgid "Sends a guard to investigate your location each alarm level"
-msgstr "警戒レベルごとに警備員をエージェントの位置の捜査に送る"
+msgstr "警報レベルごとに警備員をエージェントの位置の捜査に送る"
 
 #: STRINGS.UI.TOOLTIP_TAGGED
 msgctxt "STRINGS.UI.TOOLTIP_TAGGED"
