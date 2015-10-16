@@ -31,48 +31,6 @@ def str_wrap_save_newline(string, n):
     return '\n'.join(map(lambda s: s.replace(str_dummy, '\n'), iter_result))
 
 
-# extract and generalize modification logic as decorator pattern
-def str_save(target, holder=str_dummy):
-    """Save sub-strings during the process and put them back at the end.
-
-    return Decorator"""
-
-    def decorator(func):
-        from functools import wraps
-        from collections import Iterable
-
-        @wraps(func)
-        def wrapper(*args, **kwargs):
-            def replacer_maker(old, new):
-                def replacer(x):
-                    if isinstance(x, str):
-                        return x.replace(old, new)
-                    else:
-                        return x
-                return replacer
-
-            # replace target in string of args
-            new_args = map(replacer_maker(target, holder), args)
-            result = func(*new_args, **kwargs)
-            # recover target in string of output
-            if isinstance(result, str):
-                return result.replace(holder, target)
-            elif isinstance(result, Iterable):
-                return map(replacer_maker(holder, target), result)
-            else:
-                return result
-        return wrapper
-    return decorator
-
-
-# and here get the decorated function
-# wrapper == str_wrap_save_newline
-@str_save('\n')
-def wrapper(string, n):
-    """Wrap a given string by n-char width keeping CR"""
-    return str_wrap(string, n)
-
-
 def str_wrap_with_newline(string, n, newline='\n'):
     str_list = string.split(newline)
     return newline.join(map(lambda s: str_wrap(s, n), str_list))
@@ -111,6 +69,54 @@ class GoAndReturnOperator(object):
             raise ValueError("Invalid operator")
 
 escape = GoAndReturnOperator(descape, rescape)
+
+
+def replacer_maker(old, new):
+    def replacer(x):
+        if isinstance(x, str):
+            return x.replace(old, new)
+        else:
+            return x
+    return replacer
+
+store_newline = replacer_maker('\n', str_dummy)
+restore_newline = replacer_maker(str_dummy, '\n')
+newline_storer = GoAndReturnOperator(store_newline, restore_newline)
+
+
+# extract and generalize modification logic as decorator pattern
+def go_and_return_decorator_maker(pair):
+    """Modify first with pair.op_do and revert it by pair.op_redo.
+
+    return Decorator"""
+
+    assert isinstance(pair, GoAndReturnOperator)
+
+    def decorator(func):
+        from functools import wraps
+
+        @wraps(func)
+        def wrapper(*args, **kwargs):
+            # replace target in string of args
+            new_args = map(pair.getDo(), args)
+            result = func(*new_args, **kwargs)
+            # recover target in string of output
+            return pair.getRedo()(result)
+        return wrapper
+    return decorator
+
+str_save = go_and_return_decorator_maker(newline_storer)
+escape_dec = go_and_return_decorator_maker(escape)
+
+# and here get the decorated function
+# wrapper == str_wrap_save_newline
+
+
+@str_save
+def wrapper(string, n):
+    """Wrap a given string by n-char width keeping CR"""
+    return str_wrap(string, n)
+
 
 # create a string-wrapping iterator with counter
 # get a iterator of string and wrapping width number
