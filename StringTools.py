@@ -73,6 +73,11 @@ def wrapper(string, n):
     return str_wrap(string, n)
 
 
+def str_wrap_with_newline(string, n, newline='\n'):
+    str_list = string.split(newline)
+    return newline.join(map(lambda s: str_wrap(s, n), str_list))
+
+
 # create a string-wrapping iterator with counter
 # get a iterator of string and wrapping width number
 # implementation
