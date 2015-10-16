@@ -18,7 +18,7 @@ def str_chop(string, n):
 # simple solution
 def str_wrap(string, n):
     """Wrap a given string by n-char width"""
-    return r"\n".join(str_chop(string, n))
+    return '\n'.join(str_chop(string, n))
 
 
 str_dummy = '闕'
@@ -27,8 +27,8 @@ str_dummy = '闕'
 # desired function
 def str_wrap_save_newline(string, n):
     """Wrap a given string by n-char width keeping CR"""
-    iter_result = str_chop(string.replace(r"\n", str_dummy), n)
-    return r"\n".join(map(lambda s: s.replace(str_dummy, r"\n"), iter_result))
+    iter_result = str_chop(string.replace('\n', str_dummy), n)
+    return '\n'.join(map(lambda s: s.replace(str_dummy, '\n'), iter_result))
 
 
 # extract and generalize modification logic as decorator pattern
@@ -67,7 +67,7 @@ def str_save(target, holder=str_dummy):
 
 # and here get the decorated function
 # wrapper == str_wrap_save_newline
-@str_save(r"\n")
+@str_save('\n')
 def wrapper(string, n):
     """Wrap a given string by n-char width keeping CR"""
     return str_wrap(string, n)
@@ -78,7 +78,8 @@ def wrapper(string, n):
 # implementation
 # if given a string, token it into iterator
 # pull a chunk of string from the given iterator and count its length
-# if the count exceeds the wrapping width, push \n at end then keep going from 0 with the current string
+# if the count exceeds the wrapping width, push \n at end then keep going
+# from 0 with the current string
 
 
 if __name__ == '__main__':
