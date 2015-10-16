@@ -21,17 +21,8 @@ def str_wrap(string, n):
     return '\n'.join(str_chop(string, n))
 
 
-str_dummy = '闕'
-
-
 # desired function
-def str_wrap_save_newline(string, n):
-    """Wrap a given string by n-char width keeping CR"""
-    iter_result = str_chop(string.replace('\n', str_dummy), n)
-    return '\n'.join(map(lambda s: s.replace(str_dummy, '\n'), iter_result))
-
-
-def str_wrap_with_newline(string, n, newline='\n'):
+def str_wrap_save_newline(string, n, newline='\n'):
     str_list = string.split(newline)
     return newline.join(map(lambda s: str_wrap(s, n), str_list))
 
@@ -51,23 +42,10 @@ def apply_to_string(str_func):
     return wrapper
 
 
-@apply_to_string
-def descape(string):
-    """ASCII only"""
-    return string.encode('unicode-escape').decode('utf-8')
-
-
-@apply_to_string
-def rescape(string):
-    """ASCII only"""
-    return string.encode('utf-8').decode('unicode-escape')
-
-
 class GoAndReturnOperator(object):
     """Store a pair of operators to be inverse of each other."""
 
     def __init__(self, op_do, op_redo):
-        # super(GoAndReturnOperator, self).__init__()
         self.op_do = op_do
         self.op_redo = op_redo
 
@@ -87,8 +65,6 @@ class GoAndReturnOperator(object):
         else:
             raise ValueError("Invalid operator")
 
-escape = GoAndReturnOperator(rescape, descape)
-
 
 def replacer_maker(old, new):
     @apply_to_string
@@ -96,9 +72,9 @@ def replacer_maker(old, new):
         return x.replace(old, new)
     return replacer
 
-store_newline = replacer_maker('\n', str_dummy)
-restore_newline = replacer_maker(str_dummy, '\n')
-newline_storer = GoAndReturnOperator(store_newline, restore_newline)
+encode_newline = replacer_maker('\n', r'\n')
+decode_newline = replacer_maker(r'\n', '\n')
+newline_storer = GoAndReturnOperator(decode_newline, encode_newline)
 
 
 # extract and generalize modification logic as decorator pattern
@@ -123,16 +99,15 @@ def go_and_return_decorator_maker(pair):
     return decorator
 
 str_save = go_and_return_decorator_maker(newline_storer)
-escape_dec = go_and_return_decorator_maker(escape)
 
 # and here get the decorated function
 # wrapper == str_wrap_save_newline
 
 
-@escape_dec
+@str_save
 def wrapper(string, n):
     """Wrap a given string by n-char width keeping CR"""
-    return str_wrap_with_newline(string, n)
+    return str_wrap_save_newline(string, n)
 
 
 # create a string-wrapping iterator with counter
