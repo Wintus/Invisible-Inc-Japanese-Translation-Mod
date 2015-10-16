@@ -86,6 +86,32 @@ def rescape(string):
     return string.encode('utf-8').decode('unicode-escape')
 
 
+class GoAndReturnOperator(object):
+    """Store a pair of operators to be inverse of each other."""
+
+    def __init__(self, op_do, op_redo):
+        # super(GoAndReturnOperator, self).__init__()
+        self.op_do = op_do
+        self.op_redo = op_redo
+
+    def getDo(self):
+        """getDo: return op_do :: A -> B."""
+        return self.op_do
+
+    def getRedo(self):
+        """getRedo: return op_redo :: B -> A."""
+        return self.op_redo
+
+    def getInverse(self, operator):
+        if operator == self.op_do:
+            return self.op_redo
+        elif operator == self.op_redo:
+            return self.op_do
+        else:
+            raise ValueError("Invalid operator")
+
+escape = GoAndReturnOperator(descape, rescape)
+
 # create a string-wrapping iterator with counter
 # get a iterator of string and wrapping width number
 # implementation
