@@ -36,11 +36,30 @@ def str_wrap_with_newline(string, n, newline='\n'):
     return newline.join(map(lambda s: str_wrap(s, n), str_list))
 
 
+def apply_to_string(str_func):
+    """Decorator that give a failsafe for a string function.
+    str_func :: str -> A."""
+
+    from functools import wraps
+
+    @wraps(str_func)
+    def wrapper(arg, **kwargs):
+        if isinstance(arg, str):
+            return str_func(arg, **kwargs)
+        else:
+            return arg
+    return wrapper
+
+
+@apply_to_string
 def descape(string):
+    """ASCII only"""
     return string.encode('unicode-escape').decode('utf-8')
 
 
+@apply_to_string
 def rescape(string):
+    """ASCII only"""
     return string.encode('utf-8').decode('unicode-escape')
 
 
@@ -68,15 +87,13 @@ class GoAndReturnOperator(object):
         else:
             raise ValueError("Invalid operator")
 
-escape = GoAndReturnOperator(descape, rescape)
+escape = GoAndReturnOperator(rescape, descape)
 
 
 def replacer_maker(old, new):
+    @apply_to_string
     def replacer(x):
-        if isinstance(x, str):
-            return x.replace(old, new)
-        else:
-            return x
+        return x.replace(old, new)
     return replacer
 
 store_newline = replacer_maker('\n', str_dummy)
@@ -112,10 +129,10 @@ escape_dec = go_and_return_decorator_maker(escape)
 # wrapper == str_wrap_save_newline
 
 
-@str_save
+@escape_dec
 def wrapper(string, n):
     """Wrap a given string by n-char width keeping CR"""
-    return str_wrap(string, n)
+    return str_wrap_with_newline(string, n)
 
 
 # create a string-wrapping iterator with counter
