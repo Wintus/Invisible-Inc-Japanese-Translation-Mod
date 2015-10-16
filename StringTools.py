@@ -100,23 +100,20 @@ def go_and_return_decorator_maker(pair):
 
 str_save = go_and_return_decorator_maker(newline_storer)
 
+
 # and here get the decorated function
 # wrapper == str_wrap_save_newline
-
-
 @str_save
 def wrapper(string, n):
     """Wrap a given string by n-char width keeping CR"""
     return str_wrap_save_newline(string, n)
 
 
-# create a string-wrapping iterator with counter
-# get a iterator of string and wrapping width number
-# implementation
-# if given a string, token it into iterator
-# pull a chunk of string from the given iterator and count its length
-# if the count exceeds the wrapping width, push \n at end then keep going
-# from 0 with the current string
+# create a Japanese string with newline wrapping function
+# get a string and a wrapping width number
+# turn the given string into tokens
+# accumulate tokens that the total char count doesn't exceed the width number
+# if the count exceeds the wrapping width, put \n then keep going
 
 
 if __name__ == '__main__':
