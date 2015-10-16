@@ -91,7 +91,7 @@ msgstr "デコード中"
 #: STRINGS.ABILITIES.DECODING_DESC
 msgctxt "STRINGS.ABILITIES.DECODING_DESC"
 msgid "Decrypting the lock mechanism: {1} {1:turn|turns}."
-msgstr "ロック機構を解読中： {1}ターン。"
+msgstr "ロック機構を解読中：{1}ターン。"
 
 #: STRINGS.ABILITIES.DEPLOY
 msgctxt "STRINGS.ABILITIES.DEPLOY"
@@ -661,7 +661,7 @@ msgstr "心室槍"
 #: STRINGS.ABILITIES.USE_AGGRESSION_DESC
 msgctxt "STRINGS.ABILITIES.USE_AGGRESSION_DESC"
 msgid "+1 Melee and Ranged PIERCING for 1 turn."
-msgstr "１ターンの間、格闘・射撃の貫通力を+1増加させる。"
+msgstr "１ターンの間、格闘・射撃の貫通力を１増加させる。"
 
 #: STRINGS.ABILITIES.WIRELESS_SCAN
 msgctxt "STRINGS.ABILITIES.WIRELESS_SCAN"
@@ -806,37 +806,37 @@ msgstr "ああ、私は腹一杯にしてきたけど、他に腹ペコがいた
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.6
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.6"
 msgid "Some of them. Definitely."
-msgstr ""
+msgstr "やつらのいくらかは。間違いなく。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.7
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.7"
 msgid "Don't patronize me. We don't have time for this nonsense."
-msgstr ""
+msgstr "謝らないで。こんな無駄に時間をかけられない。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.8
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.8"
 msgid "This is why nobody likes you."
-msgstr ""
+msgstr "これが皆んながあなたをキライな理由ね。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.9
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.9"
 msgid "Only when I'm awake. And also in my dreams. Other than that I'm bright as morning."
-msgstr ""
+msgstr "起きてるときだけ。あとは夢のなかで。私が朝のように輝かないのはね。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.1"
 msgid "Tick tock, tick tock. My time's run out."
-msgstr ""
+msgstr "チクタク、チクタク。私の時間が消えていく。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.2"
 msgid "The reaper's finally come for his due."
-msgstr ""
+msgstr "年貢の納め時ね。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.3"
 msgid "I've had a good run, but not a long one."
-msgstr ""
+msgstr "ラン_は良かったけど、長くはなかった。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.4"
@@ -846,17 +846,17 @@ msgstr "チリはチリに。"
 #: STRINGS.AGENTS.BANKS.BANTER.START.1
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.1"
 msgid "Did you hear that? No? Neither did I, then."
-msgstr ""
+msgstr "聞いた？聞いてない？私も。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.START.2
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.2"
 msgid "Live high while you can, ye mighty. Your reckoning will come."
-msgstr ""
+msgstr "できうる限り天に住まえ、全能なるものよ。いつか報いが来よう。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.START.3
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.3"
 msgid "Stick to the shadows. Be fleet of foot. We'll get out of here alive."
-msgstr ""
+msgstr "陰に貼り付け。韋駄天となれ。ここから生きて出るために。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.START.4
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.4"
@@ -906,7 +906,7 @@ msgstr "さっさとこんな所から脱出しよう。"
 #: STRINGS.AGENTS.BANKS.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.BANKS.YEARS_OF_SERVICE"
 msgid "1"
-msgstr "1"
+msgstr "１"
 
 #: STRINGS.AGENTS.CENTRAL.AGE
 msgctxt "STRINGS.AGENTS.CENTRAL.AGE"
@@ -1491,7 +1491,7 @@ msgstr "自由キューバ軍の空挺部隊の元斥候であるバルデスは
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_1.FULLNAME"
 msgid "Maria \"Internationale\" Valdes"
-msgstr "マリア・\"インターナショナーリー\"・バルデス"
+msgstr "マリア・\"インターナショナーリ\"・バルデス"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_1.TOOLTIP"
@@ -1506,7 +1506,7 @@ msgstr "27"
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_2.BIO"
 msgid "During her work as a freelancer in the years following Havana's re-annexation and the San Francisco Accord, Internationale became a legend in the anti-Corporate underground.\n\nAccording to classified documents, she once cost Sankaku over 50 million credits in a single week of subversion and sabotage."
-msgstr "ハバナの再併合とサンフランシスコ協定以降の数年間の彼女のフリーランス活動で、インターナショナーリーは反企業地下組織で伝説となった。\n\n機密文書によると、彼女は一度１週間の転覆およびサボタージュで5000万クレジット以上の損失をサンカク社に与えた。"
+msgstr "ハバナの再併合とサンフランシスコ協定以降の数年間の彼女のフリーランス活動で、インターナショナーリは反企業地下組織で伝説となった。\n\n機密文書によると、彼女は一度１週間の転覆およびサボタージュで5000万クレジット以上の損失をサンカク社に与えた。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_2.FULLNAME"
@@ -1781,7 +1781,7 @@ msgstr ""
 #: STRINGS.AGENTS.INTERNATIONALE.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BIO_SPOKEN"
 msgid "Internationionale is one of the best all-round operatives I've ever seen, but she's held back by an unfortunate abundance of social concern. If used correctly, she's the bedrock upon which you can build a winning team. Just don't ask her about the plight of the global proletariat."
-msgstr "インターナショナーリーは、私が今まで見た中で最も優れたオールラウンドの工作員だが、彼女は大量の不幸な社会問題に後ろ髪を引かれてきた。適切に使うなら、彼女は常勝チームの岩盤である。彼女にグローバルなプロレタリアートの窮状だけは聞くな。"
+msgstr "インターナショナーリは、私が今まで見た中で最も優れたオールラウンドの工作員だが、彼女は大量の不幸な社会問題に後ろ髪を引かれてきた。適切に使うなら、彼女は常勝チームの岩盤である。彼女にグローバルなプロレタリアートの窮状だけは聞くな。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.FILE
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.FILE"
@@ -1796,7 +1796,7 @@ msgstr "ハバナ"
 #: STRINGS.AGENTS.INTERNATIONALE.NAME
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.NAME"
 msgid "Internationale"
-msgstr "インターナショナーリー"
+msgstr "インターナショナーリ"
 
 #: STRINGS.AGENTS.INTERNATIONALE.RESCUED
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.RESCUED"
@@ -2651,7 +2651,7 @@ msgstr "ベイルート"
 #: STRINGS.AGENTS.SHALEM.NAME
 msgctxt "STRINGS.AGENTS.SHALEM.NAME"
 msgid "Shalem 11"
-msgstr "シャレーム 11"
+msgstr "シェイラム 11"
 
 #: STRINGS.AGENTS.SHALEM.RESCUED
 msgctxt "STRINGS.AGENTS.SHALEM.RESCUED"
@@ -4346,7 +4346,7 @@ msgstr "チームが全滅しました。全資産が損なわれました。"
 #: STRINGS.INCOGNITA_TEAM_DOWN.3
 msgctxt "STRINGS.INCOGNITA_TEAM_DOWN.3"
 msgid "Team eliminated. Shutting down neural sync."
-msgstr "チームが全滅しました。神経シンクロが遮断しました。"
+msgstr "チームが全滅しました。神経シンクロが遮断されました。"
 
 #: STRINGS.ITEMS.ACCELERATOR_1
 msgctxt "STRINGS.ITEMS.ACCELERATOR_1"
@@ -4591,7 +4591,7 @@ msgstr "警報レベル上昇時にパワーを生成する。\n獲得パワー�
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_FLAVOR"
 msgid "Using her skin as an antenna, Internationale is able to manipulate electronics at a distance."
-msgstr "自分の皮膚をアンテナとして使うことで、\nインターナショナーリーは電子機器を遠隔操作できる。"
+msgstr "自分の皮膚をアンテナとして使うことで、\nインターナショナーリは電子機器を遠隔操作できる。"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_TIP"
@@ -4756,7 +4756,7 @@ msgstr "強化視力"
 #: STRINGS.ITEMS.AUGMENTS.SHALEMS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHALEMS_FLAVOR"
 msgid "Extensive training and a ballistics co-processor let Shalem direct bullets along optimal trajectories."
-msgstr "広範なトレーニングと弾道共同処理装置はシャレームに最適弾道での射撃を可能にする。"
+msgstr "広範なトレーニングと弾道共同処理装置はシェイラムに最適弾道での射撃を可能にする。"
 
 #: STRINGS.ITEMS.AUGMENTS.SHALEMS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHALEMS_TIP"
@@ -9421,7 +9421,7 @@ msgstr "本部が感染。\n脱出が必要です。"
 #: STRINGS.MOVIE_SUBS.INTRO_14
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_14"
 msgid "I've got Incognita.\nDecker and Internationale are on their way."
-msgstr "インコグニータは押さえた。\nデッカーとインターナショナーリーが向かってる。"
+msgstr "インコグニータは押さえた。\nデッカーとインターナショナーリが向かってる。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_15
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_15"
@@ -9591,7 +9591,7 @@ msgstr "入力選択"
 #: STRINGS.PROGRAMS.ACES.DESC
 msgctxt "STRINGS.PROGRAMS.ACES.DESC"
 msgid "All tagged guards have -1 ARMOR for 1 turn."
-msgstr "全てのタグ付けられた警備員は１ターン装甲-1。"
+msgstr "全てのタグ付けられた警備員は\n１ターン装甲-1。"
 
 #: STRINGS.PROGRAMS.ACES.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.ACES.HUD_DESC"
@@ -9741,7 +9741,7 @@ msgstr "<c:FF8411>１ファイヤーウォール</c>破壊。コスト：<c:77FF
 #: STRINGS.PROGRAMS.DYNAMO.DESC
 msgctxt "STRINGS.PROGRAMS.DYNAMO.DESC"
 msgid "Generate 2 PWR points per turn. Disabled until Alarm Level 2.\nPASSIVE"
-msgstr "毎ターン２パワー生成。警戒レベル２まで無効。\nパッシブ"
+msgstr "毎ターン２パワー生成。\n警戒レベル２まで無効。\nパッシブ"
 
 #: STRINGS.PROGRAMS.DYNAMO.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.DYNAMO.HUD_DESC"
@@ -10116,7 +10116,7 @@ msgstr "タグ付きの警備員を２ターンKOする。警備員からタグ�
 #: STRINGS.PROGRAMS.LOCKPICK.DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.DESC"
 msgid "Breaks 1 firewall for 2 PWR."
-msgstr "１ファイヤーウォールを２パワーで破壊する。"
+msgstr "１ファイヤーウォールを２パワーで破壊\nする。"
 
 #: STRINGS.PROGRAMS.LOCKPICK.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.HUD_DESC"
@@ -10191,7 +10191,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.MERCENARY.DESC
 msgctxt "STRINGS.PROGRAMS.MERCENARY.DESC"
 msgid "Breaks 2 firewalls. +2 PWR cost per use. Cost resets at each alarm Level."
-msgstr "２ファイヤーウォールを破壊する。使用ごとにパワー消費+2。コストは各警戒レベル到達時にリセットされる。"
+msgstr "２ファイヤーウォールを破壊する。\n使用ごとにパワー消費+2。\nコストは各警戒レベル到達時に\nリセットされる。"
 
 #: STRINGS.PROGRAMS.MERCENARY.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.MERCENARY.HUD_DESC"
@@ -10216,7 +10216,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.ORACLE.DESC
 msgctxt "STRINGS.PROGRAMS.ORACLE.DESC"
 msgid "Take over a random camera on the level"
-msgstr "ステージ内のランダムなカメラを掌握する"
+msgstr "ステージ内のランダムなカメラを\n掌握する"
 
 #: STRINGS.PROGRAMS.ORACLE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.ORACLE.HUD_DESC"
@@ -10271,7 +10271,7 @@ msgstr "パラサイト寄生済み"
 #: STRINGS.PROGRAMS.PARASITE.DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE.DESC"
 msgid "Infect target to break 1 firewall at the start of each turn.\n+1 PWR cost per hosted parasite."
-msgstr "対象に寄生し各ターン開始時に１ファイヤーウォールを破壊する。\nパラサイトごとにパワー消費+1。"
+msgstr "対象に寄生し、各ターン開始時に\n１ファイヤーウォールを破壊する。\nパラサイトごとにパワー消費+1。"
 
 #: STRINGS.PROGRAMS.PARASITE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE.HUD_DESC"
@@ -10301,7 +10301,7 @@ msgstr "パラサイト寄生済み"
 #: STRINGS.PROGRAMS.PARASITE_2.DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.DESC"
 msgid "Infect target to break 2 firewalls at the start of each turn.\n+1 PWR cost per hosted parasite."
-msgstr "対象に寄生し各ターン開始時に２ファイヤーウォールを破壊する。\nパラサイトごとにパワー消費+1。"
+msgstr "対象に寄生し、各ターン開始時に\n２ファイヤーウォールを破壊する。\nパラサイトごとにパワー消費+1。"
 
 #: STRINGS.PROGRAMS.PARASITE_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.HUD_DESC"
@@ -10416,7 +10416,7 @@ msgstr "パワー"
 #: STRINGS.PROGRAMS.PWR_MANAGER.DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER.DESC"
 msgid "Increases the agency's starting PWR by 4 points."
-msgstr "機関の開始時のパワーを４ポイント増加する。"
+msgstr "機関の開始時のパワーを４ポイント\n増加する。"
 
 #: STRINGS.PROGRAMS.PWR_MANAGER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER.HUD_DESC"
@@ -10441,7 +10441,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.PWR_MANAGER_2.DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER_2.DESC"
 msgid "Increases the agency's starting PWR by 6 points."
-msgstr "機関の開始時のパワーを６ポイント増加する。"
+msgstr "機関の開始時のパワーを６ポイント\n増加する。"
 
 #: STRINGS.PROGRAMS.PWR_MANAGER_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER_2.HUD_DESC"
@@ -11541,7 +11541,7 @@ msgstr "スタンダード"
 #: STRINGS.SCREENS.STR_1079594648
 msgctxt "STRINGS.SCREENS.STR_1079594648"
 msgid "SHALEM 11"
-msgstr "シャレーム11"
+msgstr "シェイラム11"
 
 #: STRINGS.SCREENS.STR_1085259480
 msgctxt "STRINGS.SCREENS.STR_1085259480"
@@ -11801,7 +11801,7 @@ msgstr "WWWWW草"
 #: STRINGS.SCREENS.STR_186438882
 msgctxt "STRINGS.SCREENS.STR_186438882"
 msgid "<c:F4FF78>It's 2074, and corporations rule the world with brutal efficiency.</> They hit you hard, and now you're on the run.\n\n<c:F4FF78>You need to strike back, but you'll never win by force.</> Keep your agents alive with stealth and cunning. Raid the corps' facilities for tools and support, and prepare your team for the final showdown.\n\n<c:F4FF78>The odds are stacked against you.</> You will fail. Repeatedly. But each time you will learn more about your adversaries, and every restart generates a new world of dangers and opportunities.\n\nYou have a tough job ahead of you, Operator. Don't let us down."
-msgstr "<c:F4FF78>時は2074年、企業が残忍な効率性で世界を支配していた。</>企業は我々機関に重い一撃を食らわせ、今我々は奔走している。\n\n<c:F4FF78>反撃が必要だが、力では打ち勝てない。</>エージェントをステルスと狡知で生き延びさせよ。ツールとサポートのために企業の施設を襲撃、最終対決のためにチームを準備するのだ。\n\n<c:F4FF78>形成は不利である。</>失敗するだろう、何度も。だが失敗のたびに敵についてより学び、リスタートのたびに新たに危険な世界とチャンスとが生み出される。\n\n目前には困難な任務があるぞ、オペーレーター。失望させてくれるな。"
+msgstr "<c:F4FF78>時は2074年、企業が残忍な効率性で世界を支配していた。</>企業は我々機関に重い一撃を\n食らわせ、今我々は奔走している。\n\n<c:F4FF78>反撃が必要だが、力では打ち勝てない。</>エージェントをステルスと狡知で生き延びさせよ。\nツールとサポートのために企業の施設を襲撃、最終対決のためにチームを準備するのだ。\n\n<c:F4FF78>形勢は不利である。</>失敗するだろう、何度も。だが失敗のたびに敵についてより学び、\nリスタートのたびに新たに危険な世界とチャンスとが生み出される。\n\n目前には困難な任務があるぞ、オペーレーター。失望させてくれるな。"
 
 #: STRINGS.SCREENS.STR_1871560216
 msgctxt "STRINGS.SCREENS.STR_1871560216"
@@ -11896,7 +11896,7 @@ msgstr "最大AP"
 #: STRINGS.SCREENS.STR_2155597623
 msgctxt "STRINGS.SCREENS.STR_2155597623"
 msgid "INTERNATIONALE"
-msgstr "インターナショナーリー"
+msgstr "インターナショナーリ"
 
 #: STRINGS.SCREENS.STR_2161265051
 msgctxt "STRINGS.SCREENS.STR_2161265051"
@@ -12326,7 +12326,7 @@ msgstr "メールアドレス"
 #: STRINGS.SCREENS.STR_3431073160
 msgctxt "STRINGS.SCREENS.STR_3431073160"
 msgid "AGENCY LOADOUT UPDATED"
-msgstr "機関の戦闘装備が更新された"
+msgstr "機関の戦闘員が更新された"
 
 #: STRINGS.SCREENS.STR_3432956013
 msgctxt "STRINGS.SCREENS.STR_3432956013"
@@ -13516,7 +13516,7 @@ msgstr "警戒レベル"
 #: STRINGS.UI.ALARM_INSTALL_FIRST_2
 msgctxt "STRINGS.UI.ALARM_INSTALL_FIRST_2"
 msgid "The corporation detected Incognita's signal when your agents teleported into the facility.\n\nEvery turn, the SECURITY LEVEL will increase as they track her. New security measures are added every 5 increments."
-msgstr "企業はエージェントが施設にテレポートした時にインコグニータの信号を検知した。\n\n毎ターン「セキュリティー・レベル」が上昇し、5つ上昇するごとに新しいセキュリティ対策が追加される。"
+msgstr "企業はエージェントが施設にテレポートした時にインコグニータの信号を検知した。\n\n毎ターン「セキュリティー・レベル」が上昇し、5つ上昇するごとに新しいセキュリティ\n対策が追加される。"
 
 #: STRINGS.UI.ALARM_LASER_SCAN
 msgctxt "STRINGS.UI.ALARM_LASER_SCAN"
@@ -16841,7 +16841,7 @@ msgstr "エージェント放棄"
 #: STRINGS.UI.RETIRE_AGENCY_CONFIRM
 msgctxt "STRINGS.UI.RETIRE_AGENCY_CONFIRM"
 msgid "Are you SURE you want to retire your agency? This will cash in your earned experience."
-msgstr "本当に機関を放棄しますか？獲得経験値が失われます。"
+msgstr "本当に機関を放棄しますか？\n獲得経験値が失われます。"
 
 #: STRINGS.UI.REWIND
 msgctxt "STRINGS.UI.REWIND"
@@ -17181,7 +17181,7 @@ msgstr "タスウェル"
 #: STRINGS.UI.TEAM_SELECT.LOCKED_AGENT_DESC
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_AGENT_DESC"
 msgid "THIS AGENT IS CLASSIFIED."
-msgstr "このエージェントは分類済みです。"
+msgstr "このエージェントは機密事項です。"
 
 #: STRINGS.UI.TEAM_SELECT.LOCKED_AGENT_NAME
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_AGENT_NAME"
@@ -17196,7 +17196,7 @@ msgstr "機密事項"
 #: STRINGS.UI.TEAM_SELECT.LOCKED_LOADOUT
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_LOADOUT"
 msgid "You've selected CLASSIFIED components to your team. Please select a team loadout that you have access to."
-msgstr "機密事項をチームに加入しようとしました。アクセスできる戦闘員をチームに選択してください。"
+msgstr "機密事項を戦闘チームに加入しようとしました。アクセスできる戦闘員をチームに選択してください。"
 
 #: STRINGS.UI.TEAM_SELECT.UNLOCK_CENTRAL_MONSTER
 msgctxt "STRINGS.UI.TEAM_SELECT.UNLOCK_CENTRAL_MONSTER"
@@ -17881,7 +17881,7 @@ msgstr "本当に{1}をインストールしますか？"
 #: STRINGS.UI.UPGRADE_SCREEN_AVAILABLE_CREDITS
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_AVAILABLE_CREDITS"
 msgid "%d CR"
-msgstr "%dクレジット"
+msgstr "%d CR"
 
 #: STRINGS.UI.UPGRADE_SCREEN_CONFIRM
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_CONFIRM"
