@@ -78,6 +78,14 @@ def str_wrap_with_newline(string, n, newline='\n'):
     return newline.join(map(lambda s: str_wrap(s, n), str_list))
 
 
+def descape(string):
+    return string.encode('unicode-escape').decode('utf-8')
+
+
+def rescape(string):
+    return string.encode('utf-8').decode('unicode-escape')
+
+
 # create a string-wrapping iterator with counter
 # get a iterator of string and wrapping width number
 # implementation
