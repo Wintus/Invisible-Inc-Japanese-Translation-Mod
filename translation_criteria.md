@@ -24,7 +24,7 @@
 | advanced				| 高度な、発展型
 | agency				| 機関
 | alarm					| 警報
-| alarm level			| 警戒レベル
+| alarm level			| 警報レベル
 | armor					| 装甲
 | augmentations		| 拡張機能
 | augments				| 強化
