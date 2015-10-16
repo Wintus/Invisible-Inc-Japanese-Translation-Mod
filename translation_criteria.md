@@ -62,6 +62,7 @@
 | refurbished			| リユース品の
 | rig					| 儀装 / 装備
 | security				| 保安・セキュリティー
+| security level			| 警戒レベル
 | short-circuit			| ショートさせる
 | siphon					| 吸い取る
 | spawn					| 発生させる
