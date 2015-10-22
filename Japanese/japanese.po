@@ -861,27 +861,27 @@ msgstr "陰に貼り付け。韋駄天となれ。ここから生きて出るた
 #: STRINGS.AGENTS.BANKS.BANTER.START.4
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.4"
 msgid "This room smells like burnt toast. But most things do!"
-msgstr ""
+msgstr "この部屋、焦げたトーストみたいな臭い。でもほとんどのモノがそうだけどね！"
 
 #: STRINGS.AGENTS.BANKS.BANTER.START.5
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.5"
 msgid "Some day soon this will all be shaken to the ground."
-msgstr ""
+msgstr "いつの日かすぐにこれが全部地へ振り落とされるわ。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.START.6
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.6"
 msgid "The farmer in the dell... The farmer in the dell..."
-msgstr ""
+msgstr "谷間の農夫…　谷間の農夫…"
 
 #: STRINGS.AGENTS.BANKS.BANTER.START.7
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.7"
 msgid "The wind will shake the barley."
-msgstr ""
+msgstr "風が大麦を揺らす。"
 
 #: STRINGS.AGENTS.BANKS.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.BANKS.BIO_SPOKEN"
 msgid "Even with the brain damage, Banks is one of the most effective hackers I've ever encountered. With stims and neuro-conditioning she's able to stay lucid, but I wonder what kind of long term effects that might have on her stability."
-msgstr ""
+msgstr "脳へのダメージがあってすら、バンクスは私が出会った中で最も有能なハッカーだ。刺激剤と神経調整により、彼女は頭脳明晰でいられるが、私はそれが長期的に彼女の安定性にどんな影響を持つか懸念している。"
 
 #: STRINGS.AGENTS.BANKS.FILE
 msgctxt "STRINGS.AGENTS.BANKS.FILE"
