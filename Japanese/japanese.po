@@ -1216,147 +1216,147 @@ msgstr "それは…おまえの前だ。"
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.4
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.4"
 msgid "They ever teach you how to fight in that fancy school?"
-msgstr ""
+msgstr "そのお上品な学校で戦い方を教えられたか？"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.40
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.40"
 msgid "Why didn't you bring your holorig? Seems like it would be handy."
-msgstr ""
+msgstr "なぜ自分の光学迷彩を持ってこない？便利だろうに。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.41
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.41"
 msgid "I think you're overestimating their training."
-msgstr ""
+msgstr "思うに、おまえはやつらのトレーニングを買いかぶっている。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.42
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.42"
 msgid "I'm fine. It's just my knees. They're not what they used to be."
-msgstr ""
+msgstr "大丈夫だ。膝だけだ。やつらは昔とは違う。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.43
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.43"
 msgid "Get off my lawn."
-msgstr ""
+msgstr "俺の芝生から出ろ。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.44
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.44"
 msgid "Hear what?"
-msgstr ""
+msgstr "何を聞いた？"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.45
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.45"
 msgid "Okay, I heard it too."
-msgstr ""
+msgstr "OK、俺も聞こえた。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.46
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.46"
 msgid "Of course not. We have a job to do."
-msgstr ""
+msgstr "もちろん違う。俺らにはやるべきことがある。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.47
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.47"
 msgid "Woah, hey. Let's not get ahead of ourselves."
-msgstr ""
+msgstr "うお、おい。俺らを追い越さないようにしようか。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.48
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.48"
 msgid "So you didn't keep *any* of what you stole?"
-msgstr ""
+msgstr "だから、おまえが盗んだものは何一つ残ってないと？"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.49
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.49"
 msgid "You think they'd do the same for you?"
-msgstr ""
+msgstr "やつらがおまえに同じことをするだろうと考えてるのか？"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.5
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.5"
 msgid "Oh yeah? What was your record?"
-msgstr ""
+msgstr "そうだ？記録はなんだ？"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.50
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.50"
 msgid "Hey burnout, how many fingers am I holding up?"
-msgstr ""
+msgstr "おい燃えカス、俺は指を何本立てている？"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.51
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.51"
 msgid "Three! The answer was three!"
-msgstr ""
+msgstr "３！答えは３本だ！"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.6
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.6"
 msgid "You want a little liquid courage before we get started?"
-msgstr ""
+msgstr "始める前に液体勇気でも一杯どうだ？"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.7
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.7"
 msgid "Suit yourself, poindexter."
-msgstr ""
+msgstr "気取ってろ、頭でっかち。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.8
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.8"
 msgid "Oh look, we're here."
-msgstr ""
+msgstr "おい見ろ、俺らはここだ。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.9
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.9"
 msgid "Goody. I can't wait."
-msgstr ""
+msgstr "うまそうだ。待ちきれん。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.1"
 msgid "I'm tired of this crap, anyway."
-msgstr ""
+msgstr "このガラクタにはとにかくウンザリだ。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.2"
 msgid "Well played. You got me dead to rights."
-msgstr ""
+msgstr "いいプレーだ。現行犯逮捕だ。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.3"
 msgid "Well, damn it."
-msgstr ""
+msgstr "やれかれ、くそったれ。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.4"
 msgid "Can I have one last swig, first?"
-msgstr ""
+msgstr "先に最後の一杯をいいかい？"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.1
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.1"
 msgid "No resistance at the entry point. Amateurs."
-msgstr ""
+msgstr "侵入地点は無抵抗だったぞ。素人。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.2
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.2"
 msgid "Let's get this over with. I need a drink."
-msgstr ""
+msgstr "これで乗り越えよう。酒が要る。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.3
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.3"
 msgid "All of these places start to look the same after a while."
-msgstr ""
+msgstr "しばらくすれば、これらの場所全部がおんなじに見えてくる。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.4
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.4"
 msgid "I'm getting too old for this crap."
-msgstr ""
+msgstr "くそったれ相手にはちと年を食い過ぎた。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.5
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.5"
 msgid "I wonder who does their security.\n\nThey aren't doing a very good job so far."
-msgstr ""
+msgstr "誰がこいつらの警備をやってるんだか。\n\n今ン所はあまりうまくやってないな。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.6
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.6"
 msgid "We're in the building. This shouldn't take too long."
-msgstr ""
+msgstr "建物内にいる。やつらもそんなに長くはかからない。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.7
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.7"
 msgid "We wouldn't have got in so easy if I were running this joint."
-msgstr ""
+msgstr "もし俺がここの担当なら、こんなにうまくは入れないだろうな。"
 
 #: STRINGS.AGENTS.DECKARD.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.DECKARD.BIO_SPOKEN"
