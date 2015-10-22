@@ -916,7 +916,7 @@ msgstr "68"
 #: STRINGS.AGENTS.CENTRAL.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.BIO"
 msgid "Olivia Gladstone was the highest-ranking officer in the Pan-Euro Infosec Agency before it collapsed at the end of the Resource Wars.\n\nForced into hiding, she re-emerged as the founder and leader of Invisible Inc. She currently holds the record for highest total corporate bounty ever offered for a single target."
-msgstr "オリビア・グラドストンは_"
+msgstr "オリビア・グラドストンは、汎ユーロ情報保安機関の最高幹部だった―資源戦争の終わりに崩壊するまでは。\n\n潜伏を強いられた後、彼女はインビジブル社のリーダーかつ創業者として再出現した。彼女は現在一個人としては最高の合計金額となる企業の賞金首である。"
 
 #: STRINGS.AGENTS.CENTRAL.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.FULLNAME"
