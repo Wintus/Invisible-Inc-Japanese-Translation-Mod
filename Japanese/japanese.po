@@ -3746,7 +3746,7 @@ msgstr "金庫弱体化"
 #: STRINGS.DAEMONS.FELIX_NEW.DESC
 msgctxt "STRINGS.DAEMONS.FELIX_NEW.DESC"
 msgid "Stores extra credit behind higher firewalls."
-msgstr "増補されたファイヤーウォールの裏に追加のクレジットを貯めこむ。"
+msgstr "増補されたファイヤーウォールの裏に追加の\nクレジットを貯めこむ。"
 
 #: STRINGS.DAEMONS.FELIX_NEW.NAME
 msgctxt "STRINGS.DAEMONS.FELIX_NEW.NAME"
@@ -3756,7 +3756,7 @@ msgstr "フィーリックス"
 #: STRINGS.DAEMONS.FELIX_NEW.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.FELIX_NEW.SHORT_DESC"
 msgid "Bolsters firewalls and credits in safes"
-msgstr "金庫のファイヤーウォールとクレジットを追加する"
+msgstr "金庫のファイヤーウォールとクレジットを追加\nする"
 
 #: STRINGS.DAEMONS.FRACTAL.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.FRACTAL.ACTIVE_DESC"
@@ -4411,12 +4411,12 @@ msgstr "解体分析"
 #: STRINGS.ITEMS.AUGMENTS.ANATOMY_ANALYSIS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.ANATOMY_ANALYSIS_FLAVOR"
 msgid "A single precise strike to the right location is enough to disrupt most commercial heart monitors. Fortunately, the calculations involved in finding that location are beyond normal human cognition."
-msgstr "急所への正確な一撃は、ほとんどの市販心臓モニターの撹乱に十分だ。幸運にも、急所計算機能は常人の認識を超えている。"
+msgstr "急所への正確な一撃は、ほとんどの市販心臓\nモニターの撹乱に十分だ。幸運にも、急所計算\n機能は常人の認識を超えている。"
 
 #: STRINGS.ITEMS.AUGMENTS.ANATOMY_ANALYSIS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.ANATOMY_ANALYSIS_TIP"
 msgid "Kills do not increase the alarm tracker. Costs 3 PWR per kill."
-msgstr "殺害でアラーム・トラッカーが上昇しない。殺害ごとに３パワー消費する。"
+msgstr "殺害でアラーム・トラッカーが上昇しない。\n殺害ごとに３パワー消費する。"
 
 #: STRINGS.ITEMS.AUGMENTS.BANKS
 msgctxt "STRINGS.ITEMS.AUGMENTS.BANKS"
@@ -4426,12 +4426,12 @@ msgstr "暗号コンピューター"
 #: STRINGS.ITEMS.AUGMENTS.BANKS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.BANKS_FLAVOR"
 msgid "The quantum descrambler implanted in Banks' cranium makes short work of most encryption."
-msgstr "銀行の頭蓋に移植された量子撹拌機はほとんどの暗号化を軽くこなす。"
+msgstr "バンクスの頭蓋に移植された量子撹拌機は\nほとんどの暗号化を軽くこなす。"
 
 #: STRINGS.ITEMS.AUGMENTS.BANKS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.BANKS_TIP"
 msgid "Unlocks lvl1 security doors without a passcard"
-msgstr "レベル１のセキュリティー・ドアをパスカードなしに解錠する"
+msgstr "レベル１のセキュリティー・ドアをパスカード\nなしに解錠する"
 
 #: STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER
 msgctxt "STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER"
@@ -4441,7 +4441,7 @@ msgstr "炭素筋節"
 #: STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER_FLAVOR"
 msgid "Replacement Myomer bundles that produce an accessable compartment in unused body space."
-msgstr "代替筋繊維は人体の未使用空間に利用可能な区画を作る。"
+msgstr "代替筋繊維は人体の未使用空間に利用可能な\n区画を作る。"
 
 #: STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER_TIP"
@@ -4456,12 +4456,12 @@ msgstr "抗ウィルス・プロキシ"
 #: STRINGS.ITEMS.AUGMENTS.CENTRALS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.CENTRALS_FLAVOR"
 msgid "The highly confidental work of a Daemon engineer, this subdermal chip re-routes PWR from other networked subroutines. Rumor has it that Central has the only prototype."
-msgstr "あるデーモン・エンジニアによる高度機密研究。この皮下チップは他のネットワーク・サブルーチンからパワーを引き込む。セントラルが唯一のプロトタイプを持っているという噂がある。"
+msgstr "あるデーモン・エンジニアによる高度機密研究\n。この皮下チップは他のネットワーク\n・サブルーチンからパワーを引き込む。\nセントラルが唯一のプロトタイプを持っている\nという噂がある。"
 
 #: STRINGS.ITEMS.AUGMENTS.CENTRALS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.CENTRALS_TIP"
 msgid "Gain 5 PWR on any DAEMON install."
-msgstr "あらゆるデーモンのインストール時に５パワーを得る。"
+msgstr "あらゆるデーモンのインストール時に５パワー\nを得る。"
 
 #: STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT
 msgctxt "STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT"
@@ -4471,7 +4471,7 @@ msgstr "カメレオン移動"
 #: STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_FLAVOR"
 msgid "Contrary to it's name, the Chameleon Movement implant does not allow the host to change their appearance. Rather - it analyzes their surroundings to show them the most inconspicuous path for the way they look."
-msgstr "その名前に反して、カメレオン移動インプラントはホストの外見を変えない。代わりに―周囲を分析して最も目立たない移動経路を示す。"
+msgstr "その名前に反して、カメレオン移動\nインプラントはホストの外見を変えない。その\n代わりに周囲を分析して最も目立たない移動\n経路を示す。"
 
 #: STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_TIP"
@@ -4491,7 +4491,7 @@ msgstr "長年にわたり、デッカーのほとんどの脊椎骨は\n合成�
 #: STRINGS.ITEMS.AUGMENTS.DECKARDS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKARDS_TIP"
 msgid "Allows agent to uncover DAEMONS in adjacent objects."
-msgstr "エージェントは近接オブジェクト内の\n未判明のデーモンを解明する。"
+msgstr "エージェントは近接オブジェクト内の未判明の\nデーモンを解明する。"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKER_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKER_2"
@@ -4501,7 +4501,7 @@ msgstr "感覚注入"
 #: STRINGS.ITEMS.AUGMENTS.DECKER_2_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKER_2_FLAVOR"
 msgid "Many a guard have caught a glimpse of Decker. None have caught him."
-msgstr "多くの警備員がデッカーを視界の隅に捉えたが、誰ひとりとして彼を捕まえられなかった。"
+msgstr "多くの警備員がデッカーを視界の隅に捉えたが\n、誰ひとりとして彼を捕まえられなかった。"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKER_2_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKER_2_TIP"
@@ -4516,12 +4516,12 @@ msgstr "分散処理"
 #: STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_FLAVOR"
 msgid "There is plenty of room in the human body to pack in additional processing power. Artificial neural bundles may be implanted into any major muscle mass with minimal loss of strength."
-msgstr "人体には、追加の処理能力を詰め込める空間が、まだ豊富にある。人工神経束は、ほとんどの主要筋肉内にわずかな損失で移植できる。"
+msgstr "人体には、追加の処理能力を詰め込める空間が\n、まだ豊富にある。人工神経束は、ほとんどの\n主要筋肉内にわずかな損失で移植できる。"
 
 #: STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_TIP"
 msgid "50% chance to gain a PWR point at the beginning of each turn."
-msgstr "ターン開始時に50%の確率でパワー・ポイントを得る。"
+msgstr "ターン開始時に50%の確率でパワー・\nポイントを得る。"
 
 #: STRINGS.ITEMS.AUGMENTS.DMS
 msgctxt "STRINGS.ITEMS.AUGMENTS.DMS"
@@ -4531,7 +4531,7 @@ msgstr "デッドマン・スイッチ"
 #: STRINGS.ITEMS.AUGMENTS.DMS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.DMS_FLAVOR"
 msgid "Killing the host triggers the switch, but for what purpose?"
-msgstr "保有者の死亡時に作動するが、目的はなんだろうか？"
+msgstr "保有者の死亡時に作動するが、\n目的はなんだろうか？"
 
 #: STRINGS.ITEMS.AUGMENTS.DMS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DMS_TIP"
@@ -4546,7 +4546,7 @@ msgstr "オムニ・セキュリティー・チップ"
 #: STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_FLAVOR"
 msgid "Filled with OMNI security algorithms. Easily the most valuable megabyte and a half of data in the world."
-msgstr "オムニ・セキュリティー・アルゴリズムが満載。紛れも無く、世界一貴重な1.5GBである。"
+msgstr "オムニ・セキュリティー・アルゴリズムが満載。\n紛れも無く、世界一貴重な1.5GBである。\n"
 
 #: STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_TIP"
@@ -4561,7 +4561,7 @@ msgstr "ホロ回路オーバーローダー"
 #: STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_FLAVOR"
 msgid "Modern tactical displays stream terabytes of situational data directly into the corneas of security forces. They also provide an avenue of attack."
-msgstr "現代的戦術ディスプレイは、警備員の角膜に数TBもの状況データを直接流し込む。また、攻撃手段も提供する。"
+msgstr "現代的戦術ディスプレイは、警備員の角膜に\n数TBもの状況データを直接流し込む。また、\n攻撃手段も提供する。"
 
 #: STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_TIP"
@@ -4581,7 +4581,7 @@ msgstr "ネットワーク吸引"
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_FLAVOR"
 msgid "The mark of a great agent is the ability to take your enemy's greatest strength and turn it into their weakness."
-msgstr "優れたエージェントの証は、敵の最大の強みを弱点に転じる能力である。"
+msgstr "優れたエージェントの証は、敵の最大の強みを\n弱点に転じる能力である。"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_TIP"
@@ -4591,12 +4591,12 @@ msgstr "警報レベル上昇時にパワーを生成する。\n獲得パワー�
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_FLAVOR"
 msgid "Using her skin as an antenna, Internationale is able to manipulate electronics at a distance."
-msgstr "自分の皮膚をアンテナとして使うことで、\nインターナショナーリは電子機器を遠隔操作できる。"
+msgstr "自分の皮膚をアンテナとして使うことで、\nインターナショナーリは電子機器を遠隔操作\nできる。"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_TIP"
 msgid "Allows agent to hack items from a distance, through walls. Automatically reveals nearby mainframe objects."
-msgstr "エージェントはオブジェクトを、壁越しにも、\n遠隔操作できる。\n付近のメインフレーム・オブジェクトが\n自動で判明する。"
+msgstr "エージェントはオブジェクトを、壁越しにも、\n遠隔操作できる。付近のメインフレーム・\nオブジェクトが自動で判明する。"
 
 #: STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS
 msgctxt "STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS"
@@ -4606,7 +4606,7 @@ msgstr "マイクロSLAM機器"
 #: STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_FLAVOR"
 msgid "This embedded apparatus implements SLAM (Simultaneous Localization and Mapping) to create an environment map of explored regions and automatically updates the data to the central servers."
-msgstr "この組み込み機器はSLAM(同時定位およびマッピング)を実装しており、探索済み領域から環境マップを作り自動で中央サーバーのデータを更新する。"
+msgstr "この組み込み機器はSLAM(同時定位および\nマッピング)を実装しており、探索済み領域\nから環境マップを作り、自動で中央サーバーの\nデータを更新する。"
 
 #: STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_TIP"
@@ -4621,12 +4621,12 @@ msgstr "ファブリケーターのマルチスレッド化"
 #: STRINGS.ITEMS.AUGMENTS.MONSTERS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.MONSTERS_FLAVOR"
 msgid "As an expert hacker and savvy tech opportunist, Monst3r has built a unique network of hyper efficient Nanofabricator coroutines."
-msgstr "達人ハッカーかつ技術通の便乗主義者であるMonst3rは、高効率なナノファブリケーター用共通処理の独自ネットワークを作り上げた。"
+msgstr "達人ハッカーかつ技術通の便乗主義者である\nMonst3rは、高効率な\nナノファブリケーター用共通処理の独自\nネットワークを作り上げた。"
 
 #: STRINGS.ITEMS.AUGMENTS.MONSTERS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.MONSTERS_TIP"
 msgid "Nanofabricator purchases cost 15% less."
-msgstr "ナノファブリケーターでの購入費用が15%減少する。"
+msgstr "ナノファブリケーターでの購入費用が15%\n減少する。"
 
 #: STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK
 msgctxt "STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK"
@@ -4636,12 +4636,12 @@ msgstr "ネット・ダウンリンク"
 #: STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_FLAVOR"
 msgid "Offloads some basic brain functions to a remote server, allowing the host to focus on more pressing matters."
-msgstr "一部の基本的な脳機能を遠隔サーバーに肩代わりさせて、使用者が緊急事項に集中できるようにする。"
+msgstr "一部の基本的な脳機能を遠隔サーバーに\n肩代わりさせて、使用者が緊急事項に集中\nできるようにする。"
 
 #: STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_TIP"
 msgid "Agent gains 2 AP (MAX: 6 AP)"
-msgstr "エージェントは2APを得る（最大累積：6AP）"
+msgstr "エージェントは2APを得る\n（最大累積：6AP）"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS"
@@ -4656,22 +4656,22 @@ msgstr "放電再配線"
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_2_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_2_FLAVOR"
 msgid "Nika loves scrambling neurons so much, she had a tech write a custom routine that makes her disrupter recharge itself and everything around it."
-msgstr "ニカは神経網を撹乱するのが大好きで、技師にスタンガン自体と周りの全アイテムを再充電するカスタム・ルーチンを書かせた。"
+msgstr "ニカは神経網を撹乱するのが大好きで、技師に\nスタンガン自体と周りの全アイテムを再充電\nするカスタム・ルーチンを書かせた。"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_2_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_2_TIP"
 msgid "Once per turn, agent's DISRUPTER ATTACK reduces all ITEM COOLDOWNS by 1"
-msgstr "ターンに一度だけ、エージェントの撹乱スタンガン攻撃は全アイテムの冷却時間を１減らす。"
+msgstr "ターンに一度だけ、エージェントの撹乱\nスタンガン攻撃は全アイテムの冷却時間を\n１減らす。"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_FLAVOR"
 msgid "In an emergency, Nika can flood her nervous system with hot liquid aggression. Sometimes she does it just for fun."
-msgstr "緊急時、ニカは自分の神経系に熱血を氾濫させる。たまに遊びでもやる。"
+msgstr "緊急時、ニカは自分の神経系に熱血を氾濫\nさせる。たまに遊びでもやる。"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_TIP"
 msgid "Gives the agent an extra ATTACK a turn. Gains 3 AP after any ATTACK."
-msgstr "ターンに一度、追加で攻撃ができる。どの攻撃でも3APを得る。"
+msgstr "ターンに一度、追加で攻撃ができる。どの攻撃\nでも3APを得る。"
 
 #: STRINGS.ITEMS.AUGMENTS.PENETRATION_SCANNER
 msgctxt "STRINGS.ITEMS.AUGMENTS.PENETRATION_SCANNER"
@@ -4681,7 +4681,7 @@ msgstr "防刃スキャナー"
 #: STRINGS.ITEMS.AUGMENTS.PENETRATION_SCANNER_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.PENETRATION_SCANNER_FLAVOR"
 msgid "A suite of sensors and AI routines that analyze weaknesses in blunt trauma armor."
-msgstr "センサーとAIルーチン搭載のスーツは防刃装甲の弱点を解析する。"
+msgstr "センサーとAIルーチン搭載のスーツは防刃\n装甲の弱点を解析する。"
 
 #: STRINGS.ITEMS.AUGMENTS.PENETRATION_SCANNER_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.PENETRATION_SCANNER_TIP"
@@ -4696,7 +4696,7 @@ msgstr "防弾スキャナー"
 #: STRINGS.ITEMS.AUGMENTS.PIERCING_SCANNER_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.PIERCING_SCANNER_FLAVOR"
 msgid "A suite of sensors and AI routines that analyze weaknesses in ballistic armor."
-msgstr "センサーとAIルーチン搭載のスーツは防弾装甲の弱点を解析する。"
+msgstr "センサーとAIルーチン搭載のスーツは防弾\n装甲の弱点を解析する。"
 
 #: STRINGS.ITEMS.AUGMENTS.PIERCING_SCANNER_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.PIERCING_SCANNER_TIP"
@@ -4711,7 +4711,7 @@ msgstr "交戦予測"
 #: STRINGS.ITEMS.AUGMENTS.PREDICTIVE_BRAWLING_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.PREDICTIVE_BRAWLING_FLAVOR"
 msgid "P.B. gives full control of the somatic muscles and sensorium to an advanced combat AI. The host consciousness is kept distracted with a combination of soothing nature scenes and chamber music."
-msgstr "交戦予測は、体性筋と感覚中枢を高度な戦闘AIで完全に掌握している。使用者の意識は、心休まる自然風景と室内楽の組み合わせに逸らされている。"
+msgstr "交戦予測は、体性筋と感覚中枢を高度な戦闘\nAIで完全に掌握している。使用者の意識は、\n心休まる自然風景と室内楽の組み合わせに逸ら\nされている。"
 
 #: STRINGS.ITEMS.AUGMENTS.PREDICTIVE_BRAWLING_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.PREDICTIVE_BRAWLING_TIP"
@@ -4726,12 +4726,12 @@ msgstr "屈折室"
 #: STRINGS.ITEMS.AUGMENTS.PRISM_2_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.PRISM_2_FLAVOR"
 msgid "Collects ambient energy from data signals, most efficient during large flurries of network activity such as when firewalls come down."
-msgstr "データ信号から周囲のエネルギーを収集する。ファイヤーウォールが落ちるなどのネットワーク活動の大混乱の間が最も効率的である。"
+msgstr "データ信号から周囲のエネルギーを収集する。\nファイヤーウォールが落ちるなどの\nネットワーク活動の大混乱の間が最も効率的で\nある。"
 
 #: STRINGS.ITEMS.AUGMENTS.PRISM_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.PRISM_2_TOOLTIP"
 msgid "Gain +1 PWR when a mainframe device is hacked. Max +2 PWR per turn."
-msgstr "メインフレーム・デバイスがハックされた時に１パワーを獲得する。１ターンに最大+2パワー。"
+msgstr "メインフレーム・デバイスがハックされた時に\n１パワーを獲得する。１ターンに最大+2\nパワー。"
 
 #: STRINGS.ITEMS.AUGMENTS.SADOCHISTIC_PUMPS
 msgctxt "STRINGS.ITEMS.AUGMENTS.SADOCHISTIC_PUMPS"
@@ -4741,7 +4741,7 @@ msgstr "SMポンプ"
 #: STRINGS.ITEMS.AUGMENTS.SADOCHISTIC_PUMPS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.SADOCHISTIC_PUMPS_FLAVOR"
 msgid "The pump feeds the lizard brain's secretions back onto itself, amplifying the host's natural fight-or-flight response."
-msgstr "このポンプは原始的な脳領域の分泌物を送り返し、使用者の本能的な闘争・逃走反応を増幅させる。"
+msgstr "このポンプは原始的な脳領域の分泌物を\n送り返し、使用者の本能的な闘争・逃走反応を\n増幅させる。"
 
 #: STRINGS.ITEMS.AUGMENTS.SADOCHISTIC_PUMPS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.SADOCHISTIC_PUMPS_TIP"
@@ -4756,7 +4756,7 @@ msgstr "強化視力"
 #: STRINGS.ITEMS.AUGMENTS.SHALEMS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHALEMS_FLAVOR"
 msgid "Extensive training and a ballistics co-processor let Shalem direct bullets along optimal trajectories."
-msgstr "広範なトレーニングと弾道共同処理装置はシェイラムに最適弾道での射撃を可能にする。"
+msgstr "広範なトレーニングと弾道共同処理装置は\nシェイラムに最適弾道での射撃を可能にする。"
 
 #: STRINGS.ITEMS.AUGMENTS.SHALEMS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHALEMS_TIP"
@@ -4771,12 +4771,12 @@ msgstr "モジュール式サイバネティック骨格"
 #: STRINGS.ITEMS.AUGMENTS.SHARP_1_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHARP_1_FLAVOR"
 msgid "In his reach to perfect the connection between mind and machine, Alex has converted nearly 90% of his body into a highly modular robotic frame."
-msgstr "脳と機械の完全な協調のおかげで、アレックスは\n肉体の90%を高度にモジュール化されたロボット骨格に置き換えている。"
+msgstr "脳と機械の完全な協調のおかげで、アレックス\nは肉体の90%を高度にモジュール化された\nロボット骨格に置き換えている。"
 
 #: STRINGS.ITEMS.AUGMENTS.SHARP_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHARP_1_TOOLTIP"
 msgid "Start with 6 augment slots.\nEach 3 augments installed gives melee weapons +1 KO damage."
-msgstr "はじめから６つの強化スロットを使える。\n３つの強化をインストールするごとに格闘武器のKOダメージが１増加する。"
+msgstr "はじめから６つの強化スロットを使える。\n３つの強化をインストールするごとに格闘武器\nのKOダメージが１増加する。"
 
 #: STRINGS.ITEMS.AUGMENTS.SHARP_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHARP_2"
@@ -4791,7 +4791,7 @@ msgstr ""
 #: STRINGS.ITEMS.AUGMENTS.SHARP_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHARP_2_TOOLTIP"
 msgid "Start with 6 augment slots.\nEach 3 augments installed gives melee weapons +1 ARMOR PIERCING. Agent's AP is reduced by 1"
-msgstr "はじめから６つの強化スロットを使える。\n３つの強化をインストールするごとに格闘武器の装甲貫通が１増加する。エージェントのAPが１減少する。"
+msgstr "はじめから６つの強化スロットを使える。\n３つの強化をインストールするごとに格闘武器\nの装甲貫通が１増加する。エージェントのAP\nが１減少する。"
 
 #: STRINGS.ITEMS.AUGMENTS.SKELETAL_SUSPENSION
 msgctxt "STRINGS.ITEMS.AUGMENTS.SKELETAL_SUSPENSION"
@@ -4861,12 +4861,12 @@ msgstr ""
 #: STRINGS.ITEMS.AUGMENTS.TONYS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.TONYS_TIP"
 msgid "A local EMP blast that disables mainframe devices for 1 turn. Agent's AP is reduced by 1"
-msgstr "局所EMP発生器はメインフレーム・デバイスを１ターン無効化する。エージェントAPは１減少する。"
+msgstr "局所EMP発生器はメインフレーム・デバイス\nを１ターン無効化する。エージェントAPは１\n減少する。"
 
 #: STRINGS.ITEMS.AUGMENTS.TONYS_TIP_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.TONYS_TIP_2"
 msgid "Once a turn, generates 2 PWR when the agent uses an item with cooldown of 3 or more."
-msgstr "ターンに一度だけ、エージェントがアイテムを使い冷却時間が３ターン以上なら２パワー生成する。"
+msgstr "ターンに一度だけ、エージェントがアイテムを\n使い冷却時間が３ターン以上なら２パワー生成\nする。"
 
 #: STRINGS.ITEMS.AUGMENTS.TORQUE_INJECTORS
 msgctxt "STRINGS.ITEMS.AUGMENTS.TORQUE_INJECTORS"
@@ -4971,7 +4971,7 @@ msgstr ""
 #: STRINGS.ITEMS.CLOAK_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.CLOAK_1_TOOLTIP"
 msgid "Renders the user invisible until their next turn or if they attack. This version will only maintain its effect for 4 tiles of movement."
-msgstr "使用者を次の自分のターンか攻撃時まで不可視にする。このバージョンでは４タイル分の移動しか保たない。"
+msgstr "使用者を次の自分のターンか攻撃時まで不可視\nにする。このバージョンでは４タイル分の移動\nしか保たない。"
 
 #: STRINGS.ITEMS.CLOAK_2
 msgctxt "STRINGS.ITEMS.CLOAK_2"
@@ -4986,7 +4986,7 @@ msgstr ""
 #: STRINGS.ITEMS.CLOAK_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.CLOAK_2_TOOLTIP"
 msgid "Renders the user invisible until their next turn or if they attack."
-msgstr "使用者を次の自分のターンか攻撃時まで不可視にする。"
+msgstr "使用者を次の自分のターンか攻撃時まで不可視\nにする。"
 
 #: STRINGS.ITEMS.CLOAK_3
 msgctxt "STRINGS.ITEMS.CLOAK_3"
@@ -5006,7 +5006,7 @@ msgstr ""
 #: STRINGS.ITEMS.CLOAK_3_17_5_TOOLTIP
 msgctxt "STRINGS.ITEMS.CLOAK_3_17_5_TOOLTIP"
 msgid "Renders the user invisible for 2 turns or if they attack."
-msgstr "使用者を次の２ターンの間か攻撃時まで不可視にする。"
+msgstr "使用者を次の２ターンの間か攻撃時まで不可視\nにする。"
 
 #: STRINGS.ITEMS.CLOAK_3_FLAVOR
 msgctxt "STRINGS.ITEMS.CLOAK_3_FLAVOR"
@@ -5016,7 +5016,7 @@ msgstr ""
 #: STRINGS.ITEMS.CLOAK_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.CLOAK_3_TOOLTIP"
 msgid "Renders the user invisible until their next turn or if they attack. When used, also renders nearby agents in a small area invisible."
-msgstr "使用者を次の自分のターンか攻撃時まで不可視にする。使用時に付近の狭い範囲の他のエージェントも不可視になる。"
+msgstr "使用者を次の自分のターンか攻撃時まで不可視\nにする。使用時に付近の狭い範囲の他の\nエージェントも不可視になる。"
 
 #: STRINGS.ITEMS.CLOAK_DECKARD
 msgctxt "STRINGS.ITEMS.CLOAK_DECKARD"
@@ -5031,7 +5031,7 @@ msgstr ""
 #: STRINGS.ITEMS.CLOAK_DECKARD_TOOLTIP
 msgctxt "STRINGS.ITEMS.CLOAK_DECKARD_TOOLTIP"
 msgid "Renders the user invisible until their next turn or if they attack."
-msgstr "使用者を次の自分のターンか攻撃時まで不可視にする。"
+msgstr "使用者を次の自分のターンか攻撃時まで不可視\nにする。"
 
 #: STRINGS.ITEMS.COMPILER_KEY
 msgctxt "STRINGS.ITEMS.COMPILER_KEY"
@@ -5041,12 +5041,12 @@ msgstr "コンパイル・キー"
 #: STRINGS.ITEMS.COMPILER_KEY_FLAVOR
 msgctxt "STRINGS.ITEMS.COMPILER_KEY_FLAVOR"
 msgid "A physical security feature to help stop network theft. Good thing neural disrupters are all physical."
-msgstr "ネットワーク盗賊を防ぐ物理的セキュリティー機能。都合がいいことに神経撹乱スタンガンは全く物理的だ。"
+msgstr "ネットワーク盗賊を防ぐ物理的セキュリティー\n機能。都合がいいことに神経撹乱スタンガンは\n全く物理的だ。"
 
 #: STRINGS.ITEMS.COMPILER_KEY_TOOLTIP
 msgctxt "STRINGS.ITEMS.COMPILER_KEY_TOOLTIP"
 msgid "Use on a research console to compile new software."
-msgstr "研究コンソール上で使うことで新しいソフトウェアをコンパイルする。"
+msgstr "研究コンソール上で使うことで新しい\nソフトウェアをコンパイルする。"
 
 #: STRINGS.ITEMS.CREDCHIP
 msgctxt "STRINGS.ITEMS.CREDCHIP"
@@ -5066,7 +5066,7 @@ msgstr ""
 #: STRINGS.ITEMS.DAEMON_BLOCKER_TOOLTIP
 msgctxt "STRINGS.ITEMS.DAEMON_BLOCKER_TOOLTIP"
 msgid "Charges on Inhibitor Stations to block dangerous Archdaemons."
-msgstr "阻害装置を充電して危険なアークデーモンを防ぐ。"
+msgstr "阻害装置を充電して危険なアークデーモンを\n防ぐ。"
 
 #: STRINGS.ITEMS.DARTGUN_MONST3R
 msgctxt "STRINGS.ITEMS.DARTGUN_MONST3R"
@@ -5136,7 +5136,7 @@ msgstr "ドリル・ダーツ"
 #: STRINGS.ITEMS.DART_GUN_DAM_FLAVOR
 msgctxt "STRINGS.ITEMS.DART_GUN_DAM_FLAVOR"
 msgid "Tiny servomotors propel the syringe deep within the target's tissue before delivering its payload, resulting in a more effective drug delivery."
-msgstr "小型サーボモータは、目標の組織内に深く注射器を潜航し、その積み荷を運び、より効果的な薬物送達を達成する。"
+msgstr "小型サーボモータは、目標の組織内に深く注射\n器を潜航し、その積み荷を運び、より効果的な\n薬物送達を達成する。"
 
 #: STRINGS.ITEMS.DART_GUN_DAM_TOOLTIP
 msgctxt "STRINGS.ITEMS.DART_GUN_DAM_TOOLTIP"
@@ -5156,7 +5156,7 @@ msgstr ""
 #: STRINGS.ITEMS.DEFIBRILLATOR_TOOLTIP
 msgctxt "STRINGS.ITEMS.DEFIBRILLATOR_TOOLTIP"
 msgid "Gives the agent +1 ARMOR PIERCING to all weapons for one turn."
-msgstr "ターンに一度、エージェントの全ての武器に装甲貫通を+1付与する。"
+msgstr "ターンに一度、エージェントの全ての武器に\n装甲貫通を+1付与する。"
 
 #: STRINGS.ITEMS.DRONE_TURRET
 msgctxt "STRINGS.ITEMS.DRONE_TURRET"
@@ -5191,7 +5191,7 @@ msgstr ""
 #: STRINGS.ITEMS.ECON_CHIP_BANKS_TOOLTIP
 msgctxt "STRINGS.ITEMS.ECON_CHIP_BANKS_TOOLTIP"
 msgid "Collects credits from consoles instead of PWR. 50 credit per PWR point."
-msgstr "コンソールからパワーの代わりにクレジットを収集する。１パワーごとに50クレジット。"
+msgstr "コンソールからパワーの代わりにクレジットを\n収集する。１パワーごとに50クレジット。"
 
 #: STRINGS.ITEMS.ECON_CHIP_FLAVOR
 msgctxt "STRINGS.ITEMS.ECON_CHIP_FLAVOR"
@@ -5201,7 +5201,7 @@ msgstr ""
 #: STRINGS.ITEMS.ECON_CHIP_TOOLTIP
 msgctxt "STRINGS.ITEMS.ECON_CHIP_TOOLTIP"
 msgid "Collects credits from consoles instead of PWR. 50 credit per PWR point."
-msgstr "コンソールからパワーの代わりにクレジットを収集する。１パワーごとに50クレジット。"
+msgstr "コンソールからパワーの代わりにクレジットを\n収集する。１パワーごとに50クレジット。"
 
 #: STRINGS.ITEMS.EMP_1
 msgctxt "STRINGS.ITEMS.EMP_1"
@@ -5216,7 +5216,7 @@ msgstr ""
 #: STRINGS.ITEMS.EMP_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.EMP_1_TOOLTIP"
 msgid "Detonates at the end of the turn. Disables all Mainframe devices and drones in a range of 3 tiles"
-msgstr "ターン終了時に炸裂。３タイル以内の全メインフレーム・デバイス及びドローンを無効化。"
+msgstr "ターン終了時に炸裂。３タイル以内の\n全メインフレーム・デバイス及びドローンを\n無効化。"
 
 #: STRINGS.ITEMS.EMP_2
 msgctxt "STRINGS.ITEMS.EMP_2"
@@ -5231,7 +5231,7 @@ msgstr ""
 #: STRINGS.ITEMS.EMP_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.EMP_2_TOOLTIP"
 msgid "Detonates at the end of the turn. Disables all Mainframe devices and drones in a range of 5 tiles"
-msgstr "ターン終了時に炸裂。５タイル以内の全メインフレーム・デバイス及びドローンを無効化。"
+msgstr "ターン終了時に炸裂。５タイル以内の\n全メインフレーム・デバイス及びドローンを\n無効化。"
 
 #: STRINGS.ITEMS.EMP_3
 msgctxt "STRINGS.ITEMS.EMP_3"
@@ -5246,7 +5246,7 @@ msgstr ""
 #: STRINGS.ITEMS.EMP_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.EMP_3_TOOLTIP"
 msgid "Detonates at the end of the turn when primed. Disables all Mainframe devices and drones in a range of 7 tiles"
-msgstr "ターン終了時に炸裂。７タイル以内の全メインフレーム・デバイス及びドローンを無効化。"
+msgstr "ターン終了時に炸裂。７タイル以内の\n全メインフレーム・デバイス及びドローンを\n無効化。"
 
 #: STRINGS.ITEMS.EMP_TONY
 msgctxt "STRINGS.ITEMS.EMP_TONY"
@@ -5261,7 +5261,7 @@ msgstr ""
 #: STRINGS.ITEMS.EMP_TONY_TOOLTIP
 msgctxt "STRINGS.ITEMS.EMP_TONY_TOOLTIP"
 msgid "Detonates at the end of the turn. Disables all Mainframe devices and drones in a range of 3 tiles"
-msgstr "ターン終了時に炸裂。３タイル以内の全メインフレーム・デバイス及びドローンを無効化。"
+msgstr "ターン終了時に炸裂。３タイル以内の\n全メインフレーム・デバイス及びドローンを\n無効化。"
 
 #: STRINGS.ITEMS.EXIT_PASS
 msgctxt "STRINGS.ITEMS.EXIT_PASS"
@@ -5271,7 +5271,7 @@ msgstr "出口のアクセスカード"
 #: STRINGS.ITEMS.EXIT_PASS_FLAVOR
 msgctxt "STRINGS.ITEMS.EXIT_PASS_FLAVOR"
 msgid "As it turns out, the code is a pretty secure 1024 bit key."
-msgstr "判明したところ、このコードは非常に安全な1024bitキーである。"
+msgstr "判明したところ、このコードは非常に安全な\n1024bitキーである。"
 
 #: STRINGS.ITEMS.EXIT_PASS_TOOLTIP
 msgctxt "STRINGS.ITEMS.EXIT_PASS_TOOLTIP"
@@ -5291,7 +5291,7 @@ msgstr ""
 #: STRINGS.ITEMS.FINAL_RED_TIP
 msgctxt "STRINGS.ITEMS.FINAL_RED_TIP"
 msgid "Use along with the Yellow Keycard to open the elevator."
-msgstr "黄色いキーカードと一緒に使うことでエレベーターを開く。"
+msgstr "黄色いキーカードと一緒に使うことで\nエレベーターを開く。"
 
 #: STRINGS.ITEMS.FINAL_YELLOW
 msgctxt "STRINGS.ITEMS.FINAL_YELLOW"
@@ -5306,7 +5306,7 @@ msgstr ""
 #: STRINGS.ITEMS.FINAL_YELLOW_TIP
 msgctxt "STRINGS.ITEMS.FINAL_YELLOW_TIP"
 msgid "Use along with the Red Keycard to open the elevator."
-msgstr "赤いキーカードと一緒に使うことでエレベーターを開く。"
+msgstr "赤いキーカードと一緒に使うことで\nエレベーターを開く。"
 
 #: STRINGS.ITEMS.GRENADE_CAMERA
 msgctxt "STRINGS.ITEMS.GRENADE_CAMERA"
@@ -5321,7 +5321,7 @@ msgstr ""
 #: STRINGS.ITEMS.GRENADE_CAMERA_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_CAMERA_TOOLTIP"
 msgid "Throw to place. Gives 360 vision in an area. Can be recovered."
-msgstr "投擲して設置。エリア内の全方位視界を得る。回収可能。"
+msgstr "投擲して設置。エリア内の全方位視界を得る。\n回収可能。"
 
 #: STRINGS.ITEMS.GRENADE_FLASH
 msgctxt "STRINGS.ITEMS.GRENADE_FLASH"
@@ -5351,7 +5351,7 @@ msgstr ""
 #: STRINGS.ITEMS.GRENADE_HOLO_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_HOLO_TOOLTIP"
 msgid "Throw to place a fake cover item. The projector can be heard 1 tile away. Can be recovered."
-msgstr "投擲して擬装遮蔽物として設置。このプロジェクターは１タイル以遠より機能する。回収可能。"
+msgstr "投擲して擬装遮蔽物として設置。この\nプロジェクターは１タイル以遠より機能する。\n回収可能。"
 
 #: STRINGS.ITEMS.GRENADE_SCAN
 msgctxt "STRINGS.ITEMS.GRENADE_SCAN"
@@ -5366,7 +5366,7 @@ msgstr "周囲の限定的な視界を得る。"
 #: STRINGS.ITEMS.GRENADE_SCAN_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_SCAN_TOOLTIP"
 msgid "Throw to scan a room for agents or guards. Gives temporary vision of guards in the room"
-msgstr "投擲してスキャン。投げた時の室内の警備員の姿を得る。"
+msgstr "投擲してスキャン。投げた時の室内の警備員の\n姿を得る。"
 
 #: STRINGS.ITEMS.GRENADE_SMOKE
 msgctxt "STRINGS.ITEMS.GRENADE_SMOKE"
@@ -5381,7 +5381,7 @@ msgstr ""
 #: STRINGS.ITEMS.GRENADE_SMOKE_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_SMOKE_TOOLTIP"
 msgid "Throw to create a cloud of smoke that occludes vision in an area."
-msgstr "投擲して煙幕を発生させ、エリア内の視界を遮断する。"
+msgstr "投擲して煙幕を発生させ、エリア内の視界を\n遮断する。"
 
 #: STRINGS.ITEMS.HOLO_MESH
 msgctxt "STRINGS.ITEMS.HOLO_MESH"
@@ -5416,7 +5416,7 @@ msgstr ""
 #: STRINGS.ITEMS.INCOGNITA_DRIVE_TOOLTIP
 msgctxt "STRINGS.ITEMS.INCOGNITA_DRIVE_TOOLTIP"
 msgid "Plug this into the mainframe to take over OMNI's network."
-msgstr "これをメインフレームに挿入し、オムニのネットワークを乗っ取る。"
+msgstr "これをメインフレームに挿入し、オムニの\nネットワークを乗っ取る。"
 
 #: STRINGS.ITEMS.KEYWORDS.CLOAK.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.CLOAK.DESC"
@@ -5491,7 +5491,7 @@ msgstr ""
 #: STRINGS.ITEMS.LAPTOP_INTERNATIONALE_TOOLTIP
 msgctxt "STRINGS.ITEMS.LAPTOP_INTERNATIONALE_TOOLTIP"
 msgid "Generates PWR when ALARM level changes if deployed.\nAlarm Level x 2 = PWR. Deploying has a 2 turn cooldown."
-msgstr "展開後、警報レベルの変化時にパワーを生成。展開後、２ターン冷却。"
+msgstr "展開後、警報レベルの変化時にパワーを生成。\n警報レベル×２＝パワー。展開後、２ターン\n冷却。"
 
 #: STRINGS.ITEMS.LOCK_DECODER_1
 msgctxt "STRINGS.ITEMS.LOCK_DECODER_1"
@@ -5506,7 +5506,7 @@ msgstr ""
 #: STRINGS.ITEMS.LOCK_DECODER_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.LOCK_DECODER_1_TOOLTIP"
 msgid "Place on a locked door to decode and disable the lock in 2 turns."
-msgstr "ロックされたドアに設置し、２ターンの間ロックを解読し無効化する。"
+msgstr "ロックされたドアに設置し、２ターンの間\nロックを解読し無効化する。"
 
 #: STRINGS.ITEMS.MED_GEL
 msgctxt "STRINGS.ITEMS.MED_GEL"
@@ -5516,7 +5516,7 @@ msgstr "医療ジェル"
 #: STRINGS.ITEMS.MED_GEL_FLAVOR
 msgctxt "STRINGS.ITEMS.MED_GEL_FLAVOR"
 msgid "A Medgel capsule contains a swarm of cellular-resotration nanobots suspended in a slurry of nutrients, antibiotics, and synthetic blood vessels. They taste like guava."
-msgstr "医療ジェル・カプセルは、栄養・抗生物質・合成血管の懸濁液の中に、待機状態の細胞復元ナノボットの群れを含んでいる。"
+msgstr "医療ジェル・カプセルは、栄養・抗生物質\n・合成血管の懸濁液の中に、待機状態の細胞\n復元ナノボットの群れを含んでいる。"
 
 #: STRINGS.ITEMS.MED_GEL_TOOLTIP
 msgctxt "STRINGS.ITEMS.MED_GEL_TOOLTIP"
@@ -5536,7 +5536,7 @@ msgstr ""
 #: STRINGS.ITEMS.PARALYZER_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.PARALYZER_1_TOOLTIP"
 msgid "Use on pinned targets. KOs targets for an extra 2 turns"
-msgstr "釘付け中の標的に使用。標的をのKOを２ターン延長"
+msgstr "釘付け中の標的に使用。標的をのKOを\n２ターン延長"
 
 #: STRINGS.ITEMS.PARALYZER_2
 msgctxt "STRINGS.ITEMS.PARALYZER_2"
@@ -5551,7 +5551,7 @@ msgstr ""
 #: STRINGS.ITEMS.PARALYZER_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.PARALYZER_2_TOOLTIP"
 msgid "Use on pinned targets. KOs targets for an extra 3 turns"
-msgstr "釘付け中の標的に使用。標的をのKOを３ターン延長"
+msgstr "釘付け中の標的に使用。標的をのKOを\n３ターン延長"
 
 #: STRINGS.ITEMS.PARALYZER_3
 msgctxt "STRINGS.ITEMS.PARALYZER_3"
@@ -5566,7 +5566,7 @@ msgstr ""
 #: STRINGS.ITEMS.PARALYZER_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.PARALYZER_3_TOOLTIP"
 msgid "Use on pinned targets. KOs targets for an extra 4 turns"
-msgstr "釘付け中の標的に使用。標的をのKOを４ターン延長"
+msgstr "釘付け中の標的に使用。標的をのKOを\n４ターン延長"
 
 #: STRINGS.ITEMS.PARALYZER_BANKS
 msgctxt "STRINGS.ITEMS.PARALYZER_BANKS"
@@ -5581,7 +5581,7 @@ msgstr ""
 #: STRINGS.ITEMS.PARALYZER_BANKS_TOOLTIP
 msgctxt "STRINGS.ITEMS.PARALYZER_BANKS_TOOLTIP"
 msgid "Use on pinned targets. KOs targets for an extra 3 turns."
-msgstr "釘付け中の標的に使用。標的をのKOを３ターン延長"
+msgstr "釘付け中の標的に使用。標的をのKOを\n３ターン延長"
 
 #: STRINGS.ITEMS.PASS_CARD
 msgctxt "STRINGS.ITEMS.PASS_CARD"
@@ -5851,7 +5851,7 @@ msgstr "衝撃トラップI"
 #: STRINGS.ITEMS.SHOCK_TRAP_1_FLAVOR
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_1_FLAVOR"
 msgid "A neural disrupter can be installed on a door to provide an improvised trap."
-msgstr "ドアに設置できる神経撹乱器は即席トラップとなる。"
+msgstr "ドアに設置できる神経撹乱器は即席トラップと\nなる。"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_1_TOOLTIP"
@@ -5866,7 +5866,7 @@ msgstr "衝撃トラップII"
 #: STRINGS.ITEMS.SHOCK_TRAP_2_FLAVOR
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_2_FLAVOR"
 msgid "A neural disrupter can be installed on a door to provide an improvised trap."
-msgstr "ドアに設置できる神経撹乱器は即席トラップとなる。"
+msgstr "ドアに設置できる神経撹乱器は即席トラップと\nなる。"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_2_TOOLTIP"
@@ -5881,12 +5881,12 @@ msgstr "衝撃トラップIII"
 #: STRINGS.ITEMS.SHOCK_TRAP_3_FLAVOR
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_3_FLAVOR"
 msgid "A neural disrupter can be installed on a door to provide an improvised trap."
-msgstr "ドアに設置できる神経撹乱器は即席トラップとなる。"
+msgstr "ドアに設置できる神経撹乱器は即席トラップと\nなる。"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_3_TOOLTIP"
 msgid "Place on a door. Triggers when opened. Has an area of effect. Ignores Armor."
-msgstr "ドアに設置。開放時に作動。範囲効果。装甲無視。"
+msgstr "ドアに設置。開放時に作動。範囲効果。装甲\n無視。"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_MOD
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_MOD"
@@ -5901,7 +5901,7 @@ msgstr "使えるパーツの寄せ集め。たぶん使えるだろう。"
 #: STRINGS.ITEMS.SHOCK_TRAP_MOD_TOOLTIP
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_MOD_TOOLTIP"
 msgid "Place on a door. Triggers when opened. One time use. Ignores Armor."
-msgstr "ドアに設置。開放時に作動。使いきり。装甲無視。"
+msgstr "ドアに設置。開放時に作動。使いきり。装甲\n無視。"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_TONY
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_TONY"
@@ -5911,7 +5911,7 @@ msgstr "改造衝撃トラップ"
 #: STRINGS.ITEMS.SHOCK_TRAP_TONY_FLAVOR
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_TONY_FLAVOR"
 msgid "Dr Xu faced disciplinary action at his university more than once for leaving activated shock traps on his door during office hours."
-msgstr "ドクター・シューは勤務中に一度ならず衝撃トラップを自分のドアに放置したため懲戒処分となった。"
+msgstr "ドクター・シューは勤務中に一度ならず衝撃\nトラップを自分のドアに放置したため懲戒処分\nとなった。"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_TONY_TOOLTIP
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_TONY_TOOLTIP"
@@ -5941,7 +5941,7 @@ msgstr "刺激剤I"
 #: STRINGS.ITEMS.STIM_1_FLAVOR
 msgctxt "STRINGS.ITEMS.STIM_1_FLAVOR"
 msgid "A cocktail of brain-and-muscle enhancing chemicals. It's best not to ask about the details."
-msgstr "脳筋増強薬物の混合物。中身は知らないのが一番だ。"
+msgstr "脳筋増強薬物の混合物。中身は知らないのが\n一番だ。"
 
 #: STRINGS.ITEMS.STIM_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.STIM_1_TOOLTIP"
@@ -5956,7 +5956,7 @@ msgstr "刺激剤II"
 #: STRINGS.ITEMS.STIM_2_FLAVOR
 msgctxt "STRINGS.ITEMS.STIM_2_FLAVOR"
 msgid "A strong cocktail of enhancement chemicals. May be slightly addictive."
-msgstr "増強薬物の強力な混合物。少しは中毒性があるかも。"
+msgstr "増強薬物の強力な混合物。少しは中毒性がある\nかも。"
 
 #: STRINGS.ITEMS.STIM_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.STIM_2_TOOLTIP"
@@ -5971,7 +5971,7 @@ msgstr "刺激剤III"
 #: STRINGS.ITEMS.STIM_3_FLAVOR
 msgctxt "STRINGS.ITEMS.STIM_3_FLAVOR"
 msgid "A dangerously strong cocktail of performance enhancing chemicals. Have you ever looked at your hands? I mean, *really* looked?"
-msgstr "能力増強薬物の危険なほど強力な混合物。自分の手を見たことがあるかい？つまり、「文字通り」見たのか？"
+msgstr "能力増強薬物の危険なほど強力な混合物。自分\nの手を見たことがあるかい？つまり、\n「文字通り」見たのか？"
 
 #: STRINGS.ITEMS.STIM_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.STIM_3_TOOLTIP"
@@ -6051,7 +6051,7 @@ msgstr ""
 #: STRINGS.ITEMS.TAZER_DECKARD_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_DECKARD_TOOLTIP"
 msgid "Melee range. TAGS guards on KO, tracking their movement."
-msgstr "格闘。KO時に警備員をタグ付けし、その移動を追跡する。"
+msgstr "格闘。KO時に警備員をタグ付けし、その移動\nを追跡する。"
 
 #: STRINGS.ITEMS.TAZER_PWR_1
 msgctxt "STRINGS.ITEMS.TAZER_PWR_1"
@@ -6351,12 +6351,12 @@ msgstr "金庫アクセスカード"
 #: STRINGS.ITEMS.VAULT_PASS_FLAVOR
 msgctxt "STRINGS.ITEMS.VAULT_PASS_FLAVOR"
 msgid "As it turns out, the code was just 'password123'."
-msgstr "判明したところ、コードは単に'password123'だった。"
+msgstr "判明したところ、コードは単に\n'password123'だった。"
 
 #: STRINGS.ITEMS.VAULT_PASS_TOOLTIP
 msgctxt "STRINGS.ITEMS.VAULT_PASS_TOOLTIP"
 msgid "Opens the special high-security vault doors in corporate vault and cybernetics lab locations."
-msgstr "企業金庫室とサイバネティック・ラボの特別高セキュリティー・ドアを開く。"
+msgstr "企業金庫室とサイバネティック・ラボの特別高\nセキュリティー・ドアを開く。"
 
 #: STRINGS.ITEMS.WIRELESS_SCANNER
 msgctxt "STRINGS.ITEMS.WIRELESS_SCANNER"
@@ -6376,7 +6376,7 @@ msgstr ""
 #: STRINGS.ITEMS.WIRELESS_SCANNER_TOOLTIP
 msgctxt "STRINGS.ITEMS.WIRELESS_SCANNER_TOOLTIP"
 msgid "Passively scans for Mainframe devices within range."
-msgstr "範囲内のメインフレーム・デバイスを自動でスキャンする。"
+msgstr "範囲内のメインフレーム・デバイスを自動で\nスキャンする。"
 
 #: STRINGS.LOADING.ERR_BODY
 msgctxt "STRINGS.LOADING.ERR_BODY"
@@ -11116,7 +11116,7 @@ msgstr "サウンド・バグ"
 #: STRINGS.PROPS.SOUND_BUG_TOOLTIP
 msgctxt "STRINGS.PROPS.SOUND_BUG_TOOLTIP"
 msgid "Alerts guards and raises the alarm when it hears a loud sound."
-msgstr "騒音を検知すると、警備員に警告して警報レベルを上げる。"
+msgstr "騒音を検知すると、警備員に警告して警報\nレベルを上げる。"
 
 #: STRINGS.PROPS.STORE
 msgctxt "STRINGS.PROPS.STORE"
@@ -12166,7 +12166,7 @@ msgstr "開示されたシステムの有効化を切り替える"
 #: STRINGS.SCREENS.STR_2805285023
 msgctxt "STRINGS.SCREENS.STR_2805285023"
 msgid "Drag to the exit or find a MedGel to revive"
-msgstr "出口まで運ぶか医療ジェルで復活させる"
+msgstr "出口まで運ぶか医療ジェルで\n復活させる"
 
 #: STRINGS.SCREENS.STR_2819297958
 msgctxt "STRINGS.SCREENS.STR_2819297958"
@@ -12536,7 +12536,7 @@ msgstr "壁の透明化を切り替える"
 #: STRINGS.SCREENS.STR_3854504565
 msgctxt "STRINGS.SCREENS.STR_3854504565"
 msgid "Retry the level with a new randomly generated layout"
-msgstr "このステージを新しくランダムに生成されレたイアウトでやり直す"
+msgstr "このステージを新しくランダムに生成されレたイアウトで\nやり直す"
 
 #: STRINGS.SCREENS.STR_3865231756
 msgctxt "STRINGS.SCREENS.STR_3865231756"
@@ -13426,7 +13426,7 @@ msgstr "アクティブ"
 #: STRINGS.UI.ADVANCED_ALARM_TOOLTIP
 msgctxt "STRINGS.UI.ADVANCED_ALARM_TOOLTIP"
 msgid "<c:a40000>ADVANCED SECURITY LEVEL</>\nThe corporations have elevated their response to intrusion due to your previous successes. These new security measures will activate every 5 increments as before."
-msgstr "<c:a40000>上昇する警戒レベル</>\n企業は侵入への対応を活動に応じて引き上げる。\nこれらの新たなセキュリティー対策は、\n5段階ごとに有効になる。"
+msgstr "<c:a40000>上昇する警戒レベル</>\n企業は侵入への対応を活動に応じて引き上げる。\nこれらの新たなセキュリティー対策は、5段階\nごとに有効になる。"
 
 #: STRINGS.UI.AGENTS_ESCAPED
 msgctxt "STRINGS.UI.AGENTS_ESCAPED"
@@ -13486,7 +13486,7 @@ msgstr "警告\nカメラによる監視"
 #: STRINGS.UI.ALARM_ENFORCERS
 msgctxt "STRINGS.UI.ALARM_ENFORCERS"
 msgid "The corporation has called in {1} elite {1:enforcer|enforcers}. Their security has also pinpointed {2} agent {2:location|locations}."
-msgstr "企業はエンフォーサーを{1}人呼んだ。また警備は{2}人のエージェントの位置を特定した。"
+msgstr "企業はエンフォーサーを{1}人呼んだ。また警備は{2}人のエージェントの位置\nを特定した。"
 
 #: STRINGS.UI.ALARM_FIREWALLS
 msgctxt "STRINGS.UI.ALARM_FIREWALLS"
@@ -14496,12 +14496,12 @@ msgstr "このドアを開ける。"
 #: STRINGS.UI.DOORS.SECURITY
 msgctxt "STRINGS.UI.DOORS.SECURITY"
 msgid "LOCKED - LVL1 SECURITY PASSCARD"
-msgstr "ロック済み―レベル１セキュリティー・パスカード"
+msgstr "ロック済み―レベル１セキュリティー・\nパスカード"
 
 #: STRINGS.UI.DOORS.SECURITY_LONGDESC
 msgctxt "STRINGS.UI.DOORS.SECURITY_LONGDESC"
 msgid "Lvl1 security passcards can be stolen from the guards, and only work in the facility where they are found."
-msgstr "レベル１セキュリティー・パスカードは警備員から盗めるが、次のステージに持ち越せない。"
+msgstr "レベル１セキュリティー・パスカードは警備員\nから盗めるが、次のステージに持ち越せない。"
 
 #: STRINGS.UI.DOORS.SPECIAL_EXIT
 msgctxt "STRINGS.UI.DOORS.SPECIAL_EXIT"
@@ -14641,7 +14641,7 @@ msgstr "{1}ターンの間ハックされる"
 #: STRINGS.UI.FLAG_DEAD_TT
 msgctxt "STRINGS.UI.FLAG_DEAD_TT"
 msgid "This agent is down. Revive with a MED-GEL or by dragging to the escape point."
-msgstr "エージェントが倒れている。復活には医療ジェルを使うか脱出地点まで運ぶ必要がある。"
+msgstr "エージェントが倒れている。復活には医療\nジェルを使うか脱出地点まで運ぶ必要がある。"
 
 #: STRINGS.UI.FLAG_KO_PIN_TT
 msgctxt "STRINGS.UI.FLAG_KO_PIN_TT"
@@ -17271,7 +17271,7 @@ msgstr "サイバー断末魔"
 #: STRINGS.UI.TOOLTIPS.AOE_FIREWALL_BUFF_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.AOE_FIREWALL_BUFF_DESC"
 msgid "Each time this unit is KOed or Alerted mainframe devices within {1} tiles get +{2} Firewalls"
-msgstr "このユニットがKOされるたびに{1}タイル以内のメインフレーム・デバイスのファイヤーウォール+{2}"
+msgstr "このユニットがKOされるたびに{1}タイル以内\nのメインフレーム・デバイスの\nファイヤーウォール+{2}"
 
 #: STRINGS.UI.TOOLTIPS.BARRIER
 msgctxt "STRINGS.UI.TOOLTIPS.BARRIER"
@@ -17281,7 +17281,7 @@ msgstr "バリア"
 #: STRINGS.UI.TOOLTIPS.BARRIER_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.BARRIER_DESC"
 msgid "This unit has ARMOR equal to its mainframe FIREWALLS."
-msgstr "このユニットの装甲値はそのメインフレーム・ファイヤーウォールと同等になる。"
+msgstr "このユニットの装甲値はそのメインフレーム・\nファイヤーウォールと同等になる。"
 
 #: STRINGS.UI.TOOLTIPS.CONTROLLABLE
 msgctxt "STRINGS.UI.TOOLTIPS.CONTROLLABLE"
@@ -17291,7 +17291,7 @@ msgstr "操縦可能"
 #: STRINGS.UI.TOOLTIPS.CONTROLLABLE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.CONTROLLABLE_DESC"
 msgid "Hack this unit in the MAINFRAME to gain temporary control."
-msgstr "このユニットはメインフレーム内でハッキングすることで一時的に操縦できる。"
+msgstr "このユニットはメインフレーム内でハッキング\nすることで一時的に操縦できる。"
 
 #: STRINGS.UI.TOOLTIPS.COUNTER_HACK
 msgctxt "STRINGS.UI.TOOLTIPS.COUNTER_HACK"
@@ -17301,7 +17301,7 @@ msgstr "ハッカー"
 #: STRINGS.UI.TOOLTIPS.COUNTER_HACK_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.COUNTER_HACK_DESC"
 msgid "Recaptures 1 mainframe device per turn in a range of {1} tiles"
-msgstr "毎ターン{1}タイル以内の１メインフレーム・デバイスを奪還する"
+msgstr "毎ターン{1}タイル以内の１メインフレーム・\nデバイスを奪還する"
 
 #: STRINGS.UI.TOOLTIPS.CURRENTLY_EQUIPPED
 msgctxt "STRINGS.UI.TOOLTIPS.CURRENTLY_EQUIPPED"
@@ -17316,7 +17316,7 @@ msgstr "局所スキャナー"
 #: STRINGS.UI.TOOLTIPS.DRONE_SCAN_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.DRONE_SCAN_DESC"
 msgid "Drones investigate with a short range scanner that will locate targets even behind cover."
-msgstr "ドローンは短距離スキャナーを使って調査することで遮蔽物の背後の対象も見つけられる。"
+msgstr "ドローンは短距離スキャナーを使って調査する\nことで遮蔽物の背後の対象も見つけられる。"
 
 #: STRINGS.UI.TOOLTIPS.EMPTY_PROGRAM_SLOT
 msgctxt "STRINGS.UI.TOOLTIPS.EMPTY_PROGRAM_SLOT"
@@ -17336,7 +17336,7 @@ msgstr "EMP脆弱性"
 #: STRINGS.UI.TOOLTIPS.EMP_VULNERABLE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.EMP_VULNERABLE_DESC"
 msgid "EMP effects destroy this unit's delicate electronics permanently."
-msgstr "EMPはこのユニットの脆弱な電子機器を永久に破壊する。"
+msgstr "EMPはこのユニットの脆弱な電子機器を永久\nに破壊する。"
 
 #: STRINGS.UI.TOOLTIPS.ENCUMBERED
 msgctxt "STRINGS.UI.TOOLTIPS.ENCUMBERED"
@@ -17356,7 +17356,7 @@ msgstr "ファイヤーウォール：%d"
 #: STRINGS.UI.TOOLTIPS.FIREWALLS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.FIREWALLS_DESC"
 msgid "Use INCOGNITA PROGRAMS to break."
-msgstr "インコグニータのプログラムを使用して侵入する。"
+msgstr "インコグニータのプログラムを使用して侵入\nする。"
 
 #: STRINGS.UI.TOOLTIPS.FOCUSED_AI
 msgctxt "STRINGS.UI.TOOLTIPS.FOCUSED_AI"
@@ -17366,7 +17366,7 @@ msgstr "集中AI"
 #: STRINGS.UI.TOOLTIPS.FOCUSED_AI_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.FOCUSED_AI_DESC"
 msgid "This unit will not be distracted from it's patrols or hunts."
-msgstr "このユニットは巡回は追跡から気を逸らされない。"
+msgstr "このユニットは巡回は追跡から気を逸らされ\nない。"
 
 #: STRINGS.UI.TOOLTIPS.GRENADE_GUARD
 msgctxt "STRINGS.UI.TOOLTIPS.GRENADE_GUARD"
@@ -17376,7 +17376,7 @@ msgstr "補助警備員"
 #: STRINGS.UI.TOOLTIPS.GRENADE_GUARD_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.GRENADE_GUARD_DESC"
 msgid "This unit clears rooms with flash grenades."
-msgstr "このユニットは部屋を閃光手榴弾でクリアリングする。"
+msgstr "このユニットは部屋を閃光手榴弾で\nクリアリングする。"
 
 #: STRINGS.UI.TOOLTIPS.HACK
 msgctxt "STRINGS.UI.TOOLTIPS.HACK"
@@ -17386,7 +17386,7 @@ msgstr "ハッキング"
 #: STRINGS.UI.TOOLTIPS.HACK_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.HACK_DESC"
 msgid "Hack in mainframe mode to earn credits. Refreshes every turn."
-msgstr "メインフレーム・モードでハックしてクレジットを稼ぐ。毎ターン使用できる。"
+msgstr "メインフレーム・モードでハックして\nクレジットを稼ぐ。毎ターン使用できる。"
 
 #: STRINGS.UI.TOOLTIPS.HEART_MONITOR
 msgctxt "STRINGS.UI.TOOLTIPS.HEART_MONITOR"
@@ -17416,7 +17416,7 @@ msgstr "適応硬化"
 #: STRINGS.UI.TOOLTIPS.KO_ARMOR_BUFF_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.KO_ARMOR_BUFF_DESC"
 msgid "Each time this unit is KOed or alerted its ARMOR increases by {1}."
-msgstr "このユニットがKOされるか警戒するごとに装甲値が{1}上昇する。"
+msgstr "このユニットがKOされるか警戒するごとに\n装甲値が{1}上昇する。"
 
 #: STRINGS.UI.TOOLTIPS.KO_DEAMON
 msgctxt "STRINGS.UI.TOOLTIPS.KO_DEAMON"
@@ -17426,7 +17426,7 @@ msgstr "サイバー意識"
 #: STRINGS.UI.TOOLTIPS.KO_DEAMON_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.KO_DEAMON_DESC"
 msgid "If KO, this unit will possess a mainframe device as a Daemon program"
-msgstr "KO時、このユニットはメインフレーム・デバイスにデーモン・プログラムとして取り付く"
+msgstr "KO時、このユニットはメインフレーム・\nデバイスにデーモン・プログラムとして\n取り付く"
 
 #: STRINGS.UI.TOOLTIPS.KO_IMMUNE
 msgctxt "STRINGS.UI.TOOLTIPS.KO_IMMUNE"
@@ -17461,7 +17461,7 @@ msgstr "磁力強化"
 #: STRINGS.UI.TOOLTIPS.MAGNETIC_REINFOREMENTS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.MAGNETIC_REINFOREMENTS_DESC"
 msgid "If this device has more than 2 FIREWALLS, EMP's break 2 FIREWALLS instead of disabling it."
-msgstr "このデバイスに２ファイヤーウォール以上あれば、EMPはこれを無効化する代わりに２ファイヤーウォールを破壊する。"
+msgstr "このデバイスに２ファイヤーウォール以上\nあれば、EMPはこれを無効化する代わりに\n２ファイヤーウォールを破壊する。"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_ACTIVE
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_ACTIVE"
@@ -17496,7 +17496,7 @@ msgstr "非アクティブ"
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_LINKED_TO_POWER_GRID
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_LINKED_TO_POWER_GRID"
 msgid "This device is linked to power grid [%s]."
-msgstr "このデバイスは[%s]パワーグリッドにリンクしている。"
+msgstr "このデバイスは[%s]パワーグリッドに\nリンクしている。"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_MASKED
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_MASKED"
@@ -17541,7 +17541,7 @@ msgstr "神経スキャン済み"
 #: STRINGS.UI.TOOLTIPS.NEURAL_SCANNED_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.NEURAL_SCANNED_DESC"
 msgid "This unit has already been neurally scanned."
-msgstr "このユニットはすでに神経スキャンされている。"
+msgstr "このユニットはすでに神経スキャンされて\nいる。"
 
 #: STRINGS.UI.TOOLTIPS.NOT_INSTALLED
 msgctxt "STRINGS.UI.TOOLTIPS.NOT_INSTALLED"
@@ -17571,7 +17571,7 @@ msgstr "ヌル・ゾーン"
 #: STRINGS.UI.TOOLTIPS.NULL_ZONE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.NULL_ZONE_DESC"
 msgid "This drone emits a field which blocks hacking of firewalls in a range of {1} {1:tile|tiles}."
-msgstr "このドローンは、{1}タイル以内のファイヤーウォールへのハッキングを防ぐフィールドを放出している。"
+msgstr "このドローンは、{1}タイル以内の\nファイヤーウォールへのハッキングを防ぐ\nフィールドを放出している。"
 
 #: STRINGS.UI.TOOLTIPS.PERIPHERAL_BOOST
 msgctxt "STRINGS.UI.TOOLTIPS.PERIPHERAL_BOOST"
@@ -17596,7 +17596,7 @@ msgstr "保護シールド%d"
 #: STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS_DESC"
 msgid "Blocks shots against this target. Shields reduced by 1 for each shot taken."
-msgstr "この対象への射撃を防ぐ。シールドは射撃ごとに１減少する。"
+msgstr "この対象への射撃を防ぐ。シールドは射撃ごと\nに１減少する。"
 
 #: STRINGS.UI.TOOLTIPS.PULSE_SCANNER
 msgctxt "STRINGS.UI.TOOLTIPS.PULSE_SCANNER"
@@ -17606,7 +17606,7 @@ msgstr "パルス・スキャナー"
 #: STRINGS.UI.TOOLTIPS.PULSE_SCANNER_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.PULSE_SCANNER_DESC"
 msgid "Activated at the beginning of a turn. Targets located in or out of cover are relayed to nearby security. Range: {1}"
-msgstr "ターン開始時にアクティブ化。遮蔽内外の対象の位置は近くの警備へと伝達される。範囲：{1}"
+msgstr "ターン開始時にアクティブ化。遮蔽内外の対象\nの位置は近くの警備へと伝達される。範囲：{1}"
 
 #: STRINGS.UI.TOOLTIPS.PWR_STEAL
 msgctxt "STRINGS.UI.TOOLTIPS.PWR_STEAL"
@@ -17661,7 +17661,7 @@ msgstr "盗む"
 #: STRINGS.UI.TOOLTIPS.STEAL_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.STEAL_DESC"
 msgid "Steal credits from logged in accounts at the cost of raising the alarm."
-msgstr "ログイン済みのアカウントからクレジットを盗む代償に、警報が上がる。"
+msgstr "ログイン済みのアカウントからクレジットを\n盗む代償に、警報が上がる。"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR"
@@ -17676,7 +17676,7 @@ msgstr "\n\nこのプログラムは毎回{1}パワー使用する。"
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR_DESC"
 msgid "<c:F4FF78>PWR USE</>\nSome programs require PWR from the Agency to operate."
-msgstr "<c:F4FF78>使用パワー</>\nいくつかのプログラムは機関が操作するのにパワーを必要とする。"
+msgstr "<c:F4FF78>使用パワー</>\nいくつかのプログラムは機関が操作するのに\nパワーを必要とする。"
 
 #: STRINGS.UI.TOOLTIPS.UPGRADE_INVENTORY
 msgctxt "STRINGS.UI.TOOLTIPS.UPGRADE_INVENTORY"
@@ -17696,7 +17696,7 @@ msgstr "倒れたエージェント"
 #: STRINGS.UI.TOOLTIP_AGENT_DOWN_DESC
 msgctxt "STRINGS.UI.TOOLTIP_AGENT_DOWN_DESC"
 msgid "This agent is down. Drag them to the exit or use a medgel to revive."
-msgstr "このエージェントは倒れている。脱出地点まで運ぶか医療ジェルを使うことで復活させる。"
+msgstr "このエージェントは倒れている。脱出地点まで\n運ぶか医療ジェルを使うことで復活させる。"
 
 #: STRINGS.UI.TOOLTIP_ALREADY_OWN
 msgctxt "STRINGS.UI.TOOLTIP_ALREADY_OWN"
