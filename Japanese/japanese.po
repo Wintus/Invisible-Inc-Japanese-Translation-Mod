@@ -14436,7 +14436,7 @@ msgstr "警備員用エレベーター"
 #: STRINGS.UI.DOORS.INUSE
 msgctxt "STRINGS.UI.DOORS.INUSE"
 msgid "LOCKED - IN USE"
-msgstr "ロック済み―使用中"
+msgstr "ロックされている―使用中"
 
 #: STRINGS.UI.DOORS.LOCK
 msgctxt "STRINGS.UI.DOORS.LOCK"
@@ -14446,7 +14446,7 @@ msgstr "ロックする"
 #: STRINGS.UI.DOORS.LOCKED
 msgctxt "STRINGS.UI.DOORS.LOCKED"
 msgid "LOCKED"
-msgstr "ロック済み"
+msgstr "ロックされている"
 
 #: STRINGS.UI.DOORS.LOCK_TT
 msgctxt "STRINGS.UI.DOORS.LOCK_TT"
@@ -14496,7 +14496,7 @@ msgstr "このドアを開ける。"
 #: STRINGS.UI.DOORS.SECURITY
 msgctxt "STRINGS.UI.DOORS.SECURITY"
 msgid "LOCKED - LVL1 SECURITY PASSCARD"
-msgstr "ロック済み―レベル１セキュリティー・\nパスカード"
+msgstr "ロックされている―レベル１セキュリティー\n・パスカード"
 
 #: STRINGS.UI.DOORS.SECURITY_LONGDESC
 msgctxt "STRINGS.UI.DOORS.SECURITY_LONGDESC"
