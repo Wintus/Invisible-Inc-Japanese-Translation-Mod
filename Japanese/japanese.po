@@ -1581,147 +1581,147 @@ msgstr "そう。残りは今度話すわ。"
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.20
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.20"
 msgid "Thank you. I've always had trouble with that move."
-msgstr "ありがとう。私は、"
+msgstr "ありがとう。私はいつもその移動に問題があるわ。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.21
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.21"
 msgid "Affirmative. But I can take care of myself in a fight, if I need to."
-msgstr "肯定。でも、"
+msgstr "肯定。でも戦闘は自分でできるから、もし必要なら。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.22
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.22"
 msgid "You were a bodyguard before this, were you not?"
-msgstr ""
+msgstr "あなたは以前用心棒だったのよね？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.23
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.23"
 msgid "It must have been demeaning to prioritize another's life ahead of your own for money. How did that feel?"
-msgstr ""
+msgstr "他人の命より自分の金を優先するなんて軽蔑されるべきよ。一体それをどう感じているの？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.24
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.24"
 msgid "Tell me, who assembled your latest implant? Who mined the ore that went into its components?"
-msgstr ""
+msgstr "教えて、誰が最後のインプラントを組み込んだの？誰がその部品となる鉱石を掘り出したの？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.25
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.25"
 msgid "Because some day they might stop. And then you'll know their power."
-msgstr ""
+msgstr "なぜならいつの日か彼らはやめるだろうから。そしてあなたは彼らの力を知るでしょう。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.26
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.26"
 msgid "Can we try not to hurt anyone this time?"
-msgstr ""
+msgstr "今回は誰も傷つけないようにできる？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.27
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.27"
 msgid "It depends. If the workers at the Sankaku assembly plant voted to unionize, they could-"
-msgstr ""
+msgstr "場合に因るわ。もしサンカク組立工場の労働者が団結すれば―"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.28
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.28"
 msgid "But don't you recognize the structural biases that have allowed you to pursue your goals at the expense of others?"
-msgstr ""
+msgstr "でもあなたは構造的なバイアスが他人の費用であなたの目標を追求できるようにしているって気づかないの？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.29
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.29"
 msgid "I want a new partner."
-msgstr ""
+msgstr "新しいパートナーがほしい。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.3
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.3"
 msgid "Were you born this cynical?"
-msgstr ""
+msgstr "生まれた時からこんな皮肉屋なの？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.30
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.30"
 msgid "You were involved in the anti-corporate movement when you were younger?"
-msgstr ""
+msgstr "若い時に反企業運動に関わったの？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.31
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.31"
 msgid "But we should talk about it! You could have used your fame as a platform for changing public consciousness!"
-msgstr ""
+msgstr "でも私たちはそれについてかたらないと！あなたは自分の名声を大衆の意識変革のプラットフォームとして使えたのに！"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.32
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.32"
 msgid "I enjoy reading. I particularly enjoy early 20th century proletarian novels. Have you read Upton Sinclair?"
-msgstr ""
+msgstr "読書は楽しいわ。特に20世紀初期のプロレタリアート文学は。アプトン・シンクレアを読んだことある？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.33
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.33"
 msgid "\"Corporate Hegemony and the Praxis of Action\". A classic! I must have dropped it. You can borrow it if you'd like."
-msgstr ""
+msgstr "\"企業の覇権および運動の実戦\"。古典よ！落としちゃたに違いないわ。良かったら貸すわ。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.34
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.34"
 msgid "Are you sure? It's really eye-opening!"
-msgstr ""
+msgstr "本気？本当に目を見張るわ！"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.35
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.35"
 msgid "I really respect what you did for your people back in Dublin."
-msgstr ""
+msgstr "あなたがダブリンの人々にしてあげたことを私は本当に尊敬してるわ。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.36
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.36"
 msgid "Have you actually talked to any of the other agents?"
-msgstr ""
+msgstr "あなたは他のエージェントと実際に話したことがあるの？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.37
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.37"
 msgid "They're synesthetic couplers. They let me hear radio waves, so I can sense equipment from a distance."
-msgstr ""
+msgstr "それは共感覚連結器。これで私は電波を聞けて、離れた機器を感じられる。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.38
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.38"
 msgid "That sounds… useful."
-msgstr ""
+msgstr "それは…便利そうね。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.39
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.39"
 msgid "Of course. It was one of my favourite stories as a girl."
-msgstr ""
+msgstr "当然よ。それは私のお気に入りの女の子のストーリーのひとつだもの。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.4
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.4"
 msgid "I can't believe you used to work for these people."
-msgstr ""
+msgstr "あなたがこれらの人々のために働いていたなんて信じられない。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.40
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.40"
 msgid "Your headaches, are they getting better?"
-msgstr ""
+msgstr "頭痛、良くなった？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.41
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.41"
 msgid "If there's anything I can do.."
-msgstr ""
+msgstr "もし何か私にできることがあれば…"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.5
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.5"
 msgid "Is that all that matters to you?"
-msgstr ""
+msgstr "それって全部大事なの？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.6
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.6"
 msgid "I wouldn't be here if I didn't."
-msgstr ""
+msgstr "やらなかったらここにはいないでしょうね。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.7
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.7"
 msgid "Do you regret any of your academic work? Your discoveries help prop up our oppressors."
-msgstr ""
+msgstr "自分の研究をひとつでも後悔してる？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.8
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.8"
 msgid "That's a rather convenient attitude."
-msgstr ""
+msgstr "それはむしろ便利な態度ね。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.9
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.9"
 msgid "I don't know. How certain are you that you won't damage it?"
-msgstr ""
+msgstr "分からない。ダメージを与えないのは、どれくらい確かなの？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.1"
@@ -1731,52 +1731,52 @@ msgstr "立ち上がれ、地の悲惨な諸君！"
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.2"
 msgid "I have but the feeble strength of one."
-msgstr ""
+msgstr "私は一人の弱々しい強さしか持ってない。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.3"
 msgid "A new world will be born from the ashes of the old!"
-msgstr ""
+msgstr "新しい世界は旧世界の灰より生まれいでよう！"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.4"
 msgid "Can't you see? The bosses keep us apart!"
-msgstr ""
+msgstr "見える？支配者らが私たちを分裂させてたのよ！"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.1
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.1"
 msgid "Take what you can. They won't miss it."
-msgstr ""
+msgstr "できることをやって。皆んなは忘れないから。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.2
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.2"
 msgid "Each according to their means!"
-msgstr ""
+msgstr "それぞれの財力に応じて！"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.3
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.3"
 msgid "Time to strike one for the good guys!"
-msgstr ""
+msgstr "良き人々のために打つ時だ！"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.4
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.4"
 msgid "Can we do this without collateral damage, maybe?"
-msgstr ""
+msgstr "コラテラル・ダメージなしにやり遂げられる、たぶん？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.5
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.5"
 msgid "These corporate pigs make me sick."
-msgstr ""
+msgstr "こいつら企業の豚共のせいで気分が悪い。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.6
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.6"
 msgid "Remember, the guards are just doing their job."
-msgstr ""
+msgstr "忘れないで、警備員は自分の仕事をしてるだけなの。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.7
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.7"
 msgid "Look around. All of this is built on the backs of average working people."
-msgstr ""
+msgstr "周りを見て。これは全部普通の人々が作ったものなの。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BIO_SPOKEN"
