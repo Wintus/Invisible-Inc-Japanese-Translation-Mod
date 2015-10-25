@@ -136,13 +136,10 @@ def wrapper_jp_with_newline(string, width, newline='\n'):
 
 
 if __name__ == '__main__':
-    flavor = 20
-    bio = 21
-    disc = 22
-    tips = 24
-    n_max = 27
-
-    n_wrap = bio
-    str_input = input("Input wrapping string by {}:\n".format(n_wrap))
-    result = wrapper_jp_with_newline(str_input, n_wrap)
-    print(result)
+    while True:
+        n_wrap = int(input("Wrapping width: "))
+        str_input = input("Input string to be wrapped:\n")
+        result = wrapper_jp_with_newline(str_input, n_wrap)
+        print()
+        print(result)
+        print("\n> Wrapped\n")
