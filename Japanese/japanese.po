@@ -696,7 +696,7 @@ msgstr "23"
 #: STRINGS.AGENTS.BANKS.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.BANKS.ALT_2.BIO"
 msgid "Banks has always had a way with finances, but she wasn't always so altruistic. In old Dublin she amassed a small fortune from embezzlement and graft, and lived a life of reckless abandon.\n\nShe found her principles during the Fall Siege, and by the time Dublin Nua was finally liberated she had drained her private accounts several times over."
-msgstr "バンクスは金に不自由しないが、いつでも利他的だというわけでもない。ダブリンの旧市街で、横領と収賄から大金をせしめて、無茶で奔放な暮らしをした。\n\n彼女は自分の信念を秋の攻城で発見し、ダブリン・ヌアが最終的に解放された時点で、彼女は個人口座から数回にわたって出金していた。"
+msgstr "バンクスは金に不自由しないが、いつでも利他\n的だというわけでもない。ダブリンの旧市街で\n横領と収賄から大金をせしめて、無茶で奔放な\n暮らしをした。\n\n彼女は自分の信念を秋の攻城で発見し、\nダブリン・ヌアが最終的に解放された時点で、\n彼女は個人口座から数回にわたって出金してい\nた。"
 
 #: STRINGS.AGENTS.BANKS.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.BANKS.ALT_2.FULLNAME"
@@ -881,7 +881,7 @@ msgstr "風が大麦を揺らす。"
 #: STRINGS.AGENTS.BANKS.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.BANKS.BIO_SPOKEN"
 msgid "Even with the brain damage, Banks is one of the most effective hackers I've ever encountered. With stims and neuro-conditioning she's able to stay lucid, but I wonder what kind of long term effects that might have on her stability."
-msgstr "脳へのダメージがあってすら、バンクスは私が出会った中で最も有能なハッカーだ。刺激剤と神経調整により、彼女は頭脳明晰でいられるが、私はそれが長期的に彼女の安定性にどんな影響を持つか懸念している。"
+msgstr "脳へのダメージがあってすら、バンクスは私が\n出会った中で最も有能なハッカーだ。刺激剤と\n神経調整により彼女は頭脳明晰でいられるが、\n私はそれが長期的に彼女の安定性にどんな影響\nを持つか懸念している。"
 
 #: STRINGS.AGENTS.BANKS.FILE
 msgctxt "STRINGS.AGENTS.BANKS.FILE"
@@ -916,7 +916,7 @@ msgstr "68"
 #: STRINGS.AGENTS.CENTRAL.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.BIO"
 msgid "Olivia Gladstone was the highest-ranking officer in the Pan-Euro Infosec Agency before it collapsed at the end of the Resource Wars.\n\nForced into hiding, she re-emerged as the founder and leader of Invisible Inc. She currently holds the record for highest total corporate bounty ever offered for a single target."
-msgstr "オリビア・グラドストンは、汎ユーロ情報保安機関の最高幹部だった―資源戦争の終わりに崩壊するまでは。\n\n潜伏を強いられた後、彼女はインビジブル社のリーダーかつ創業者として再出現した。彼女は現在一個人としては最高の合計金額となる企業の賞金首である。"
+msgstr "オリビア・グラドストンは、汎ユーロ情報保安\n機関の最高幹部だった―資源戦争の終わりに\n崩壊するまでは。\n\n潜伏を強いられた後、彼女はインビジブル社の\nリーダーかつ創業者として再出現した。彼女は\n現在一個人としては最高の合計金額となる企業\nの賞金首である。"
 
 #: STRINGS.AGENTS.CENTRAL.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.FULLNAME"
@@ -981,7 +981,7 @@ msgstr "我々の任務をこなそう。"
 #: STRINGS.AGENTS.CENTRAL.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.CENTRAL.BIO_SPOKEN"
 msgid "My name is Olivia Gladstone. I ran the Pan-Euro Infosec Agency, back when sovereign governments were still in fashion. After the war I founded Invisible Inc, a freelance intelligence agency. We may work for the corps, but only to serve our own ends. We've been gathering intelligence for years, waiting for the opportunity to bring the whole machine crashing down. Unfortunately, they found us first."
-msgstr "わたしはオリビア・グラドストン。まだ政府が存在していたころ、私は汎ユーロ情報保安機関を運営していた。大戦後、私はインビジブル社―フリーランスの諜報機関―を発見した。我々は時に企業のために働くかもしれないが、我々自身の目標のに沿う時のみだ。我々は何年も情報を収集し、マシン全体がクラッシュする時を待っていた。残念ながら、先に見つけたのは彼らの方だった。"
+msgstr "わたしはオリビア・グラドストン。まだ政府が\n存在していたころ、私は汎ユーロ情報保安機関\nを運営していた。大戦後、私はインビジブル社\n―フリーランスの諜報機関―を発見した。我々\nは時に企業のために働くかもしれないが、我々\n自身の目標のに沿う時のみだ。我々は何年も\n情報を収集し、マシン全体がクラッシュする時\nを待っていた。残念ながら、先に見つけたのは\n彼らの方だった。"
 
 #: STRINGS.AGENTS.CENTRAL.FILE
 msgctxt "STRINGS.AGENTS.CENTRAL.FILE"
@@ -1016,7 +1016,7 @@ msgstr "38"
 #: STRINGS.AGENTS.DECKARD.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_1.BIO"
 msgid "Decker affects a persona from a bygone era as an act of protest against a world gone mad for technology. Quick on his feet and with his fists, rumour has it that he's packing more augmentations than he's willing to admit.\n\nHe was chief of security for K&O's California branch until an escalating love affair with the bottle chased him out of the Corporate world."
-msgstr "デッカーは、かつて世界が技術に熱狂した時代に抗議活動をしていたころから、人格に影響を与えている。手が早い彼は、噂によると、彼が認めるたがる以上の強化機能を詰め込んでいるらしい。\n\n彼はK&Oカリフォルニア支部の保安部長だった、酒好きが高じて企業の世界から追い出されるまでは。"
+msgstr "デッカーは、かつて世界が技術に熱狂した時代\nに抗議活動をしていたころから、人格に影響を\n与えている。手が早い彼は、噂によると、彼が\n認めるたがる以上の強化機能を詰め込んでいる\nらしい。\n\n彼はK&Oカリフォルニア支部の保安部長だっ\nた―酒好きが高じて企業の世界から追い出さ\nれるまでは。"
 
 #: STRINGS.AGENTS.DECKARD.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_1.FULLNAME"
@@ -1036,7 +1036,7 @@ msgstr "30"
 #: STRINGS.AGENTS.DECKARD.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_2.BIO"
 msgid "Before being shunned out of the executive ranks of the Corporate world, Decker used his significant salary to track down and acquire antiques from decades past.\n\nTo believe the rumors, his nostalgia was so strong that he even made some ludicrously expensive modifications to keep some antiques usable in the modern age."
-msgstr "企業の世界で重役クラスから敬遠されるまで、数十年来デッカーは自分のかなりの給料を骨董品を追い求めるのに費やしてきた。\n\n噂を信じるなら、彼の懐古趣味は、いくつかの骨董品を途方も無い修繕費を費やしてまで現代で使えるようにしているらしい。"
+msgstr "企業の世界で重役クラスから敬遠されるまで、\n数十年来デッカーは自分のかなりの給料を骨董\n品を追い求めるのに費やしてきた。\n\n噂を信じるなら、彼の懐古趣味は、いくつかの\n骨董品を、途方も無い修繕費を費やしてまで、\n現代で使えるようにしているらしい。"
 
 #: STRINGS.AGENTS.DECKARD.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_2.FULLNAME"
@@ -1361,7 +1361,7 @@ msgstr "もし俺がここの担当なら、こんなにうまくは入れない
 #: STRINGS.AGENTS.DECKARD.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.DECKARD.BIO_SPOKEN"
 msgid "I found Decker living in a bottle after his termination. He's cleaned up since then, but I keep eyes on, just to be sure. The 20th century thing is an unfortunate affectation, but I'm not paying him for his fashion sense."
-msgstr "私はデッカーが解雇後に酒に溺れているのを見つけた。彼はそこから足を洗ったが、私は確認のために観察を続けている。20世紀の遺物は残念な伊達だが、私は彼のファッション・センスに給料を払っている訳ではない。"
+msgstr "私はデッカーが解雇後に酒に溺れているのを\n見つけた。彼はそこから足を洗ったが、私は\n確認のために観察を続けている。20世紀の\n遺物は残念な伊達だが、私は彼のファッション\n・センスに給料を払っている訳ではない。"
 
 #: STRINGS.AGENTS.DECKARD.FILE
 msgctxt "STRINGS.AGENTS.DECKARD.FILE"
@@ -1486,7 +1486,7 @@ msgstr "36"
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_1.BIO"
 msgid "An ex-airborne scout in the Free Cuban Army, Valdes went underground after the re-annexation of Havana.\n\nSeveral years of freelance action against Corporate interests led to a considerable bounty on her head, and she joined Invisible for the chance to pay it off. Her tactical prowess is legendary, but her conscience can be a liability on and off the field."
-msgstr "自由キューバ軍の空挺部隊の元斥候であるバルデスは、ハバナの再併合後に地下に潜った。\n\n数年間の企業の資産に対するフリーランス活動で、彼女の首にはかなりの懸賞金がかかり、彼女はそれを精算する機会のためにインビジブル社に参加した。彼女の戦術の腕前は伝説級だが、彼女の良心が専門内外の責任感になりうる。"
+msgstr "自由キューバ軍の空挺部隊の元斥候である\nバルデスはハバナの再併合後に地下に潜った。\n\n数年間の企業の資産に対するフリーランス活動\nで、彼女の首にはかなりの懸賞金がかかり、\n彼女はそれを精算する機会のために\nインビジブル社に参加した。彼女の戦術の腕前\nは伝説級だが、彼女の良心が専門内外の責任感\nになりうる。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_1.FULLNAME"
@@ -1506,7 +1506,7 @@ msgstr "27"
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_2.BIO"
 msgid "During her work as a freelancer in the years following Havana's re-annexation and the San Francisco Accord, Internationale became a legend in the anti-Corporate underground.\n\nAccording to classified documents, she once cost Sankaku over 50 million credits in a single week of subversion and sabotage."
-msgstr "ハバナの再併合とサンフランシスコ協定以降の数年間の彼女のフリーランス活動で、インターナショナーリは反企業地下組織で伝説となった。\n\n機密文書によると、彼女は一度１週間の転覆およびサボタージュで5000万クレジット以上の損失をサンカク社に与えた。"
+msgstr "ハバナの再併合とサンフランシスコ協定以降の\n数年間の彼女のフリーランス活動で、\nインターナショナーリは反企業地下組織で伝説\nとなった。\n\n機密文書によると、彼女は一度１週間の転覆\nおよびサボタージュで5000万クレジット\n以上の損失をサンカク社に与えた。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_2.FULLNAME"
@@ -1781,7 +1781,7 @@ msgstr "周りを見て。これは全部普通の人々が作ったものなの
 #: STRINGS.AGENTS.INTERNATIONALE.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BIO_SPOKEN"
 msgid "Internationionale is one of the best all-round operatives I've ever seen, but she's held back by an unfortunate abundance of social concern. If used correctly, she's the bedrock upon which you can build a winning team. Just don't ask her about the plight of the global proletariat."
-msgstr "インターナショナーリは、私が今まで見た中で最も優れたオールラウンドの工作員だが、彼女は大量の不幸な社会問題に後ろ髪を引かれてきた。適切に使うなら、彼女は常勝チームの岩盤である。彼女にグローバルなプロレタリアートの窮状だけは聞くな。"
+msgstr "インターナショナーリは、私が今まで見た中で\n最も優れたオールラウンドの工作員だが、彼女\nは大量の不幸な社会問題に後ろ髪を引かれてき\nた。適切に使うなら、彼女は常勝チームの岩盤\nである。彼女にグローバルなプロレタリアート\nの窮状だけは聞くな。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.FILE
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.FILE"
@@ -1911,7 +1911,7 @@ msgstr "32"
 #: STRINGS.AGENTS.NIKA.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.NIKA.ALT_1.BIO"
 msgid "Muratova served as bodyguard to the head of the most powerful oil company in Russia. A hostile takeover attempt led to an extended melee, during which she neutralized two dozen would-be assassins.\n\nShe relented only after her employer died of a flashbang-induced heart attack. Not much of a conversationalist, Muratova prefers to let her actions do the talking."
-msgstr "ミーラートヴァは、ロシアで最も強力な石油会社の頭領の用心棒に従事していた。20人超の暗殺容疑者を無力化するうちに、敵対勢力の刺客が発達した格闘能力を生んだ。\n\n彼女は雇用者が閃光誘発性心臓発作で死亡した後にのみ屈した。話し上手ではあまりなく、ミーラートヴァは彼女の拳に語らせることを好みます。"
+msgstr "ミーラートヴァは、ロシアで最も強力な石油\n会社の頭領の用心棒に従事していた。20人超\nの暗殺容疑者を無力化するうちに、敵対勢力の\n刺客から発達した格闘能力を育んだ。\n\n彼女は雇用者が閃光誘発性心臓発作で死亡した\n後にのみ屈した。あまり話し上手ではなく、\nミーラートヴァは彼女の拳に語らせることを\n好む。"
 
 #: STRINGS.AGENTS.NIKA.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.NIKA.ALT_1.FULLNAME"
@@ -1931,7 +1931,7 @@ msgstr "27"
 #: STRINGS.AGENTS.NIKA.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.NIKA.ALT_2.BIO"
 msgid "Muratova spent years honing her martial technique, and this training served her well in her previous employment as a body guard.\n\nShe has broken almost every bone in her body at least once, but it barely slows her down. She claims that it hurts less the more you do it."
-msgstr "ミーラートヴァは年来彼女の格闘技術の研鑽に費やし、またこの訓練が以前の用心棒の雇用で彼女を救った。\n\n彼女の全身の骨は最低一回は骨折しているが、遅れを取ることはほぼない。彼女はやればやるほど効かなくなると主張している。"
+msgstr "ミーラートヴァは年来彼女の格闘技術の研鑽に\n費やし、またこの訓練が以前の用心棒の雇用で\n彼女を救った。\n\n彼女の全身の骨は最低一回は骨折しているが、\n遅れを取ることはほぼない。彼女はやればやる\nほど効かなくなると主張している。"
 
 #: STRINGS.AGENTS.NIKA.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.NIKA.ALT_2.FULLNAME"
@@ -2106,7 +2106,7 @@ msgstr ""
 #: STRINGS.AGENTS.NIKA.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.NIKA.BIO_SPOKEN"
 msgid "Muratova is a deadly weapon in human form. One would think that such an aggressive style would be a liability, but she makes it work. Just try not make any sudden moves in her peripheral vision if you want your arms to remain in their sockets."
-msgstr "ミーラートヴァはヒト型殺人兵器だ。人はそんな攻撃的なスタイルが信頼できるのかと考えるが、彼女はそれをなしている。腕を外されたくなければ、彼女の周辺視野で急に動かないことだ。"
+msgstr "ミーラートヴァはヒト型殺人兵器だ。人は\nそんな攻撃的なスタイルが信頼できるのかと\n考えるが、彼女はそれをなしている。腕を外さ\nれたくなければ、彼女の周辺視野で急に動か\nないことだ。"
 
 #: STRINGS.AGENTS.NIKA.FILE
 msgctxt "STRINGS.AGENTS.NIKA.FILE"
@@ -9611,7 +9611,7 @@ msgstr "タグ付きの警備員の装甲を低下させる"
 #: STRINGS.PROGRAMS.BRIMSTONE.DESC
 msgctxt "STRINGS.PROGRAMS.BRIMSTONE.DESC"
 msgid "Breaks 1 firewall for 3 PWR.\nPASSIVE: +10% chance of DAEMON REVERSAL."
-msgstr "１ファイヤーウォールを３パワーで破壊する。\nパッシブ：+10%の確率でデーモン判明。"
+msgstr "１ファイヤーウォールを３パワーで破壊\nする。\nパッシブ：+10%の確率でデーモン判明。"
 
 #: STRINGS.PROGRAMS.BRIMSTONE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.BRIMSTONE.HUD_DESC"
@@ -9666,7 +9666,7 @@ msgstr "冷却：{1}ターン"
 #: STRINGS.PROGRAMS.DAGGER.DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER.DESC"
 msgid "Breaks 3 firewalls for 1 PWR.\n5 turn cooldown."
-msgstr "３ファイヤーウォールを１パワーで破壊する。\n５ターン冷却。"
+msgstr "３ファイヤーウォールを１パワーで破壊\nする。\n５ターン冷却。"
 
 #: STRINGS.PROGRAMS.DAGGER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER.HUD_DESC"
@@ -9686,7 +9686,7 @@ msgstr "ダガーを使用"
 #: STRINGS.PROGRAMS.DAGGER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER.TIP_DESC"
 msgid "BREAKS <c:FF8411>3 FIREWALLS</c>. COST: <c:77FF77>{1} PWR</c>"
-msgstr "<c:FF8411>3ファイヤーウォール</c>破壊。コスト：<c:77FF77>{1}パワー</c>"
+msgstr "<c:FF8411>3ファイヤーウォール</c>破壊。\nコスト：<c:77FF77>{1}パワー</c>"
 
 #: STRINGS.PROGRAMS.DAGGER_2.DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER_2.DESC"
@@ -9711,12 +9711,12 @@ msgstr "ダガーを使用"
 #: STRINGS.PROGRAMS.DAGGER_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER_2.TIP_DESC"
 msgid "BREAKS <c:FF8411>5 FIREWALLS</c>. COST: <c:77FF77>{1} PWR</c>"
-msgstr "<c:FF8411>5ファイヤーウォール</c>破壊。コスト：<c:77FF77>{1}パワー</c>"
+msgstr "<c:FF8411>5ファイヤーウォール</c>破壊。\nコスト：<c:77FF77>{1}パワー</c>"
 
 #: STRINGS.PROGRAMS.DATA_BLAST.DESC
 msgctxt "STRINGS.PROGRAMS.DATA_BLAST.DESC"
 msgid "Break 1 firewall on all detected devices within a radius of 5 tiles."
-msgstr "半径５タイル以内に検出された全デバイスのファイヤーウォールを１破壊する。"
+msgstr "半径５タイル以内に検出された全\nデバイスのファイヤーウォールを１破壊\nする。"
 
 #: STRINGS.PROGRAMS.DATA_BLAST.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.DATA_BLAST.HUD_DESC"
@@ -9736,7 +9736,7 @@ msgstr "データ・ブラストを使用"
 #: STRINGS.PROGRAMS.DATA_BLAST.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.DATA_BLAST.TIP_DESC"
 msgid "BREAKS <c:FF8411>1 FIREWALL</c>. COST: <c:77FF77>{1} PWR</c>"
-msgstr "<c:FF8411>１ファイヤーウォール</c>破壊。コスト：<c:77FF77>{1}パワー</c>"
+msgstr "<c:FF8411>１ファイヤーウォール</c>破壊。\nコスト：<c:77FF77>{1}パワー</c>"
 
 #: STRINGS.PROGRAMS.DYNAMO.DESC
 msgctxt "STRINGS.PROGRAMS.DYNAMO.DESC"
@@ -9746,7 +9746,7 @@ msgstr "毎ターン２パワー生成。\n警報レベル２まで無効。\n�
 #: STRINGS.PROGRAMS.DYNAMO.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.DYNAMO.HUD_DESC"
 msgid "+2 PWR PER TURN AFTER ALARM LEVEL 2"
-msgstr "警報レベルが２に達したあと、毎ターンパワー+2"
+msgstr "警報レベルが２に達したあと、\n毎ターンパワー+2"
 
 #: STRINGS.PROGRAMS.DYNAMO.NAME
 msgctxt "STRINGS.PROGRAMS.DYNAMO.NAME"
@@ -9766,7 +9766,7 @@ msgstr "ダイナモ・ドリップ\nパワー+2"
 #: STRINGS.PROGRAMS.EMERGENCY_DRIP.DESC
 msgctxt "STRINGS.PROGRAMS.EMERGENCY_DRIP.DESC"
 msgid "Gain 5 PWR at the start of the turn if PWR is 3 or below.\n3 turn cooldown."
-msgstr "ターンの初めにパワーが３以下なら５パワー獲得する。\n３ターンの冷却。"
+msgstr "ターンの初めにパワーが３以下なら\n５パワー獲得する。\n３ターンの冷却。"
 
 #: STRINGS.PROGRAMS.EMERGENCY_DRIP.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.EMERGENCY_DRIP.HUD_DESC"
@@ -9796,7 +9796,7 @@ msgstr "装備中"
 #: STRINGS.PROGRAMS.ESP.DESC
 msgctxt "STRINGS.PROGRAMS.ESP.DESC"
 msgid "TAGs all visible guards so they can be tracked."
-msgstr "視認中の全ての警備員をタグ付けることで追跡できる。"
+msgstr "視認中の全ての警備員をタグ付けること\nで追跡できる。"
 
 #: STRINGS.PROGRAMS.ESP.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.ESP.HUD_DESC"
@@ -9821,12 +9821,12 @@ msgstr ""
 #: STRINGS.PROGRAMS.FAUST.DESC
 msgctxt "STRINGS.PROGRAMS.FAUST.DESC"
 msgid "Gain 2 PWR per turn. 20% chance of a Daemon installing."
-msgstr "毎ターン２パワー獲得。20%の確率でデーモンがインストールされる。"
+msgstr "毎ターン２パワー獲得。20%の確率で\nデーモンがインストールされる。"
 
 #: STRINGS.PROGRAMS.FAUST.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.FAUST.HUD_DESC"
 msgid "GAIN 2 PWR PER TURN, 20% CHANCE OF DAEMON"
-msgstr "毎ターン２パワー獲得し、20%の確率でデーモン発生"
+msgstr "毎ターン２パワー獲得し、20%の確率で\nデーモン発生"
 
 #: STRINGS.PROGRAMS.FAUST.NAME
 msgctxt "STRINGS.PROGRAMS.FAUST.NAME"
@@ -9851,12 +9851,12 @@ msgstr "ファウスト\nパワー+2"
 #: STRINGS.PROGRAMS.FEAST.DESC
 msgctxt "STRINGS.PROGRAMS.FEAST.DESC"
 msgid "Breaks 5 FIREWALLS for 0 PWR. installs 2 daemons\n3 turn cooldown."
-msgstr "０パワーで５ファイヤーウォールを破壊する。２デーモンをインストールする。\n３ターンの冷却。"
+msgstr "０パワーで５ファイヤーウォールを破壊\nする。２デーモンをインストールする。\n３ターンの冷却。"
 
 #: STRINGS.PROGRAMS.FEAST.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.FEAST.HUD_DESC"
 msgid "BREAKS 5 FIREWALLS, INSTALLS 2 DAEMONS"
-msgstr "５ファイヤーウォール破壊、２デーモンをインストール"
+msgstr "５ファイヤーウォール破壊、２デーモン\nをインストール"
 
 #: STRINGS.PROGRAMS.FEAST.NAME
 msgctxt "STRINGS.PROGRAMS.FEAST.NAME"
@@ -9866,22 +9866,22 @@ msgstr "ごちそう"
 #: STRINGS.PROGRAMS.FEAST.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.FEAST.SHORT_DESC"
 msgid "Break 5 Firewalls, installs 2 daemons"
-msgstr "５ファイヤーウォール破壊、２デーモンをインストール"
+msgstr "５ファイヤーウォール破壊、２デーモン\nをインストール"
 
 #: STRINGS.PROGRAMS.FEAST.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.FEAST.TIP_DESC"
 msgid "BREAKS <c:FF8411>5 FIREWALLS</c>. INSTALLS 2 DAEMONS. COST: <c:77FF77>{1} PWR</c>"
-msgstr "<c:FF8411>５ファイヤーウォール</c>破壊。２デーモンをインストール。コスト：<c:77FF77>{1}パワー</c>"
+msgstr "<c:FF8411>５ファイヤーウォール</c>破壊。２デーモンを\nインストール。コスト：<c:77FF77>{1}パワー</c>"
 
 #: STRINGS.PROGRAMS.FLARE.DESC
 msgctxt "STRINGS.PROGRAMS.FLARE.DESC"
 msgid "Breaks 4 FIREWALLS for 0 PWR. +1 to all FIREWALLS\n3 turn cooldown."
-msgstr "０パワーで４ファイヤーウォールを破壊する。全ファイヤーウォール+1\n３ターンの冷却。"
+msgstr "０パワーで４ファイヤーウォールを破壊\nする。全ファイヤーウォール+1\n３ターンの冷却。"
 
 #: STRINGS.PROGRAMS.FLARE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.FLARE.HUD_DESC"
 msgid "BREAKS 4 FIREWALLS, +1 TO ALL FIREWALLS"
-msgstr "４ファイヤーウォール破壊、全ファイヤーウォール+1"
+msgstr "４ファイヤーウォール破壊、\n全ファイヤーウォール+1"
 
 #: STRINGS.PROGRAMS.FLARE.NAME
 msgctxt "STRINGS.PROGRAMS.FLARE.NAME"
@@ -9891,17 +9891,17 @@ msgstr "フレア"
 #: STRINGS.PROGRAMS.FLARE.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.FLARE.SHORT_DESC"
 msgid "Break 4 Firewalls, +1 to all FIREWALLS"
-msgstr "４ファイヤーウォール破壊、全ファイヤーウォール+1"
+msgstr "４ファイヤーウォール破壊、\n全ファイヤーウォール+1"
 
 #: STRINGS.PROGRAMS.FLARE.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.FLARE.TIP_DESC"
 msgid "BREAKS <c:FF8411>4 FIREWALLS</c>. +1 TO ALL FIREWALLS. COST: <c:77FF77>{1} PWR</c>"
-msgstr "<c:FF8411>４ファイヤーウォールFIREWALLS</c>破壊。全ファイヤーウォール+1。コスト：<c:77FF77>{1}パワー</c>"
+msgstr "<c:FF8411>４ファイヤーウォール</c>破壊。\n全ファイヤーウォール+1。\nコスト：<c:77FF77>{1}パワー</c>"
 
 #: STRINGS.PROGRAMS.FOOL.DESC
 msgctxt "STRINGS.PROGRAMS.FOOL.DESC"
 msgid "Reboots a device, spawns a Daemon.\n1 turn cooldown.\nPASSIVE: Daemon duration +1"
-msgstr "デバイスを再起動し、デーモンを発生させる。\n１ターンの冷却。\nパッシブ：デーモンの寿命+1"
+msgstr "デバイスを再起動し、デーモンを発生\nさせる。\n１ターンの冷却。\nパッシブ：デーモンの寿命+1"
 
 #: STRINGS.PROGRAMS.FOOL.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.FOOL.HUD_DESC"
@@ -9916,7 +9916,7 @@ msgstr "愚者"
 #: STRINGS.PROGRAMS.FOOL.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.FOOL.SHORT_DESC"
 msgid "Reboots a device, boosts daemons"
-msgstr "デバイス再起動、デーモン起動"
+msgstr "デバイス再起動、デーモン発生"
 
 #: STRINGS.PROGRAMS.FOOL.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.FOOL.TIP_DESC"
@@ -9986,12 +9986,12 @@ msgstr "融合\nパワー+3"
 #: STRINGS.PROGRAMS.HALT.DESC
 msgctxt "STRINGS.PROGRAMS.HALT.DESC"
 msgid "Reboots a device with 3 or less FIREWALLS for 1 turn\nCost 3 PWR."
-msgstr "３ファイヤーウォール以下のデバイスを１ターン_再起動する。\n３パワー消費。"
+msgstr "３ファイヤーウォール以下のデバイスを\n１ターン再起動する。\n３パワー消費。"
 
 #: STRINGS.PROGRAMS.HALT.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.HALT.HUD_DESC"
 msgid "REBOOTS A DEVICE WITH 3 OR LESS FIREWALLS FOR 1 TURN."
-msgstr "３ファイヤーウォール以下のデバイスを１ターン_再起動。"
+msgstr "３ファイヤーウォール以下のデバイスを\n１ターン再起動。"
 
 #: STRINGS.PROGRAMS.HALT.NAME
 msgctxt "STRINGS.PROGRAMS.HALT.NAME"
@@ -10006,12 +10006,12 @@ msgstr "デバイスを再起動する"
 #: STRINGS.PROGRAMS.HALT.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.HALT.TIP_DESC"
 msgid "REBOOTS A DEVICE WITH 3 OR LESS FIREWALLS FOR 1 TURN.\nCOST 3 PWR"
-msgstr "３ファイヤーウォール以下のデバイスを１ターン_再起動。\n３パワー消費。"
+msgstr "３ファイヤーウォール以下のデバイスを\n１ターン再起動。\n３パワー消費。"
 
 #: STRINGS.PROGRAMS.HALT.TOO_MANY_FIREWALLS
 msgctxt "STRINGS.PROGRAMS.HALT.TOO_MANY_FIREWALLS"
 msgid "FIREWALLS MUST BE 3 OR LESS"
-msgstr "ファイヤーウォールは３以下でなければならない"
+msgstr "ファイヤーウォールは３以下でなければ\nならない"
 
 #: STRINGS.PROGRAMS.HAMMER.DESC
 msgctxt "STRINGS.PROGRAMS.HAMMER.DESC"
@@ -10036,7 +10036,7 @@ msgstr "ハンマーを使用"
 #: STRINGS.PROGRAMS.HAMMER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.HAMMER.TIP_DESC"
 msgid "BREAKS <c:FF8411>5 FIREWALLS</c>. COST: <c:77FF77>{1} PWR</c>"
-msgstr "<c:FF8411>５ファイヤーウォール</c>破壊。コスト：<c:77FF77>{1}パワー</c>"
+msgstr "<c:FF8411>５ファイヤーウォール</c>破壊。\nコスト：<c:77FF77>{1}パワー</c>"
 
 #: STRINGS.PROGRAMS.HUNTER.DESC
 msgctxt "STRINGS.PROGRAMS.HUNTER.DESC"
@@ -10091,7 +10091,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.LIGHTNING.DESC
 msgctxt "STRINGS.PROGRAMS.LIGHTNING.DESC"
 msgid "KO a TAGGED guard for 2 turns. Removes the TAG.\nCost 8 PWR"
-msgstr "タグ付きの警備員を２ターンKOする。タグは消える。\n８パワー消費。"
+msgstr "タグ付きの警備員を２ターンKOする。\nタグは消える。\n８パワー消費。"
 
 #: STRINGS.PROGRAMS.LIGHTNING.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.LIGHTNING.HUD_DESC"
@@ -10111,7 +10111,7 @@ msgstr "タグ付き警備員をKO。"
 #: STRINGS.PROGRAMS.LIGHTNING.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.LIGHTNING.TIP_DESC"
 msgid "KO a TAGGED guard for 2 turns. Removes the TAG from the guard"
-msgstr "タグ付きの警備員を２ターンKOする。警備員からタグが消える。"
+msgstr "タグ付きの警備員を２ターンKOする。\n警備員からタグが消える。"
 
 #: STRINGS.PROGRAMS.LOCKPICK.DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.DESC"
@@ -10136,12 +10136,12 @@ msgstr "解錠を使う"
 #: STRINGS.PROGRAMS.LOCKPICK.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.TIP_DESC"
 msgid "BREAKS <c:FF8411>1 FIREWALL</c>. COST: <c:77FF77>{1} PWR</c>"
-msgstr "<c:FF8411>１ファイヤーウォール</c>破壊。コスト：<c:77FF77>{1}パワー</c>"
+msgstr "<c:FF8411>１ファイヤーウォール</c>破壊。\nコスト：<c:77FF77>{1}パワー</c>"
 
 #: STRINGS.PROGRAMS.LOCKPICK_2.DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.DESC"
 msgid "Breaks 2 firewalls for 3 PWR."
-msgstr "２ファイヤーウォールを３パワーで破壊する。"
+msgstr "２ファイヤーウォールを３パワーで破壊\nする。"
 
 #: STRINGS.PROGRAMS.LOCKPICK_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.HUD_DESC"
@@ -10161,12 +10161,12 @@ msgstr "解錠v2.0を使う"
 #: STRINGS.PROGRAMS.LOCKPICK_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.TIP_DESC"
 msgid "BREAKS <c:FF8411>2 FIREWALLS</c>. COST: <c:77FF77>{1} PWR</c>"
-msgstr "<c:FF8411>２ファイヤーウォール</c>破壊。コスト：<c:77FF77>{1}パワー</c>"
+msgstr "<c:FF8411>２ファイヤーウォール</c>破壊。\nコスト：<c:77FF77>{1}パワー</c>"
 
 #: STRINGS.PROGRAMS.LOVE.DESC
 msgctxt "STRINGS.PROGRAMS.LOVE.DESC"
 msgid "Reduces all firewalls by 2 for 5 PWR.\n3 turn cooldown."
-msgstr "全ファイヤーウォールを５パワーで２減らす。\n３ターンの冷却。"
+msgstr "全ファイヤーウォールを５パワーで２\n減らす。\n３ターンの冷却。"
 
 #: STRINGS.PROGRAMS.LOVE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.LOVE.HUD_DESC"
@@ -10191,7 +10191,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.MERCENARY.DESC
 msgctxt "STRINGS.PROGRAMS.MERCENARY.DESC"
 msgid "Breaks 2 firewalls. +2 PWR cost per use. Cost resets at each alarm Level."
-msgstr "２ファイヤーウォールを破壊する。\n使用ごとにパワー消費+2。\nコストは各警報レベル到達時に\nリセットされる。"
+msgstr "２ファイヤーウォールを破壊する。\n使用ごとにパワー消費+2。\nコストは各警報レベル到達時にリセット\nされる。"
 
 #: STRINGS.PROGRAMS.MERCENARY.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.MERCENARY.HUD_DESC"
@@ -10216,7 +10216,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.ORACLE.DESC
 msgctxt "STRINGS.PROGRAMS.ORACLE.DESC"
 msgid "Take over a random camera on the level"
-msgstr "ステージ内のランダムなカメラを\n掌握する"
+msgstr "ステージ内のランダムなカメラを掌握\nする"
 
 #: STRINGS.PROGRAMS.ORACLE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.ORACLE.HUD_DESC"
@@ -10271,7 +10271,7 @@ msgstr "パラサイト寄生済み"
 #: STRINGS.PROGRAMS.PARASITE.DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE.DESC"
 msgid "Infect target to break 1 firewall at the start of each turn.\n+1 PWR cost per hosted parasite."
-msgstr "対象に寄生し、各ターン開始時に\n１ファイヤーウォールを破壊する。\nパラサイトごとにパワー消費+1。"
+msgstr "対象に寄生し、各ターン開始時に\n１ファイヤーウォールを破壊する。\n１パラサイトごとにパワー消費+1。"
 
 #: STRINGS.PROGRAMS.PARASITE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE.HUD_DESC"
@@ -10416,7 +10416,7 @@ msgstr "パワー"
 #: STRINGS.PROGRAMS.PWR_MANAGER.DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER.DESC"
 msgid "Increases the agency's starting PWR by 4 points."
-msgstr "機関の開始時のパワーを４ポイント\n増加する。"
+msgstr "機関の開始時のパワーを４ポイント増加\nする。"
 
 #: STRINGS.PROGRAMS.PWR_MANAGER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER.HUD_DESC"
@@ -10441,7 +10441,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.PWR_MANAGER_2.DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER_2.DESC"
 msgid "Increases the agency's starting PWR by 6 points."
-msgstr "機関の開始時のパワーを６ポイント\n増加する。"
+msgstr "機関の開始時のパワーを６ポイント増加\nする。"
 
 #: STRINGS.PROGRAMS.PWR_MANAGER_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER_2.HUD_DESC"
@@ -10466,7 +10466,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.RAPIER.DESC
 msgctxt "STRINGS.PROGRAMS.RAPIER.DESC"
 msgid "Breaks 1 firewall.\nPWR cost increases by 1 each Alarm Level."
-msgstr "１ファイヤーウォールを破壊する。\n警報レベルごとにパワー消費が１増加する。"
+msgstr "１ファイヤーウォールを破壊する。\n警報レベルごとにパワー消費が１増加\nする。"
 
 #: STRINGS.PROGRAMS.RAPIER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.RAPIER.HUD_DESC"
@@ -10486,17 +10486,17 @@ msgstr "レイピアを使用"
 #: STRINGS.PROGRAMS.RAPIER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.RAPIER.TIP_DESC"
 msgid "BREAKS <c:FF8411>1 FIREWALL</c>. COST: <c:77FF77>{1} PWR</c>"
-msgstr "<c:FF8411>１ファイヤーウォール破壊</c>破壊。コスト：<c:77FF77>{1}パワー</c>"
+msgstr "<c:FF8411>１ファイヤーウォール破壊</c>破壊。\nコスト：<c:77FF77>{1}パワー</c>"
 
 #: STRINGS.PROGRAMS.ROGUE.DESC
 msgctxt "STRINGS.PROGRAMS.ROGUE.DESC"
 msgid "Reveal an undiscovered safe. Cost 2 PWR\n2 turn cooldown."
-msgstr "未発見の金庫が判明する。２パワー消費する\n２ターンの冷却。"
+msgstr "未発見の金庫が判明する。２パワー消費\nする\n２ターンの冷却。"
 
 #: STRINGS.PROGRAMS.ROGUE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.ROGUE.HUD_DESC"
 msgid "Reveal an undiscovered safe. Cost 2 PWR\n2 turn cooldown."
-msgstr "未発見の金庫が判明する。２パワー消費する\n２ターンの冷却。"
+msgstr "未発見の金庫が判明する。２パワー消費\nする\n２ターンの冷却。"
 
 #: STRINGS.PROGRAMS.ROGUE.NAME
 msgctxt "STRINGS.PROGRAMS.ROGUE.NAME"
@@ -10521,7 +10521,7 @@ msgstr "金庫なし"
 #: STRINGS.PROGRAMS.ROOT.DESC
 msgctxt "STRINGS.PROGRAMS.ROOT.DESC"
 msgid "Gain 6 PWR. -1 PWR per turn on cooldown.\n6 turn cooldown."
-msgstr "６パワーを獲得する。冷却時に毎ターンパワー-1。\n６ターンの冷却。"
+msgstr "６パワーを獲得する。冷却時に\n毎ターンパワー-1。\n６ターンの冷却。"
 
 #: STRINGS.PROGRAMS.ROOT.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.ROOT.HUD_DESC"
@@ -10551,12 +10551,12 @@ msgstr "ルート\nパワー-1"
 #: STRINGS.PROGRAMS.SEED.DESC
 msgctxt "STRINGS.PROGRAMS.SEED.DESC"
 msgid "Your first program each turn costs 4 PWR less to run."
-msgstr "各ターン最初のプログラムが４パワー少ない消費で作動する。"
+msgstr "各ターン最初のプログラムが４パワー\n少ない消費で作動する。"
 
 #: STRINGS.PROGRAMS.SEED.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.SEED.HUD_DESC"
 msgid "FIRST PROGRAM EACH TURN COSTS 4 PWR LESS"
-msgstr "各ターン最初のプログラムがパワー消費４減少"
+msgstr "各ターン最初のプログラムがパワー消費\n４減少"
 
 #: STRINGS.PROGRAMS.SEED.NAME
 msgctxt "STRINGS.PROGRAMS.SEED.NAME"
@@ -10566,7 +10566,7 @@ msgstr "シード"
 #: STRINGS.PROGRAMS.SEED.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.SEED.SHORT_DESC"
 msgid "FIRST PROGRAM EACH TURN COSTS 4 PWR LESS"
-msgstr "各ターン最初のプログラムのパワー消費４減少"
+msgstr "各ターン最初のプログラムのパワー消費\n４減少"
 
 #: STRINGS.PROGRAMS.SEED.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.SEED.TIP_DESC"
@@ -10606,7 +10606,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.SNIFFER.DESC
 msgctxt "STRINGS.PROGRAMS.SNIFFER.DESC"
 msgid "Reveals hidden Daemons and identifies Daemon types."
-msgstr "隠れたデーモンが判明し、デーモンの種類を識別する。"
+msgstr "隠れたデーモンが判明し、デーモンの\n種類を識別する。"
 
 #: STRINGS.PROGRAMS.SNIFFER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.SNIFFER.HUD_DESC"
@@ -10631,7 +10631,7 @@ msgstr "<c:FF8411>デーモン</c>開示。コスト：<c:77FF77>{1}パワー</c
 #: STRINGS.PROGRAMS.TAURUS.DESC
 msgctxt "STRINGS.PROGRAMS.TAURUS.DESC"
 msgid "Moves a DAEMON to a random device."
-msgstr "デーモンをランダムなデバイスに移動させる。"
+msgstr "デーモンをランダムなデバイスに移動\nさせる。"
 
 #: STRINGS.PROGRAMS.TAURUS.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.TAURUS.HUD_DESC"
@@ -10661,7 +10661,7 @@ msgstr "ターン"
 #: STRINGS.PROGRAMS.WILDFIRE.DESC
 msgctxt "STRINGS.PROGRAMS.WILDFIRE.DESC"
 msgid "Gain 5 PWR. +1 to all FIREWALLS."
-msgstr "５パワーを獲得する。全ファイヤーウォール+1。"
+msgstr "５パワーを獲得する。\n全ファイヤーウォール+1。"
 
 #: STRINGS.PROGRAMS.WILDFIRE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WILDFIRE.HUD_DESC"
@@ -10716,7 +10716,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.WRENCH_2.DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_2.DESC"
 msgid "Only breaks firewalls exactly equal to 2 strength"
-msgstr "正確に２に等しいファイヤーウォールのみを破壊する"
+msgstr "正確に２に等しいファイヤーウォール\nのみを破壊する"
 
 #: STRINGS.PROGRAMS.WRENCH_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_2.HUD_DESC"
@@ -10736,12 +10736,12 @@ msgstr "レンチを使用"
 #: STRINGS.PROGRAMS.WRENCH_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_2.TIP_DESC"
 msgid "BREAKS EXACTLY <c:FF8411>2 FIREWALLS</c>. COST: <c:77FF77>{1} PWR</c>"
-msgstr "ピッタリ<c:FF8411>２ファイヤーウォール</c>破壊。コスト：<c:77FF77>{1}パワー</c>"
+msgstr "ピッタリ<c:FF8411>２ファイヤーウォール</c>破壊。\nコスト：<c:77FF77>{1}パワー</c>"
 
 #: STRINGS.PROGRAMS.WRENCH_3.DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_3.DESC"
 msgid "Only breaks firewalls exactly equal to 3 strength"
-msgstr "正確に３に等しいファイヤーウォールのみを破壊する"
+msgstr "正確に３に等しいファイヤーウォール\nのみを破壊する"
 
 #: STRINGS.PROGRAMS.WRENCH_3.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_3.HUD_DESC"
@@ -10761,12 +10761,12 @@ msgstr "レンチを使用"
 #: STRINGS.PROGRAMS.WRENCH_3.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_3.TIP_DESC"
 msgid "BREAKS EXACTLY <c:FF8411>3 FIREWALLS</c>. COST: <c:77FF77>{1} PWR</c>"
-msgstr "ピッタリ<c:FF8411>３ファイヤーウォール</c>破壊。コスト：<c:77FF77>{1}パワー</c>"
+msgstr "ピッタリ<c:FF8411>３ファイヤーウォール</c>破壊。\nコスト：<c:77FF77>{1}パワー</c>"
 
 #: STRINGS.PROGRAMS.WRENCH_4.DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_4.DESC"
 msgid "Only breaks firewalls exactly equal to 4 strength"
-msgstr "正確に４に等しいファイヤーウォールのみを破壊する"
+msgstr "正確に４に等しいファイヤーウォール\nのみを破壊する"
 
 #: STRINGS.PROGRAMS.WRENCH_4.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_4.HUD_DESC"
@@ -10786,12 +10786,12 @@ msgstr "レンチを使用"
 #: STRINGS.PROGRAMS.WRENCH_4.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_4.TIP_DESC"
 msgid "BREAKS EXACTLY <c:FF8411>4 FIREWALLS</c>. COST: <c:77FF77>{1} PWR</c>"
-msgstr "ピッタリ<c:FF8411>４ファイヤーウォール</c>破壊。コスト：<c:77FF77>{1}パワー</c>"
+msgstr "ピッタリ<c:FF8411>４ファイヤーウォール</c>破壊。\nコスト：<c:77FF77>{1}パワー</c>"
 
 #: STRINGS.PROGRAMS.WRENCH_5.DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_5.DESC"
 msgid "Only breaks firewalls exactly equal to 5 strength"
-msgstr "正確に５に等しいファイヤーウォールのみを破壊する"
+msgstr "正確に５に等しいファイヤーウォール\nのみを破壊する"
 
 #: STRINGS.PROGRAMS.WRENCH_5.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_5.HUD_DESC"
@@ -10811,7 +10811,7 @@ msgstr "レンチを使用"
 #: STRINGS.PROGRAMS.WRENCH_5.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_5.TIP_DESC"
 msgid "BREAKS EXACTLY <c:FF8411>5 FIREWALLS</c>. COST: <c:77FF77>{1} PWR</c>"
-msgstr "ピッタリ<c:FF8411>５ファイヤーウォール</c>破壊。コスト：<c:77FF77>{1}パワー</c>"
+msgstr "ピッタリ<c:FF8411>５ファイヤーウォール</c>破壊。\nコスト：<c:77FF77>{1}パワー</c>"
 
 #: STRINGS.PROPS.ADVANCED_CORP_EQUIP
 msgctxt "STRINGS.PROPS.ADVANCED_CORP_EQUIP"
@@ -12711,7 +12711,7 @@ msgstr "レベルのリトライ"
 #: STRINGS.SCREENS.STR_4198555971
 msgctxt "STRINGS.SCREENS.STR_4198555971"
 msgid "STORAGE (CLICK TO EQUIP)"
-msgstr "手持ち (クリックして装備)"
+msgstr "手持ち (クリックで装備)"
 
 #: STRINGS.SCREENS.STR_42
 msgctxt "STRINGS.SCREENS.STR_42"
@@ -13026,7 +13026,7 @@ msgstr "コウド　ケイホウ　セキュリティー　ケイソク"
 #: STRINGS.SCREENS.STR_875667211
 msgctxt "STRINGS.SCREENS.STR_875667211"
 msgid "Augments are used by permanently installing them on agents. Do you want to install this augment now?"
-msgstr "強化機能はエージェントに永久にインストールすることで使用できる。本当に今この強化をインストールしますか？"
+msgstr "強化機能はエージェントに永久にインストールすること\nで使用できる。本当にこの強化をインストールします\nか？"
 
 #: STRINGS.SCREENS.STR_879562047
 msgctxt "STRINGS.SCREENS.STR_879562047"
@@ -13491,7 +13491,7 @@ msgstr "企業はエンフォーサーを{1}人呼んだ。また警備は{2}人
 #: STRINGS.UI.ALARM_FIREWALLS
 msgctxt "STRINGS.UI.ALARM_FIREWALLS"
 msgid "The corporation has installed firewall upgrades. All firewalls have increased in strength by +%d"
-msgstr "企業はファイヤーウォール・アップグレードをインストールした。全ファイヤーウォールが+%d上昇した"
+msgstr "企業はファイヤーウォール・アップグレードをインストールした。\n全ファイヤーウォールが+%d上昇した"
 
 #: STRINGS.UI.ALARM_GUARD_BODY
 msgctxt "STRINGS.UI.ALARM_GUARD_BODY"
@@ -15506,7 +15506,7 @@ msgstr "オペレーター、慎重にターゲットを選択してくれ―こ
 #: STRINGS.UI.LOCALE_CHANGED_BODY
 msgctxt "STRINGS.UI.LOCALE_CHANGED_BODY"
 msgid "Changes to the current language will take effect when the game restarts."
-msgstr "選択した言語への変更はゲームの再起動後に\n有効になります。"
+msgstr "選択した言語への変更は\nゲームの再起動後に有効になります。"
 
 #: STRINGS.UI.LOCALE_CHANGED_HEADER
 msgctxt "STRINGS.UI.LOCALE_CHANGED_HEADER"
@@ -15521,7 +15521,7 @@ msgstr "ロック済"
 #: STRINGS.UI.LOOT_MODAL1
 msgctxt "STRINGS.UI.LOOT_MODAL1"
 msgid "The {1} augment has been permanently installed on {2}."
-msgstr "強化{1}は{2}に永久にインストールされる。"
+msgstr "{1}強化機能は{2}に永久にインストールされる。"
 
 #: STRINGS.UI.LOOT_MODAL2
 msgctxt "STRINGS.UI.LOOT_MODAL2"
@@ -17026,7 +17026,7 @@ msgstr "インベントリ"
 #: STRINGS.UI.SHOP_LOOT
 msgctxt "STRINGS.UI.SHOP_LOOT"
 msgid "LOOT %s_"
-msgstr "%s_から略奪"
+msgstr "%sから略奪"
 
 #: STRINGS.UI.SHOP_MINISERVER
 msgctxt "STRINGS.UI.SHOP_MINISERVER"
@@ -17891,12 +17891,12 @@ msgstr "エージェントにアップグレードを適用しますか？"
 #: STRINGS.UI.UPGRADE_SCREEN_CONFIRM_BUY
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_CONFIRM_BUY"
 msgid "Are you SURE you want to buy a {1} for {2} CR?"
-msgstr "本当に{1}を{2}クレジットで買いますか？"
+msgstr "本当に{1}を\n{2}クレジットで買いますか？"
 
 #: STRINGS.UI.UPGRADE_SCREEN_CONFIRM_SELL
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_CONFIRM_SELL"
 msgid "Are you SURE you want to sell a {1} for {2} CR?"
-msgstr "本当に{1}を{2}クレジットで売りますか？"
+msgstr "本当に{1}を\n{2}クレジットで売りますか？"
 
 #: STRINGS.UI.UPGRADE_SCREEN_MAX
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_MAX"
