@@ -4001,7 +4001,7 @@ msgstr "{1} AP"
 #: STRINGS.FORMATS.CREDITS
 msgctxt "STRINGS.FORMATS.CREDITS"
 msgid "{1} CR"
-msgstr "{1}クレジット"
+msgstr "{1} CR"
 
 #: STRINGS.FORMATS.CREDS
 msgctxt "STRINGS.FORMATS.CREDS"
@@ -4016,7 +4016,7 @@ msgstr "{1}クレジット"
 #: STRINGS.FORMATS.KO_AMT
 msgctxt "STRINGS.FORMATS.KO_AMT"
 msgid "KO {1}"
-msgstr "{1}_KO"
+msgstr "{1}KO"
 
 #: STRINGS.FORMATS.LEVEL
 msgctxt "STRINGS.FORMATS.LEVEL"
@@ -4036,7 +4036,7 @@ msgstr "AP+{1}"
 #: STRINGS.FORMATS.PLUS_CREDS
 msgctxt "STRINGS.FORMATS.PLUS_CREDS"
 msgid "+{1} CR"
-msgstr "クレジット+{1}"
+msgstr "+{1} CR"
 
 #: STRINGS.FORMATS.PLUS_PWR
 msgctxt "STRINGS.FORMATS.PLUS_PWR"
@@ -4051,7 +4051,7 @@ msgstr "{1}パワー"
 #: STRINGS.FORMATS.REP
 msgctxt "STRINGS.FORMATS.REP"
 msgid "{1} REP"
-msgstr "{1}_REP"
+msgstr "{1} REP"
 
 #: STRINGS.GENDER_CONTEXT.female.He
 msgctxt "STRINGS.GENDER_CONTEXT.female.He"
@@ -8311,7 +8311,7 @@ msgstr "インコグニータにアクセス"
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CAMERA_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CAMERA_SUBTEXT"
 msgid "HOTKEY: <c:FF8411>[ SPACE ]</>"
-msgstr "ホットキー：<c:FF8411>[スペース]</>"
+msgstr "ホットキー：<c:FF8411>[ スペース ]</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CONSOLE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CONSOLE"
@@ -8361,7 +8361,7 @@ msgstr "行動値の回復"
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_END_TURN_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_END_TURN_SUBTEXT"
 msgid "HOTKEY: <c:FF8411>[ ENTER ]</>"
-msgstr "ホットキー：<c:FF8411>[エンター]</>"
+msgstr "ホットキー：<c:FF8411>[ エンター ]</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_EXIT_MAINFRAME
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_EXIT_MAINFRAME"
@@ -8386,7 +8386,7 @@ msgstr "ファイヤーウォールを検出"
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_HACK_CAMERA_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_HACK_CAMERA_SUBTEXT"
 msgid "HACK: <c:FF8411>[ LEFT CLICK ]</>"
-msgstr "ハッキング：<c:FF8411>[左クリック]</>"
+msgstr "ハッキング：<c:FF8411>[ 左クリック ]</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_KNOCK_OUT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_KNOCK_OUT"
@@ -8406,7 +8406,7 @@ msgstr "敵の行動中に攻撃"
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_MOVE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_MOVE"
 msgid "MOVE AGENT: <c:FF8411>[ RIGHT CLICK ]</>"
-msgstr "移動：<c:FF8411>[右クリック]</>"
+msgstr "移動：<c:FF8411>[ 右クリック ]</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_OPEN_DOOR
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_OPEN_DOOR"
@@ -8431,7 +8431,7 @@ msgstr "状態： 気絶"
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_SELECT_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_SELECT_SUBTEXT"
 msgid "SELECT: <c:FF8411>[ LEFT CLICK ]</>"
-msgstr "選択：<c:FF8411>[左クリック]</>"
+msgstr "選択：<c:FF8411>[ 左クリック ]</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_SHUT_THE_DOOR
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_SHUT_THE_DOOR"
@@ -11021,7 +11021,7 @@ msgstr "施設データベース"
 #: STRINGS.PROPS.MINI_SERVER_TERMINAL
 msgctxt "STRINGS.PROPS.MINI_SERVER_TERMINAL"
 msgid "Secondary Server Terminal"
-msgstr "二次サーバー端末"
+msgstr "副次サーバー端末"
 
 #: STRINGS.PROPS.NOTE
 msgctxt "STRINGS.PROPS.NOTE"
@@ -12206,7 +12206,7 @@ msgstr "再起動中"
 #: STRINGS.SCREENS.STR_2928263650
 msgctxt "STRINGS.SCREENS.STR_2928263650"
 msgid "[ CLICK ] or press [ ENTER ] to continue"
-msgstr "[クリック]か[エンター]で続ける"
+msgstr "[ クリック ]か[ エンター ]で続ける"
 
 #: STRINGS.SCREENS.STR_2932151109
 msgctxt "STRINGS.SCREENS.STR_2932151109"
@@ -12536,7 +12536,7 @@ msgstr "壁の透明化を切り替える"
 #: STRINGS.SCREENS.STR_3854504565
 msgctxt "STRINGS.SCREENS.STR_3854504565"
 msgid "Retry the level with a new randomly generated layout"
-msgstr "この面を新しいステージでやり直す"
+msgstr "このステージを新しくランダムに生成されレたイアウトでやり直す"
 
 #: STRINGS.SCREENS.STR_3865231756
 msgctxt "STRINGS.SCREENS.STR_3865231756"
@@ -14121,7 +14121,7 @@ msgstr ""
 #: STRINGS.UI.DIFFICULTY_FORMAT
 msgctxt "STRINGS.UI.DIFFICULTY_FORMAT"
 msgid "{1} Difficulty"
-msgstr "難易度 {1}"
+msgstr "{1}難度"
 
 #: STRINGS.UI.DIFFICULTY_OMNI
 msgctxt "STRINGS.UI.DIFFICULTY_OMNI"
@@ -14131,7 +14131,7 @@ msgstr ""
 #: STRINGS.UI.DIFFICULTY_STR
 msgctxt "STRINGS.UI.DIFFICULTY_STR"
 msgid "Difficulty"
-msgstr "難易度"
+msgstr "難度"
 
 #: STRINGS.UI.DIFF_OPTION_ALARM
 msgctxt "STRINGS.UI.DIFF_OPTION_ALARM"
@@ -15241,7 +15241,7 @@ msgstr "キャンセル"
 #: STRINGS.UI.HUD_CANCEL_TT
 msgctxt "STRINGS.UI.HUD_CANCEL_TT"
 msgid "CANCEL: <tthotkey>[ RIGHT CLICK ]</>"
-msgstr "<tthotkey>[右クリック]</>でキャンセル"
+msgstr "<tthotkey>[ 右クリック ]</>でキャンセル"
 
 #: STRINGS.UI.HUD_CONFIRM_ABILITY
 msgctxt "STRINGS.UI.HUD_CONFIRM_ABILITY"
@@ -16426,7 +16426,7 @@ msgstr "インベントリなし_"
 #: STRINGS.UI.REASON.CANT_CLOAK_IN_VISION
 msgctxt "STRINGS.UI.REASON.CANT_CLOAK_IN_VISION"
 msgid "Can't cloak in enemy vision with Cloak I."
-msgstr "光学迷彩Iでは敵視認下において起動できない_"
+msgstr "光学迷彩Iは敵視認下において起動できない。"
 
 #: STRINGS.UI.REASON.CANT_DROP
 msgctxt "STRINGS.UI.REASON.CANT_DROP"
