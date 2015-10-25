@@ -16261,7 +16261,7 @@ msgstr "はじめたばかりのプレイヤー向け"
 #: STRINGS.UI.NOTICED
 msgctxt "STRINGS.UI.NOTICED"
 msgid "NOTICED"
-msgstr "察知"
+msgstr "被察知"
 
 #: STRINGS.UI.NOTICED_TT
 msgctxt "STRINGS.UI.NOTICED_TT"
@@ -16271,7 +16271,7 @@ msgstr "この場所は敵から察知される。"
 #: STRINGS.UI.NOT_PAID
 msgctxt "STRINGS.UI.NOT_PAID"
 msgid "NOT_PAID"
-msgstr "不払い_"
+msgstr "未払い"
 
 #: STRINGS.UI.NO_BONUS
 msgctxt "STRINGS.UI.NO_BONUS"
@@ -16306,7 +16306,7 @@ msgstr ""
 #: STRINGS.UI.PRERELEASE_COMPAT_NO
 msgctxt "STRINGS.UI.PRERELEASE_COMPAT_NO"
 msgid "Start Fresh"
-msgstr "Fresh_開始"
+msgstr "フレッシュを開始"
 
 #: STRINGS.UI.PRERELEASE_COMPAT_TITLE
 msgctxt "STRINGS.UI.PRERELEASE_COMPAT_TITLE"
@@ -16366,7 +16366,7 @@ msgstr "すでにハックされている"
 #: STRINGS.UI.REASON.ALREADY_PRIMED
 msgctxt "STRINGS.UI.REASON.ALREADY_PRIMED"
 msgid "ALREADY PRIMED"
-msgstr "すでに刺激されている_"
+msgstr "刺激済み"
 
 #: STRINGS.UI.REASON.ALREADY_TRAPPED
 msgctxt "STRINGS.UI.REASON.ALREADY_TRAPPED"
@@ -16421,7 +16421,7 @@ msgstr "チームを放棄できない！"
 #: STRINGS.UI.REASON.CANT_CARRY
 msgctxt "STRINGS.UI.REASON.CANT_CARRY"
 msgid "No inventory"
-msgstr "インベントリなし_"
+msgstr "インベントリなし"
 
 #: STRINGS.UI.REASON.CANT_CLOAK_IN_VISION
 msgctxt "STRINGS.UI.REASON.CANT_CLOAK_IN_VISION"
@@ -16931,7 +16931,7 @@ msgstr "ミッション再生成"
 #: STRINGS.UI.SAVESLOTS.SEE_PATCHNOTES
 msgctxt "STRINGS.UI.SAVESLOTS.SEE_PATCHNOTES"
 msgid "READ MORE"
-msgstr "さらに_"
+msgstr "続きを読む"
 
 #: STRINGS.UI.SAVESLOTS.STORY_MODE
 msgctxt "STRINGS.UI.SAVESLOTS.STORY_MODE"
@@ -17116,7 +17116,7 @@ msgstr "ネコはネコの居場所にいる。"
 #: STRINGS.UI.SMALLCATSHOP_BUYBACK.1
 msgctxt "STRINGS.UI.SMALLCATSHOP_BUYBACK.1"
 msgid "RETURN PROCESSED."
-msgstr "返品処理中。"
+msgstr "返品処理完了。"
 
 #: STRINGS.UI.SMALLCATSHOP_OPEN.1
 msgctxt "STRINGS.UI.SMALLCATSHOP_OPEN.1"
@@ -17401,7 +17401,7 @@ msgstr "このユニットが死ぬと警報が上昇する。"
 #: STRINGS.UI.TOOLTIPS.HEAVY_ARMOR
 msgctxt "STRINGS.UI.TOOLTIPS.HEAVY_ARMOR"
 msgid "HEAVY ARMOR %d"
-msgstr "重装甲 %d"
+msgstr "重装甲%d"
 
 #: STRINGS.UI.TOOLTIPS.HEAVY_ARMOR_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.HEAVY_ARMOR_DESC"
@@ -17441,7 +17441,7 @@ msgstr "KOダメージは効果がない。"
 #: STRINGS.UI.TOOLTIPS.KO_RESISTANT
 msgctxt "STRINGS.UI.TOOLTIPS.KO_RESISTANT"
 msgid "KO RESISTANT %d"
-msgstr "KO抵抗性 %d"
+msgstr "KO抵抗性%d"
 
 #: STRINGS.UI.TOOLTIPS.KO_RESISTANT_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.KO_RESISTANT_DESC"
@@ -17476,7 +17476,7 @@ msgstr "デーモン・プログラム"
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_GRID
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_GRID"
 msgid "%s GRID"
-msgstr "%s_グリッド"
+msgstr "%sグリッド"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_HACK_UNIT
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_HACK_UNIT"
@@ -17531,7 +17531,7 @@ msgstr "再起動中…"
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_TARGET_UNIT
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_TARGET_UNIT"
 msgid "TARGET {1}"
-msgstr "対象_{1}"
+msgstr "対象{1}"
 
 #: STRINGS.UI.TOOLTIPS.NEURAL_SCANNED
 msgctxt "STRINGS.UI.TOOLTIPS.NEURAL_SCANNED"
@@ -17591,7 +17591,7 @@ msgstr "<c:A30000>{1}でのみ運べる</>"
 #: STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS
 msgctxt "STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS"
 msgid "PROTECTIVE SHIELDS %d"
-msgstr "保護シールド %d"
+msgstr "保護シールド%d"
 
 #: STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS_DESC"
@@ -17661,7 +17661,7 @@ msgstr "盗む"
 #: STRINGS.UI.TOOLTIPS.STEAL_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.STEAL_DESC"
 msgid "Steal credits from logged in accounts at the cost of raising the alarm."
-msgstr "ログイン済みのアカウントからクレジットを盗む代償に、警報が上が。る"
+msgstr "ログイン済みのアカウントからクレジットを盗む代償に、警報が上がる。"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR"
