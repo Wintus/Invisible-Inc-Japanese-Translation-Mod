@@ -13491,7 +13491,7 @@ msgstr "企業はエンフォーサーを{1}人呼んだ。また警備は{2}人
 #: STRINGS.UI.ALARM_FIREWALLS
 msgctxt "STRINGS.UI.ALARM_FIREWALLS"
 msgid "The corporation has installed firewall upgrades. All firewalls have increased in strength by +%d"
-msgstr "企業はファイヤーウォール・アップグレードをインストールした。\n全ファイヤーウォールが+%d上昇した"
+msgstr "企業はファイヤーウォール・アップグレードをインストールした。\n全ファイヤーウォールが%d上昇した"
 
 #: STRINGS.UI.ALARM_GUARD_BODY
 msgctxt "STRINGS.UI.ALARM_GUARD_BODY"
@@ -16856,7 +16856,7 @@ msgstr "残り巻き戻し回数：{1}"
 #: STRINGS.UI.REWIND_CONFIRM
 msgctxt "STRINGS.UI.REWIND_CONFIRM"
 msgid "REWIND"
-msgstr "巻き戻し"
+msgstr "巻き戻す"
 
 #: STRINGS.UI.REWIND_GAME_OVER
 msgctxt "STRINGS.UI.REWIND_GAME_OVER"
@@ -17356,7 +17356,7 @@ msgstr "ファイヤーウォール：%d"
 #: STRINGS.UI.TOOLTIPS.FIREWALLS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.FIREWALLS_DESC"
 msgid "Use INCOGNITA PROGRAMS to break."
-msgstr "インコグニータのプログラムを使用して破壊する。"
+msgstr "インコグニータのプログラムを使用して侵入する。"
 
 #: STRINGS.UI.TOOLTIPS.FOCUSED_AI
 msgctxt "STRINGS.UI.TOOLTIPS.FOCUSED_AI"
