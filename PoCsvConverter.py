@@ -4,8 +4,8 @@ import csv
 import re
 
 # constants
-po_file_pass = 'Japanese/japanese.po'
-csv_file_pass = 'japanese.csv'
+po_file_pass = 'Japanese/Japanese.po'
+csv_file_pass = 'Japanese.csv'
 
 comment = '#:'
 msgctxt = 'msgctxt'
