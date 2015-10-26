@@ -17801,7 +17801,7 @@ msgstr "すでに最大数のメインフレーム・プログラムを持って
 #: STRINGS.UI.TOOLTIP_REQUIRES_SKILL_LVL
 msgctxt "STRINGS.UI.TOOLTIP_REQUIRES_SKILL_LVL"
 msgid "Requires %s Skill Level %d"
-msgstr "レベル%dのスキル%sが必要"
+msgstr "レベル%dの%sスキルが必要"
 
 #: STRINGS.UI.TOOLTIP_SCANNER
 msgctxt "STRINGS.UI.TOOLTIP_SCANNER"
