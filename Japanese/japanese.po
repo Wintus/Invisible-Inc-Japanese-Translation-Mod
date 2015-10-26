@@ -17336,7 +17336,7 @@ msgstr "EMP脆弱性"
 #: STRINGS.UI.TOOLTIPS.EMP_VULNERABLE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.EMP_VULNERABLE_DESC"
 msgid "EMP effects destroy this unit's delicate electronics permanently."
-msgstr "EMPはこのユニットの脆弱な電子機器を永久\nに破壊する。"
+msgstr "EMPはこのユニットの脆弱な電子機器を永久に\n破壊する。"
 
 #: STRINGS.UI.TOOLTIPS.ENCUMBERED
 msgctxt "STRINGS.UI.TOOLTIPS.ENCUMBERED"
@@ -17356,7 +17356,7 @@ msgstr "ファイヤーウォール：%d"
 #: STRINGS.UI.TOOLTIPS.FIREWALLS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.FIREWALLS_DESC"
 msgid "Use INCOGNITA PROGRAMS to break."
-msgstr "インコグニータのプログラムを使用して侵入\nする。"
+msgstr "インコグニータのプログラムを使用して侵入する。"
 
 #: STRINGS.UI.TOOLTIPS.FOCUSED_AI
 msgctxt "STRINGS.UI.TOOLTIPS.FOCUSED_AI"
@@ -17366,7 +17366,7 @@ msgstr "集中AI"
 #: STRINGS.UI.TOOLTIPS.FOCUSED_AI_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.FOCUSED_AI_DESC"
 msgid "This unit will not be distracted from it's patrols or hunts."
-msgstr "このユニットは巡回は追跡から気を逸らされ\nない。"
+msgstr "このユニットは巡回は追跡から気を逸らされない。"
 
 #: STRINGS.UI.TOOLTIPS.GRENADE_GUARD
 msgctxt "STRINGS.UI.TOOLTIPS.GRENADE_GUARD"
@@ -17376,7 +17376,7 @@ msgstr "補助警備員"
 #: STRINGS.UI.TOOLTIPS.GRENADE_GUARD_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.GRENADE_GUARD_DESC"
 msgid "This unit clears rooms with flash grenades."
-msgstr "このユニットは部屋を閃光手榴弾で\nクリアリングする。"
+msgstr "このユニットは部屋を閃光手榴弾でクリアリング\nする。"
 
 #: STRINGS.UI.TOOLTIPS.HACK
 msgctxt "STRINGS.UI.TOOLTIPS.HACK"
@@ -17386,7 +17386,7 @@ msgstr "ハッキング"
 #: STRINGS.UI.TOOLTIPS.HACK_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.HACK_DESC"
 msgid "Hack in mainframe mode to earn credits. Refreshes every turn."
-msgstr "メインフレーム・モードでハックして\nクレジットを稼ぐ。毎ターン使用できる。"
+msgstr "メインフレーム・モードでハックしてクレジット\nを稼ぐ。毎ターン使用できる。"
 
 #: STRINGS.UI.TOOLTIPS.HEART_MONITOR
 msgctxt "STRINGS.UI.TOOLTIPS.HEART_MONITOR"
@@ -17416,7 +17416,7 @@ msgstr "適応硬化"
 #: STRINGS.UI.TOOLTIPS.KO_ARMOR_BUFF_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.KO_ARMOR_BUFF_DESC"
 msgid "Each time this unit is KOed or alerted its ARMOR increases by {1}."
-msgstr "このユニットがKOされるか警戒するごとに\n装甲値が{1}上昇する。"
+msgstr "このユニットがKOされるか警戒するごとに装甲\n値が{1}上昇する。"
 
 #: STRINGS.UI.TOOLTIPS.KO_DEAMON
 msgctxt "STRINGS.UI.TOOLTIPS.KO_DEAMON"
@@ -17541,7 +17541,7 @@ msgstr "神経スキャン済み"
 #: STRINGS.UI.TOOLTIPS.NEURAL_SCANNED_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.NEURAL_SCANNED_DESC"
 msgid "This unit has already been neurally scanned."
-msgstr "このユニットはすでに神経スキャンされて\nいる。"
+msgstr "このユニットはすでに神経スキャンされている。"
 
 #: STRINGS.UI.TOOLTIPS.NOT_INSTALLED
 msgctxt "STRINGS.UI.TOOLTIPS.NOT_INSTALLED"
@@ -17606,7 +17606,7 @@ msgstr "パルス・スキャナー"
 #: STRINGS.UI.TOOLTIPS.PULSE_SCANNER_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.PULSE_SCANNER_DESC"
 msgid "Activated at the beginning of a turn. Targets located in or out of cover are relayed to nearby security. Range: {1}"
-msgstr "ターン開始時にアクティブ化。遮蔽内外の対象\nの位置は近くの警備へと伝達される。範囲：{1}"
+msgstr "ターン開始時にアクティブ化。遮蔽内外の対象の\n位置は近くの警備へと伝達される。範囲：{1}"
 
 #: STRINGS.UI.TOOLTIPS.PWR_STEAL
 msgctxt "STRINGS.UI.TOOLTIPS.PWR_STEAL"
@@ -17661,7 +17661,7 @@ msgstr "盗む"
 #: STRINGS.UI.TOOLTIPS.STEAL_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.STEAL_DESC"
 msgid "Steal credits from logged in accounts at the cost of raising the alarm."
-msgstr "ログイン済みのアカウントからクレジットを\n盗む代償に、警報が上がる。"
+msgstr "ログイン済みのアカウントからクレジットを盗む\n代償に、警報が上がる。"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR"
