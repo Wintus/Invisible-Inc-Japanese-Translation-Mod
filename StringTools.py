@@ -111,7 +111,7 @@ def wrapper(string, n):
 from tinysegmenter import TinySegmenter
 
 
-def wrapper_jp(string, width):
+def wrapper_jp(string, width, newline=' '):
     """Japanese string with newline wrapping function"""
     segmenter = TinySegmenter()
     tokens = segmenter.tokenize(string)
@@ -124,13 +124,13 @@ def wrapper_jp(string, width):
         while token_remain() and len(line + tokens[0]) <= width:
             line += tokens.pop(0)
         else:
-            result += line + ('\n' if token_remain() else '')
+            result += line + (newline if token_remain() else '')
     # print(result)
     return result
 
 
 @str_save
-def wrapper_jp_with_newline(string, width, newline='\n'):
+def wrapper_jp_with_newline(string, width, newline=' '):
     str_list = string.split(newline)
     return newline.join(map(lambda s: wrapper_jp(s, width), str_list))
 
