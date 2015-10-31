@@ -7,6 +7,9 @@ import re
 po_file_pass = 'Japanese/Japanese.po'
 csv_file_pass = 'Japanese.csv'
 
+application = ""
+version = ""
+
 comment = '#:'
 msgctxt = 'msgctxt'
 msgid = 'msgid'
