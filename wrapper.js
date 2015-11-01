@@ -9,7 +9,7 @@ $(function() {
 	$('#width').val(min * 2);
 });
 
-function jp_wrap(string, width, separator) {
+function chunkJp(string, width) {
 	var segmenter = new TinySegmenter(); // インスタンス生成
 	var segs = segmenter.segment(string); // 単語の配列が返る
 	// console.log(segs.join(" | ")); // 表示
@@ -24,13 +24,17 @@ function jp_wrap(string, width, separator) {
 		}
 		lines.push(line);
 	}
-	return lines.join(separator);
+	return lines;
+}
+
+function wrapJp(string, width, separator) {
+	return chunkJp(string, width).join(separator);
 }
 /*
 $(function() {
 	var width = 5;
 	console.log("width: " + width);
-	console.log(jp_wrap("TSを使った日本語の自動改行のテスト。", width, '\n'));
+	console.log(wrapJp("TSを使った日本語の自動改行のテスト。", width, '\n'));
 });
 */
 function splitBy(string, separator) {
@@ -56,14 +60,19 @@ $(function() {
 		var input = $('#input').val();
 		var strs = input.split("\\n");
 		var width = parseInt($('#width').val());
+
+		var jp = $('input[name=jp_wrap]:checked').val() === '1';
+		var wrap = jp ? chunkJp : chunkString;
+
 		strs = $.map(strs, function(str, _) {
-			var s = chunkString(str, width);
+			var s = wrap(str, width);
 			return Array(s);
 		});
 		var result = $.map(strs, function(str, _) {
 			return joinBy(str, ' ');
 		}).join('\\n');
 		$('#output').text(result);
+
 		var br = "<br>";
 		$('#result').html(
 			joinBy(
