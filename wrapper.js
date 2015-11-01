@@ -17,9 +17,8 @@ function chunkJp(string, width) {
 		line, len;
 	while (segs.length > 0) {
 		line = '';
-		len = segs[0].length;
-		width = Math.max(width, len);
-		while (segs.length > 0 && line.length + len <= width) {
+		while (segs.length > 0 && line.length + segs[0].length <= width) {
+			width = Math.max(width, segs[0].length);
 			line += segs.shift();
 		}
 		lines.push(line);
