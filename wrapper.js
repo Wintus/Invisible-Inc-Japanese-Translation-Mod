@@ -71,4 +71,5 @@ $(function() {
 					return joinBy(str, br);
 				}), br));
 	});
+	$('#btn').click();
 });
