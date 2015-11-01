@@ -12,13 +12,12 @@ $(function() {
 function chunkJp(string, width) {
 	var segmenter = new TinySegmenter(); // インスタンス生成
 	var segs = segmenter.segment(string); // 単語の配列が返る
-	// console.log(segs.join(" | ")); // 表示
 	var lines = [],
 		line, len;
 	while (segs.length > 0) {
 		line = '';
 		while (segs.length > 0 && line.length + segs[0].length <= width) {
-			width = Math.max(width, segs[0].length);
+			width = Math.max(width, segs[0].length); // avoid infinit loop
 			line += segs.shift();
 		}
 		lines.push(line);
@@ -29,13 +28,7 @@ function chunkJp(string, width) {
 function wrapJp(string, width, separator) {
 	return chunkJp(string, width).join(separator);
 }
-/*
-$(function() {
-	var width = 5;
-	console.log("width: " + width);
-	console.log(wrapJp("TSを使った日本語の自動改行のテスト。", width, '\n'));
-});
-*/
+
 function splitBy(string, separator) {
 	return string.split(separator);
 }
