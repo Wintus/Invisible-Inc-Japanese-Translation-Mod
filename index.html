@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>自動改行</title>
+		<style type="text/css" media="screen">
+			body {
+				font-family: monospace;
+			}
+			.out {
+				float: left;
+				padding-right: 3em;
+			}
+		</style>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+		<script type="text/javascript" src="./wrapper.js"></script>
+		<script type="text/javascript" src="tiny_segmenter.js" charset="UTF-8"></script>
+	</head>
+	<body>
+		<h1>自動改行</h1>
+		<p>
+			説明：<br>
+			1. 折り返し幅を選択。<br>
+			2. 上の欄に元テキストを入力。<br>
+			3. 「変換」ボタンを押下。<br>
+			4. 下の欄に出力。
+		</p>
+		<hr>
+		<p>
+			<h2>文字数： &nbsp;</h2>
+			<select id="width" name="wrap_width">
+			</select>
+		</p>
+		<p>
+			<h2>入力</h2>
+			<textarea id="input" rows="8" cols="50"></textarea>
+		</p>
+		<p>
+			<button id="btn">↓ 変換 ↓</button>
+		</p>
+		<div class="out">
+			<p>
+				<h2>出力</h2>
+				(半角Space挿入)<br>
+				<p>
+					<textarea id="output" rows="8" cols="50"></textarea><br>
+				</p>
+				<br>
+			</p>
+		</div>
+		<div class="out">
+			<p>
+				<h2>見た目</h2>
+				(スクリーン上の見た目)<br>
+				<p id="result"></p>
+			</p>
+		</div>
+	</body>
+</html>
