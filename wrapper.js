@@ -1,3 +1,5 @@
+'use strict'
+
 $(function() {
 	var min = 8,
 		max = 50;
