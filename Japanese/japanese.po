@@ -1,13 +1,6 @@
 "Application: Invisible Inc."
 "POT Version: 2.0"
 
-# _は修正予定
-# max:      27 char
-# disc:     22 char
-# flavor:   20 char
-# Tips:     24 char
-# Bio:      21 char
-
 #: STRINGS.ABILITIES.ACCESS_BANK
 msgctxt "STRINGS.ABILITIES.ACCESS_BANK"
 msgid "Access Bank Account"

@@ -1,0 +1,22 @@
+widths:
+
+ALARM_FIREWALLS          = 35
+augments_flavor          = 21
+augments_tips            = 21
+bio                      = 21
+daemons_short_desc       = 22
+desc                     = 22
+flavor                   = 20
+ITEMS.KEYWORDS._.DESC    = 21
+ITEMS_FLAVOR             = 21
+ITEMS_TOOLTIP            = 21
+program_desc             = 18
+prologue                 = 41
+props_tooltip            = 20
+STR_875667211            = 25
+tips                     = 24
+tooltip                  = 22
+tooltips_by_icon         = 21
+UI.TOOLTIPS_DESC         = 22 << CHANGED!!
+UI.ALARM_INSTALL_FIRST_2 = 41
+ui_confirm               = 23
