@@ -20,19 +20,19 @@
 ##訳語一覧
 | English				| 日本語				|
 |:---					|:---				|
-| active / inactive			| アクティブ・非アクティブ
+| active / inactive		| アクティブ・非アクティブ
 | advanced				| 高度な、発展型
 | agency				| 機関
 | alarm					| 警報
 | alarm level			| 警報レベル
 | armor					| 装甲
-| augmentations		| 拡張機能
+| augmentations			| 拡張機能
 | augments				| 強化
 | ballistic armor		| 防弾装甲
 | blunt trauma armor	| 防刃装甲
 | body					| 肢体
 | boost					| ブースト
-| buff / debuff				| 強化・弱体化
+| buff / debuff			| 強化・弱体化
 | campaign				| 作戦
 | control				| 制御
 | corpse				| 死体
@@ -43,7 +43,7 @@
 | dispatch				| 急送
 | disrupter				| スタンガン
 | distract				| 気を逸らす
-| distraction noise			| 妨害ノイズ
+| distraction noise		| 妨害ノイズ
 | drag					| 牽引する
 | encumbered			| 速度低下した
 | enhance				| 増強する
@@ -62,9 +62,9 @@
 | refurbished			| リユース品の
 | rig					| 儀装 / 装備
 | security				| 保安・セキュリティー
-| security level			| 警戒レベル
+| security level		| 警戒レベル
 | short-circuit			| ショートさせる
-| siphon					| 吸い取る
+| siphon				| 吸い取る
 | spawn					| 発生させる
 | target				| 対象 / 標的
 | transmission			| 通信
